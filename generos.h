@@ -4,7 +4,6 @@
 
 // Lista de Músicas
 typedef struct mus {
-    int ano;
     char nome[40];
     char album[40];
     struct mus *prox;
@@ -20,6 +19,7 @@ typedef struct no1 {
     char integrantes[200];
     Musica *listaMusicas; // Ponteiro para a lista encadeada de músicas
     struct no1 *prox;
+    struct no1 *ant;
 } Artista;
 
 // Lista Duplamente Encadeada de Gêneros 
@@ -47,6 +47,10 @@ int contarGeneros(ListaGeneros *l);
 void destruirLista(ListaGeneros *l);
 
 //Funções Artistas
-void inserirArtista()
+void inserirArtista(ListaGeneros *l, char nomeGenero[], Artista dados);
+void removerArtista(ListaGeneros *l, char nomeGenero[]);
+Artista *buscarArtista(ListaGeneros *l, char nomeGenero[], char nomeArtista[]);
+void alterarArtista(ListaGeneros *l, char nomeAntigo[], char nomeNovo[], char dadoAlterado[]);
+
 
 #endif
