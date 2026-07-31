@@ -1,42 +1,20 @@
+#ifndef GENEROS_H
+#define GENEROS_H
+
 #include <stdbool.h>
-#ifndef _GENEROS_H
-#define _GENEROS_H
 
-// Lista de Músicas
-typedef struct mus {
-    char nome[40];
-    char album[40];
-    struct mus *prox;
-} Musica;
 
-// Lista de Artistas
-typedef struct no1 {
-    char nome[30];
-    char cidadeOrigem[30];
-    int anosAtuacao;
-    bool aindaAtua;
-    int premiacoes;
-    char integrantes[200];
-    Musica *listaMusicas; // Ponteiro para a lista encadeada de músicas
-    struct no1 *prox;
-    struct no1 *ant;
-} Artista;
+typedef struct mus Musica;
+typedef struct no1 Artista;
+typedef struct no Genero;
 
-// Lista Duplamente Encadeada de Gêneros 
-typedef struct no {
-    char nome[15];
-    struct no *ant;
-    struct no *prox;
-    Artista *listaArtistas; // Ponteiro para a lista encadeada de artistas
-} Genero;
 
-// No Descritor Para Gêneros
-typedef struct lista{
+typedef struct lista {
     Genero *ini;
 } ListaGeneros;
 
 
-// Funções Gêneros 
+// FUNÇÕES DA 1ª LISTA (GÊNEROS)
 void inicializarLista(ListaGeneros *l);
 void inserirGenero(ListaGeneros *l, char nome[]);
 Genero *buscarGenero(ListaGeneros *l, char nome[]);
@@ -44,13 +22,24 @@ void alterarGenero(ListaGeneros *l, char nomeAntigo[], char nomeNovo[]);
 void removerGenero(ListaGeneros *l, char nome[]);
 void listarGeneros(ListaGeneros *l);
 int contarGeneros(ListaGeneros *l);
-void destruirLista(ListaGeneros *l);
-
-//Funções Artistas
-void inserirArtista(ListaGeneros *l, char nomeGenero[], Artista dados);
-void removerArtista(ListaGeneros *l, char nomeGenero[]);
+void destruirListaGeneros(ListaGeneros *l);
+ 
+ 
+// FUNÇÕES DA 2ª LISTA (ARTISTAS)
+void inserirArtista(ListaGeneros *l, char nomeGenero[], char nome[], char cidadeOrigem[], int anosAtuacao, bool aindaAtua, int premiacoes, char integrantes[]);
 Artista *buscarArtista(ListaGeneros *l, char nomeGenero[], char nomeArtista[]);
-void alterarArtista(ListaGeneros *l, char nomeAntigo[], char nomeNovo[], char dadoAlterado[]);
+void removerArtista(ListaGeneros *l, char nomeGenero[], char nomeArtista[]);
+void listarArtistas(ListaGeneros *l, char nomeGenero[]);
+int contarArtistas(ListaGeneros *l, char nomeGenero[]);
+void inserirMusica(Artista *art, char nome[], char album[]);
+void listarMusicasDoArtista(Artista *art);
 
+// Alterações Individuais
+void alterarNomeArtista(Artista *art, char novoNome[]);
+void alterarCidadeArtista(Artista *art, char novaCidade[]);
+void alterarAnosAtuacao(Artista *art, int novosAnos);
+void alterarStatusAtuacao(Artista *art, bool aindaAtua);
+void alterarPremiacoes(Artista *art, int novasPremiacoes);
+void alterarIntegrantes(Artista *art, char novosIntegrantes[]);
 
 #endif
