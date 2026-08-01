@@ -42,4 +42,11 @@ void alterarStatusAtuacao(Artista *art, bool aindaAtua);
 void alterarPremiacoes(Artista *art, int novasPremiacoes);
 void alterarIntegrantes(Artista *art, char novosIntegrantes[]);
 
+// FUNÇÕES ADICIONAIS
+void contabilizarArtistasPorGenero(ListaGeneros *l);
+void buscarArtistasEmMultiplosGeneros(ListaGeneros *l);
+void ordenarArtistasPorNome(ListaGeneros *l, char nomeGenero[]);
+void gerarRelatorioGeral(ListaGeneros *l);
+void gerarTop3Generos(ListaGeneros *l);
+void filtarNumeroPremios(ListaGeneros *l, char nomeGenero[], int numPremios);
 #endif
