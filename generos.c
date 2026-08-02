@@ -413,7 +413,7 @@ void buscarArtistasEmMultiplosGeneros(ListaGeneros *l){
                 while(a2 != NULL){
                     if(strcmp(a1->nome, a2->nome) == 0){
                         achou = true;
-                        printf("O artista '%s' está presente nos gêneros '%s' e '%s'", a1->nome, g1->nome, g2->nome);
+                        printf("O artista '%s' está presente nos gêneros '%s' e '%s'\n", a1->nome, g1->nome, g2->nome);
                     }
                     a2 = a2->prox;
                 }
@@ -506,31 +506,31 @@ void gerarRelatorioGeral(ListaGeneros *l){
     }
 
     printf("\n=======================================================\n");
-    printf("               RELATÓRIO GERAL DO SISTEMA              \n");
+    printf("               RELATORIO GERAL DO SISTEMA              \n");
     printf("=======================================================\n");
-    printf(" Total de Gêneros:  %d\n", totalG);
+    printf(" Total de Generos:  %d\n", totalG);
     printf(" Total de Artistas: %d\n", totalA);
-    printf(" Total de Músicas:  %d\n", totalM);
+    printf(" Total de Musicas:  %d\n", totalM);
     printf("-------------------------------------------------------\n");
 
     g = l->ini;
     while (g != NULL) {
-        printf("\n[GÊNERO]: %s\n", g->nome);
+        printf("\n[GENERO]: %s\n", g->nome);
         Artista *a = g->listaArtistas;
         if (a == NULL) {
-            printf("   (Sem artistas cadastrados)\n");
+            printf("(Sem artistas cadastrados)\n");
         }
 
         while (a != NULL) {
-            printf("   Artista: %s (Origem: %s | Anos: %d | Ativo: %s)\n",
-                   a->nome, a->cidadeOrigem, a->anosAtuacao, a->aindaAtua ? "Sim" : "Não");
+            printf("Artista: %s (Origem: %s | Anos: %d | Ativo: %s)\n",
+                   a->nome, a->cidadeOrigem, a->anosAtuacao, a->aindaAtua ? "Sim" : "Nao");
 
             Musica *m = a->listaMusicas;
             if (m == NULL) {
-                printf("  │   (Sem músicas cadastrais)\n");
+                printf("   (Sem musicas cadastrais)\n");
             }
             while (m != NULL) {
-                printf("  │   Músicas: %s (Álbum: %s)\n", m->nome, m->album);
+                printf("    Musicas: %s (Album: %s)\n", m->nome, m->album);
                 m = m->prox;
             }
             a = a->prox;
@@ -543,74 +543,79 @@ void gerarRelatorioGeral(ListaGeneros *l){
 // Ranquear generos por numero de artistas
 void gerarTop3Generos(ListaGeneros *l){
     int totalGeneros = contarGeneros(l);
-    if(l == NULL || l->ini == NULL || totalGeneros == 0){
+    if (l == NULL || l->ini == NULL || totalGeneros == 0){
         printf("Nenhum genero cadastrado\n");
         return;
     }
 
-    printf("\n === Top 3 Generos - por numero artistas ===\n");
+    printf("\n=== Top 3 Generos - por numero de artistas ===\n");
 
     int limite = 3;
-    if(totalGeneros < 3){
+    if (totalGeneros < 3){
         limite = totalGeneros;
     }
 
-    int maiorAnterior = 999999;
+    
+    Genero *selecionados[3] = {NULL, NULL, NULL};
 
-    for(int i = 0; i <= limite; i++){
+    for (int i = 0; i < limite; i++){
         Genero *maiorGen = NULL;
         int maxArtistas = -1;
 
-        for(Genero *atual = l->ini; atual != NULL; atual = atual->prox){
-            int qtd = contarArtistas(l, atual->nome);
+        for (Genero *atual = l->ini; atual != NULL; atual = atual->prox){
+            bool jaSelecionado = false;
+            for (int j = 0; j < i; j++){
+                if (selecionados[j] == atual){
+                    jaSelecionado = true;
+                    break;
+                }
+            }
+            if (jaSelecionado) continue;
 
-            if(qtd < maiorAnterior && qtd > maxArtistas){
+            int qtd = contarArtistas(l, atual->nome);
+            if (qtd > maxArtistas){
                 maxArtistas = qtd;
                 maiorGen = atual;
             }
         }
-        if(maiorGen != NULL){
-            printf("%d1º Lugar: %s -> %d artistas\n", i, maiorGen->nome, maxArtistas);
+
+        if (maiorGen != NULL){
+            selecionados[i] = maiorGen;
+            printf("%d Lugar: %s -> %d artista(s)\n", i + 1, maiorGen->nome, maxArtistas);
         }
     }
 }
 
 // Filtar artista por numero minimo premios
-void filtarNumeroPremios(ListaGeneros *l, char nomeGenero[], int numPremios){
-    if(l == NULL || l->ini == NULL){
-        printf("Nenhum genero cadastrado\n");
+void filtarNumeroPremios(ListaGeneros *l, char nomeGenero[], int numPremios) {
+    if (l == NULL || l->ini == NULL) {
+        printf("\nNenhum genero cadastrado.\n");
         return;
     }
-    printf("\n === Artistas com no minimo %d premiacoes ===\n", numPremios);
+
+    Genero *gen = buscarGenero(l, nomeGenero);
+    if (gen == NULL) {
+        printf("\nGenero '%s' nao encontrado.\n", nomeGenero);
+        return;
+    }
+
+    printf("\n=== Artistas de '%s' com no minimo %d premiacao(oes) ===\n", nomeGenero, numPremios);
     bool achou = false;
 
-    Genero *atual = l->ini;
-    Artista *ini = NULL;
-    while(atual != NULL){
-        if(strcmp(atual->nome, nomeGenero) == 0){
-            ini = atual->listaArtistas;
-            break;
+    Artista *atual = gen->listaArtistas;
+    while (atual != NULL) {
+        if (atual->premiacoes >= numPremios) {
+            printf("\nNome: %s | Cidade: %s | Anos: %d | Premios: %d | Ativo: %s | Integrantes: %s\n",
+                   atual->nome, atual->cidadeOrigem, atual->anosAtuacao,
+                   atual->premiacoes, atual->aindaAtua ? "Sim" : "Nao",
+                   atual->integrantes);
+            achou = true;
         }
         atual = atual->prox;
     }
-    if(ini == NULL){
-        printf("Genero nao encontrado\n");
-        return;
-    }
 
-    while(ini != NULL){
-        if(ini->premiacoes >= numPremios){
-            printf("\nNome: %s | Cidade: %s | Anos: %d | Premios: %d | Ativo: %s | Integrantes: %s\n",
-               ini->nome, ini->cidadeOrigem, ini->anosAtuacao,
-               ini->premiacoes, ini->aindaAtua ? "Sim" : "Nao",
-               ini->integrantes);
-               achou = 1;
-        }
-        ini = ini->prox;
-    }
-
-    if(!achou){
-        printf("Nnehum artista tem %d ou mais premiacoes\n", numPremios);
+    if (!achou) {
+        printf("Nenhum artista em '%s' possui %d ou mais premiacoes.\n", nomeGenero, numPremios);
     }
 }
 

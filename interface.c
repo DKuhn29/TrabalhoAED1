@@ -5,6 +5,19 @@
 #include "interface.h"
 #include "generos.h"
 
+
+#ifdef _WIN32
+    #include <windows.h>
+    #define LIMPAR_TELA() system("cls")
+#else
+    #define LIMPAR_TELA() system("clear")
+#endif
+
+void pausar(){
+    printf("\nPressione ENTER para continuar...");
+    getchar();
+}
+
 void lerString(char *buffer, int tamanho){
     fgets(buffer, tamanho, stdin);
     buffer[strcspn(buffer, "\n")] = '\0';
@@ -23,7 +36,7 @@ void menuAlterarArtista(ListaGeneros *l){
     Artista *art = buscarArtista(l, nomeGenero, nomeArtista);
 
     if (art == NULL){
-        printf("\n[x] Artista ou Genero nao encontrado!\n");
+        printf("\nArtista ou Genero nao encontrado!\n");
         return;
     }
 
@@ -90,68 +103,14 @@ void menuAlterarArtista(ListaGeneros *l){
         }
 
         case 6:{
-            char genNome[15], nomeArt[30], cidade[30], integrantes[200];
-            int anos, premios, ativoInt;
-
-            printf("Em qual Genero deseja cadastrar? ");
-            lerString(genNome, sizeof(genNome));
-
-            if (buscarGenero(l, genNome) == NULL){
-                printf("Genero '%s' nao foi encontrado!\n", genNome);
-                break;
-            }
-
-            printf("Nome do Artista/Banda: ");
-            lerString(nomeArt, sizeof(nomeArt));
-
-            printf("Cidade de Origem: ");
-            lerString(cidade, sizeof(cidade));
-
-            printf("Anos de Atuacao: ");
-            scanf("%d", &anos);
-            getchar();
-
-            printf("Ainda esta em atividade? (1 - Sim / 0 - Nao): ");
-            scanf("%d", &ativoInt);
-            getchar();
-
-            printf("Quantidade de Premiacoes: ");
-            scanf("%d", &premios);
-            getchar();
-
-            printf("Integrantes (separados por virgula): ");
-            lerString(integrantes, sizeof(integrantes));
-
-            inserirArtista(l, genNome, nomeArt, cidade, anos, ativoInt == 1, premios, integrantes);
-
-            Artista *artCriado = buscarArtista(l, genNome, nomeArt);
-
-            if (artCriado != NULL){
-                char resp;
-                printf("\nDeseja cadastrar musicas para %s? (s/n): ", nomeArt);
-                scanf("%c", &resp);
-                getchar();
-
-                while (resp == 's' || resp == 'S'){
-                    char nomeMusica[40], album[40];
-
-                    printf("\n--- Cadastrando Música ---\n");
-                    printf("Nome da musica: ");
-                    lerString(nomeMusica, sizeof(nomeMusica));
-
-                    printf("Nome do album: ");
-                    lerString(album, sizeof(album));
-
-                    inserirMusica(artCriado, nomeMusica, album);
-                    printf("-> Música '%s' cadastrada!\n", nomeMusica);
-
-                    printf("\nDeseja cadastrar OUTRA musica para %s? (s/n): ", nomeArt);
-                    scanf("%c", &resp);
-                    getchar();
-                }
-            }
+            char novosIntegrantes[200];
+            printf("Novos Integrantes (separados por virgula): ");
+            lerString(novosIntegrantes, sizeof(novosIntegrantes));
+            alterarIntegrantes(art, novosIntegrantes);
+            printf("-> Integrantes alterados com sucesso!\n");
             break;
         }
+
         case 0:
             printf("Finalizando alteracoes do artista.\n");
             break;
@@ -165,6 +124,7 @@ void executarMenuPrincipal(ListaGeneros *l){
     int opcao;
 
     do{
+        LIMPAR_TELA();
         printf("\n===================================\n");
         printf("       SISTEMA DE MUSICA - MENU     \n");
         printf("===================================\n");
@@ -180,6 +140,13 @@ void executarMenuPrincipal(ListaGeneros *l){
         printf("8. Alterar Dados de um Artista\n");
         printf("9. Remover Artista de um Genero\n");
         printf("10. Contar Artistas de um Genero\n");
+        printf("\n--- RELATORIOS E CONSULTAS --- \n");
+        printf("11. Contabilizar Artistas por Genero\n");
+        printf("12. Buscar Artistas em Multiplos Generos\n");
+        printf("13. Ordenar Artistas por Nome (Genero especifico)\n");
+        printf("14. Gerar Relatorio Geral do Sistema\n");
+        printf("15. Gerar Top 3 Generos\n");
+        printf("16. Filtrar Artistas por Quantidade de Premios\n");
         printf("\n0. Sair da aplicacao\n");
         printf("===================================\n");
         printf("Opcao: ");
@@ -307,6 +274,36 @@ void executarMenuPrincipal(ListaGeneros *l){
             printf("\nTotal de artistas em '%s': %d\n", genNome, contarArtistas(l, genNome));
             break;
         }
+        case 11:
+            contabilizarArtistasPorGenero(l);
+            break;
+        case 12:
+            buscarArtistasEmMultiplosGeneros(l);
+            break;
+        case 13:{
+            char genNome[15];
+            printf("Nome do Genero para ordenar: ");
+            lerString(genNome, sizeof(genNome));
+            ordenarArtistasPorNome(l, genNome);
+            break;
+        }
+        case 14:
+            gerarRelatorioGeral(l);
+            break;
+        case 15:
+            gerarTop3Generos(l);
+            break;
+        case 16:{
+            char genNome[15];
+            int premios;
+            printf("Nome do Genero: ");
+            lerString(genNome, sizeof(genNome));
+            printf("Quantidade minima de premios: ");
+            scanf("%d", &premios);
+            getchar();
+            filtarNumeroPremios(l, genNome, premios);
+            break;
+        }
         case 0:
             printf("\nEncerrando e liberando toda a memoria...\n");
             destruirListaGeneros(l);
@@ -314,6 +311,9 @@ void executarMenuPrincipal(ListaGeneros *l){
             break;
         default:
             printf("\nOpcao invalida! Tente novamente.\n");
+        }
+         if (opcao != 0){
+            pausar();
         }
     } while (opcao != 0);
 }
