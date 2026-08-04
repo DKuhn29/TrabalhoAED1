@@ -9,7 +9,7 @@ int main(){
     setlocale(LC_ALL, "Portuguese_Brazil.UTF8");
     ListaGeneros listaG;
     inicializarLista(&listaG);
-
+     carregarBancoDeDados(&listaG, "tex.txt");
     executarMenuPrincipal(&listaG);
 
     return 0;

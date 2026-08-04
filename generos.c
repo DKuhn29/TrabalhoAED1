@@ -525,14 +525,14 @@ void gerarRelatorioGeral(ListaGeneros *l){
             printf("Artista: %s (Origem: %s | Anos: %d | Ativo: %s)\n",
                    a->nome, a->cidadeOrigem, a->anosAtuacao, a->aindaAtua ? "Sim" : "Nao");
 
-            Musica *m = a->listaMusicas;
-            if (m == NULL) {
-                printf("   (Sem musicas cadastrais)\n");
-            }
-            while (m != NULL) {
-                printf("    Musicas: %s (Album: %s)\n", m->nome, m->album);
-                m = m->prox;
-            }
+            //Musica *m = a->listaMusicas;
+            //if (m == NULL) {
+            //    printf("   (Sem musicas cadastrais)\n");
+            //}
+            //while (m != NULL) {
+            //    printf("    Musicas: %s (Album: %s)\n", m->nome, m->album);
+            //    m = m->prox;
+            //}
             a = a->prox;
         }
         g = g->prox;
@@ -619,3 +619,46 @@ void filtarNumeroPremios(ListaGeneros *l, char nomeGenero[], int numPremios) {
     }
 }
 
+
+void carregarBancoDeDados(ListaGeneros *l, const char *nomeArquivo) {  
+    FILE *f = fopen(nomeArquivo, "r");
+    if (f == NULL) {
+        printf("Aviso: Arquivo '%s' nao encontrado. Iniciando lista vazia.\n", nomeArquivo);
+        return;
+    }
+
+    char linha[300];
+    char generoAtual[70] = "";
+    Artista *artistaAtual = NULL;
+
+    while (fgets(linha, sizeof(linha), f) != NULL) {
+        // Remove o \n do final da linha
+        linha[strcspn(linha, "\r\n")] = '\0';
+
+        if (strncmp(linha, "GENERO:", 7) == 0) {
+            strcpy(generoAtual, linha + 7);
+            if (buscarGenero(l, generoAtual) == NULL) {
+                inserirGenero(l, generoAtual);
+            }
+        }
+        else if (strncmp(linha, "ARTISTA:", 8) == 0) {
+            char nome[70], cidade[70], integrantes[200];
+            int anos, ativo, premios;
+
+            // Processa os dados do artista separados por '|'
+            sscanf(linha + 8, "%[^|]|Cidade:%[^|]|Anos:%d|Ativo:%d|Premios:%d|Integrantes:%[^\n]",
+                   nome, cidade, &anos, &ativo, &premios, integrantes);
+
+            inserirArtista(l, generoAtual, nome, cidade, anos, ativo == 1, premios, integrantes);
+            artistaAtual = buscarArtista(l, generoAtual, nome);
+        }
+        else if (strncmp(linha, "MUSICA:", 7) == 0 && artistaAtual != NULL) {
+            char nomeMusica[70], album[70];
+            sscanf(linha + 7, "%[^|]|ALBUM:%[^\n]", nomeMusica, album);
+            inserirMusica(artistaAtual, nomeMusica, album);
+        }
+    }
+
+    fclose(f);
+    printf("Banco de dados carregado com sucesso a partir de '%s'!\n", nomeArquivo);
+}

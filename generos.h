@@ -50,5 +50,5 @@ void gerarRelatorioGeral(ListaGeneros *l);
 void gerarTop3Generos(ListaGeneros *l);
 void filtarNumeroPremios(ListaGeneros *l, char nomeGenero[], int numPremios);
 
-
+void carregarBancoDeDados(ListaGeneros *l, const char *nomeArquivo);
 #endif
