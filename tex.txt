@@ -1,0 +1,3508 @@
+GENERO:Rock
+ARTISTA:The Strokes|Cidade:Nova York|Anos:26|Ativo:1|Premios:1|Integrantes:Julian Casablancas, Albert Hammond Jr., Nick Valensi, Nikolai Fraiture, Fabrizio Moretti
+MUSICA:Is This It|ALBUM:Is This It
+MUSICA:The Modern Age|ALBUM:Is This It
+MUSICA:Soma|ALBUM:Is This It
+MUSICA:Barely Legal|ALBUM:Is This It
+MUSICA:Someday|ALBUM:Is This It
+MUSICA:Alone, Together|ALBUM:Is This It
+MUSICA:Last Nite|ALBUM:Is This It
+MUSICA:Hard to Explain|ALBUM:Is This It
+MUSICA:New York City Cops|ALBUM:Is This It
+MUSICA:Trying Your Luck|ALBUM:Is This It
+MUSICA:Take It or Leave It|ALBUM:Is This It
+MUSICA:What Ever Happened?|ALBUM:Room on Fire
+MUSICA:Reptilia|ALBUM:Room on Fire
+MUSICA:Automatic Stop|ALBUM:Room on Fire
+MUSICA:12:51|ALBUM:Room on Fire
+MUSICA:You Talk Way Too Much|ALBUM:Room on Fire
+MUSICA:Between Love & Hate|ALBUM:Room on Fire
+MUSICA:Meet Me in the Bathroom|ALBUM:Room on Fire
+MUSICA:Under Control|ALBUM:Room on Fire
+MUSICA:The Way It Is|ALBUM:Room on Fire
+MUSICA:The End Has No End|ALBUM:Room on Fire
+MUSICA:I Can't Win|ALBUM:Room on Fire
+MUSICA:You Only Live Once|ALBUM:First Impressions of Earth
+MUSICA:Juicebox|ALBUM:First Impressions of Earth
+MUSICA:Heart in a Cage|ALBUM:First Impressions of Earth
+MUSICA:Razorblade|ALBUM:First Impressions of Earth
+MUSICA:On the Other Side|ALBUM:First Impressions of Earth
+MUSICA:Vision of Division|ALBUM:First Impressions of Earth
+MUSICA:Ask Me Anything|ALBUM:First Impressions of Earth
+MUSICA:Electricityscape|ALBUM:First Impressions of Earth
+MUSICA:Killing Lies|ALBUM:First Impressions of Earth
+MUSICA:Fear of Sleep|ALBUM:First Impressions of Earth
+MUSICA:15 Minutes|ALBUM:First Impressions of Earth
+MUSICA:Ize of the World|ALBUM:First Impressions of Earth
+MUSICA:Evening Sun|ALBUM:First Impressions of Earth
+MUSICA:Red Light|ALBUM:First Impressions of Earth
+MUSICA:Machu Picchu|ALBUM:Angles
+MUSICA:Under Cover of Darkness|ALBUM:Angles
+MUSICA:Two Kinds of Happiness|ALBUM:Angles
+MUSICA:You're So Right|ALBUM:Angles
+MUSICA:Taken for a Fool|ALBUM:Angles
+MUSICA:Games|ALBUM:Angles
+MUSICA:Call Me Back|ALBUM:Angles
+MUSICA:Gratisfaction|ALBUM:Angles
+MUSICA:Metabolism|ALBUM:Angles
+MUSICA:Life Is Simple in the Moonlight|ALBUM:Angles
+MUSICA:Tap Out|ALBUM:Comedown Machine
+MUSICA:All the Time|ALBUM:Comedown Machine
+MUSICA:One Way Trigger|ALBUM:Comedown Machine
+MUSICA:Welcome to Japan|ALBUM:Comedown Machine
+MUSICA:80's Comedown Machine|ALBUM:Comedown Machine
+MUSICA:50/50|ALBUM:Comedown Machine
+MUSICA:Slow Animals|ALBUM:Comedown Machine
+MUSICA:Partners in Crime|ALBUM:Comedown Machine
+MUSICA:Chances|ALBUM:Comedown Machine
+MUSICA:Happy Ending|ALBUM:Comedown Machine
+MUSICA:Call It Fate, Call It Karma|ALBUM:Comedown Machine
+MUSICA:The Adults Are Talking|ALBUM:The New Abnormal
+MUSICA:Selfless|ALBUM:The New Abnormal
+MUSICA:Brooklyn Bridge To Chorus|ALBUM:The New Abnormal
+MUSICA:Bad Decisions|ALBUM:The New Abnormal
+MUSICA:Eternal Summer|ALBUM:The New Abnormal
+MUSICA:At The Door|ALBUM:The New Abnormal
+MUSICA:Why Are Sundays So Depressing|ALBUM:The New Abnormal
+MUSICA:Not the Same Anymore|ALBUM:The New Abnormal
+MUSICA:Ode to the Mets|ALBUM:The New Abnormal
+GENERO:Rock
+ARTISTA:Foo Fighters|Cidade:Seattle|Anos:30|Ativo:1|Premios:15|Integrantes:Dave Grohl, Nate Mendel, Chris Shiflett, Pat Smear, Rami Jaffee, Josh Freese
+MUSICA:This Is a Call|ALBUM:Foo Fighters
+MUSICA:I'll Stick Around|ALBUM:Foo Fighters
+MUSICA:Big Me|ALBUM:Foo Fighters
+MUSICA:Alone+Easy Target|ALBUM:Foo Fighters
+MUSICA:Good Grief|ALBUM:Foo Fighters
+MUSICA:Float On|ALBUM:Foo Fighters
+MUSICA:Weenie Beenie|ALBUM:Foo Fighters
+MUSICA:Oh, George|ALBUM:Foo Fighters
+MUSICA:For All the Cows|ALBUM:Foo Fighters
+MUSICA:X-Static|ALBUM:Foo Fighters
+MUSICA:Wattershed|ALBUM:Foo Fighters
+MUSICA:Exhausted|ALBUM:Foo Fighters
+MUSICA:Doll|ALBUM:The Colour and the Shape
+MUSICA:Monkey Wrench|ALBUM:The Colour and the Shape
+MUSICA:Hey, Johnny Park!|ALBUM:The Colour and the Shape
+MUSICA:My Poor Brain|ALBUM:The Colour and the Shape
+MUSICA:Wind Up|ALBUM:The Colour and the Shape
+MUSICA:Up in Arms|ALBUM:The Colour and the Shape
+MUSICA:My Hero|ALBUM:The Colour and the Shape
+MUSICA:See You|ALBUM:The Colour and the Shape
+MUSICA:Enough Space|ALBUM:The Colour and the Shape
+MUSICA:February Stars|ALBUM:The Colour and the Shape
+MUSICA:Everlong|ALBUM:The Colour and the Shape
+MUSICA:New Way Home|ALBUM:The Colour and the Shape
+MUSICA:Stacked Actors|ALBUM:There Is Nothing Left to Lose
+MUSICA:Breakout|ALBUM:There Is Nothing Left to Lose
+MUSICA:Learn to Fly|ALBUM:There Is Nothing Left to Lose
+MUSICA:Gimme Stitches|ALBUM:There Is Nothing Left to Lose
+MUSICA:Generator|ALBUM:There Is Nothing Left to Lose
+MUSICA:Aurora|ALBUM:There Is Nothing Left to Lose
+MUSICA:Live-In Skin|ALBUM:There Is Nothing Left to Lose
+MUSICA:Next Year|ALBUM:There Is Nothing Left to Lose
+MUSICA:Headwires|ALBUM:There Is Nothing Left to Lose
+MUSICA:Ain't It Life|ALBUM:There Is Nothing Left to Lose
+MUSICA:M.I.A.|ALBUM:There Is Nothing Left to Lose
+MUSICA:All My Life|ALBUM:One by One
+MUSICA:Low|ALBUM:One by One
+MUSICA:Have It All|ALBUM:One by One
+MUSICA:Times Like These|ALBUM:One by One
+MUSICA:Disenchanted Lullaby|ALBUM:One by One
+MUSICA:Tired of You|ALBUM:One by One
+MUSICA:Halo|ALBUM:One by One
+MUSICA:Lonely as You|ALBUM:One by One
+MUSICA:Overdrive|ALBUM:One by One
+MUSICA:Burn Away|ALBUM:One by One
+MUSICA:Come Back|ALBUM:One by One
+MUSICA:In Your Honor|ALBUM:In Your Honor
+MUSICA:No Way Back|ALBUM:In Your Honor
+MUSICA:Best of You|ALBUM:In Your Honor
+MUSICA:DOA|ALBUM:In Your Honor
+MUSICA:Hell|ALBUM:In Your Honor
+MUSICA:Last Song|ALBUM:In Your Honor
+MUSICA:Free Me|ALBUM:In Your Honor
+MUSICA:Resolve|ALBUM:In Your Honor
+MUSICA:The Deepest Blues Are Black|ALBUM:In Your Honor
+MUSICA:End Over End|ALBUM:In Your Honor
+MUSICA:Still|ALBUM:In Your Honor
+MUSICA:What If I Do?|ALBUM:In Your Honor
+MUSICA:Miracle|ALBUM:In Your Honor
+MUSICA:Another Round|ALBUM:In Your Honor
+MUSICA:Friend of a Friend|ALBUM:In Your Honor
+MUSICA:Over and Out|ALBUM:In Your Honor
+MUSICA:On the Mend|ALBUM:In Your Honor
+MUSICA:Cold Day in the Sun|ALBUM:In Your Honor
+MUSICA:Razor|ALBUM:In Your Honor
+MUSICA:The Pretender|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Let It Die|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Erase/Replace|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Long Road to Ruin|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Come Alive|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Stranger Things Have Happened|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Cheer Up, Boys (Your Make Up Is Crying)|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Summer's End|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Ballad of the Beaconsfield Miners|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Statues|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:But, Honestly|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Home|ALBUM:Echoes, Silence, Patience & Grace
+MUSICA:Bridge Burning|ALBUM:Wasting Light
+MUSICA:Rope|ALBUM:Wasting Light
+MUSICA:Dear Rosemary|ALBUM:Wasting Light
+MUSICA:White Limo|ALBUM:Wasting Light
+MUSICA:Arlandria|ALBUM:Wasting Light
+MUSICA:These Days|ALBUM:Wasting Light
+MUSICA:Back & Forth|ALBUM:Wasting Light
+MUSICA:A Matter of Time|ALBUM:Wasting Light
+MUSICA:Miss the Misery|ALBUM:Wasting Light
+MUSICA:I Should Have Known|ALBUM:Wasting Light
+MUSICA:Walk|ALBUM:Wasting Light
+MUSICA:Something From Nothing|ALBUM:Sonic Highways
+MUSICA:The Feast and the Famine|ALBUM:Sonic Highways
+MUSICA:Congregation|ALBUM:Sonic Highways
+MUSICA:What Did I Do? / God As My Witness|ALBUM:Sonic Highways
+MUSICA:Outside|ALBUM:Sonic Highways
+MUSICA:In the Clear|ALBUM:Sonic Highways
+MUSICA:Subterranean|ALBUM:Sonic Highways
+MUSICA:I Am a River|ALBUM:Sonic Highways
+MUSICA:T-Shirt|ALBUM:Concrete and Gold
+MUSICA:Run|ALBUM:Concrete and Gold
+MUSICA:Make It Right|ALBUM:Concrete and Gold
+MUSICA:The Sky Is a Neighborhood|ALBUM:Concrete and Gold
+MUSICA:La Dee Da|ALBUM:Concrete and Gold
+MUSICA:Dirty Water|ALBUM:Concrete and Gold
+MUSICA:Arrows|ALBUM:Concrete and Gold
+MUSICA:Happy Ever After (Zero Hour)|ALBUM:Concrete and Gold
+MUSICA:Sunday Rain|ALBUM:Concrete and Gold
+MUSICA:The Line|ALBUM:Concrete and Gold
+MUSICA:Concrete and Gold|ALBUM:Concrete and Gold
+MUSICA:Making a Fire|ALBUM:Medicine at Midnight
+MUSICA:Shame Shame|ALBUM:Medicine at Midnight
+MUSICA:Cloudspotter|ALBUM:Medicine at Midnight
+MUSICA:Waiting on a War|ALBUM:Medicine at Midnight
+MUSICA:Medicine at Midnight|ALBUM:Medicine at Midnight
+MUSICA:No Son of Mine|ALBUM:Medicine at Midnight
+MUSICA:Holding Poison|ALBUM:Medicine at Midnight
+MUSICA:Chasing Birds|ALBUM:Medicine at Midnight
+MUSICA:Love Dies Young|ALBUM:Medicine at Midnight
+MUSICA:Rescued|ALBUM:But Here We Are
+MUSICA:Under You|ALBUM:But Here We Are
+MUSICA:Hearing Voices|ALBUM:But Here We Are
+MUSICA:But Here We Are|ALBUM:But Here We Are
+MUSICA:The Glass|ALBUM:But Here We Are
+MUSICA:Nothing at All|ALBUM:But Here We Are
+MUSICA:Show Me How|ALBUM:But Here We Are
+MUSICA:Beyond Me|ALBUM:But Here We Are
+MUSICA:The Teacher|ALBUM:But Here We Are
+MUSICA:Rest|ALBUM:But Here We Are
+GENERO:Pop
+ARTISTA:Dua Lipa|Cidade:Londres|Anos:9|Ativo:1|Premios:3|Integrantes:Dua Lipa
+MUSICA:Don't Start Now|ALBUM:Future Nostalgia
+MUSICA:Levitating|ALBUM:Future Nostalgia
+MUSICA:Houdini|ALBUM:Radical Optimism
+GENERO:Indie Rock
+ARTISTA:The Strokes|Cidade:Nova York|Anos:26|Ativo:1|Premios:1|Integrantes:Julian Casablancas, Albert Hammond Jr., Nick Valensi, Nikolai Fraiture, Fabrizio Moretti
+MUSICA:Is This It|ALBUM:Is This It
+MUSICA:The Modern Age|ALBUM:Is This It
+MUSICA:Soma|ALBUM:Is This It
+MUSICA:Barely Legal|ALBUM:Is This It
+MUSICA:Someday|ALBUM:Is This It
+MUSICA:Alone, Together|ALBUM:Is This It
+MUSICA:Last Nite|ALBUM:Is This It
+MUSICA:Hard to Explain|ALBUM:Is This It
+MUSICA:New York City Cops|ALBUM:Is This It
+MUSICA:Trying Your Luck|ALBUM:Is This It
+MUSICA:Take It or Leave It|ALBUM:Is This It
+MUSICA:What Ever Happened?|ALBUM:Room on Fire
+MUSICA:Reptilia|ALBUM:Room on Fire
+MUSICA:Automatic Stop|ALBUM:Room on Fire
+MUSICA:12:51|ALBUM:Room on Fire
+MUSICA:You Talk Way Too Much|ALBUM:Room on Fire
+MUSICA:Between Love & Hate|ALBUM:Room on Fire
+MUSICA:Meet Me in the Bathroom|ALBUM:Room on Fire
+MUSICA:Under Control|ALBUM:Room on Fire
+MUSICA:The Way It Is|ALBUM:Room on Fire
+MUSICA:The End Has No End|ALBUM:Room on Fire
+MUSICA:I Can't Win|ALBUM:Room on Fire
+MUSICA:You Only Live Once|ALBUM:First Impressions of Earth
+MUSICA:Juicebox|ALBUM:First Impressions of Earth
+MUSICA:Heart in a Cage|ALBUM:First Impressions of Earth
+MUSICA:Razorblade|ALBUM:First Impressions of Earth
+MUSICA:On the Other Side|ALBUM:First Impressions of Earth
+MUSICA:Vision of Division|ALBUM:First Impressions of Earth
+MUSICA:Ask Me Anything|ALBUM:First Impressions of Earth
+MUSICA:Electricityscape|ALBUM:First Impressions of Earth
+MUSICA:Killing Lies|ALBUM:First Impressions of Earth
+MUSICA:Fear of Sleep|ALBUM:First Impressions of Earth
+MUSICA:15 Minutes|ALBUM:First Impressions of Earth
+MUSICA:Ize of the World|ALBUM:First Impressions of Earth
+MUSICA:Evening Sun|ALBUM:First Impressions of Earth
+MUSICA:Red Light|ALBUM:First Impressions of Earth
+MUSICA:Machu Picchu|ALBUM:Angles
+MUSICA:Under Cover of Darkness|ALBUM:Angles
+MUSICA:Two Kinds of Happiness|ALBUM:Angles
+MUSICA:You're So Right|ALBUM:Angles
+MUSICA:Taken for a Fool|ALBUM:Angles
+MUSICA:Games|ALBUM:Angles
+MUSICA:Call Me Back|ALBUM:Angles
+MUSICA:Gratisfaction|ALBUM:Angles
+MUSICA:Metabolism|ALBUM:Angles
+MUSICA:Life Is Simple in the Moonlight|ALBUM:Angles
+MUSICA:Tap Out|ALBUM:Comedown Machine
+MUSICA:All the Time|ALBUM:Comedown Machine
+MUSICA:One Way Trigger|ALBUM:Comedown Machine
+MUSICA:Welcome to Japan|ALBUM:Comedown Machine
+MUSICA:80's Comedown Machine|ALBUM:Comedown Machine
+MUSICA:50/50|ALBUM:Comedown Machine
+MUSICA:Slow Animals|ALBUM:Comedown Machine
+MUSICA:Partners in Crime|ALBUM:Comedown Machine
+MUSICA:Chances|ALBUM:Comedown Machine
+MUSICA:Happy Ending|ALBUM:Comedown Machine
+MUSICA:Call It Fate, Call It Karma|ALBUM:Comedown Machine
+MUSICA:The Adults Are Talking|ALBUM:The New Abnormal
+MUSICA:Selfless|ALBUM:The New Abnormal
+MUSICA:Brooklyn Bridge To Chorus|ALBUM:The New Abnormal
+MUSICA:Bad Decisions|ALBUM:The New Abnormal
+MUSICA:Eternal Summer|ALBUM:The New Abnormal
+MUSICA:At The Door|ALBUM:The New Abnormal
+MUSICA:Why Are Sundays So Depressing|ALBUM:The New Abnormal
+MUSICA:Not the Same Anymore|ALBUM:The New Abnormal
+MUSICA:Ode to the Mets|ALBUM:The New Abnormal
+GENERO:Pop Punk
+ARTISTA:Away With Words|Cidade:Filadelfia|Anos:8|Ativo:1|Premios:0|Integrantes:Away With Words
+MUSICA:Intro|ALBUM:Away With Words
+MUSICA:Making Headlines|ALBUM:Away With Words
+MUSICA:Think Before You Speak|ALBUM:Away With Words
+MUSICA:Promises|ALBUM:Away With Words
+MUSICA:Paper Walls|ALBUM:Away With Words
+MUSICA:Moving Forward|ALBUM:Away With Words
+MUSICA:Holding On|ALBUM:Away With Words
+MUSICA:Out of Sight|ALBUM:Away With Words
+MUSICA:Clear the Air|ALBUM:Away With Words
+MUSICA:Final Chapter|ALBUM:Away With Words
+GENERO:MPB
+ARTISTA:Belchior|Cidade:Sobral|Anos:35|Ativo:0|Premios:2|Integrantes:Belchior
+MUSICA:Apenas um Rapaz Latino-Americano|ALBUM:Alucinação
+MUSICA:Velha Roupa Colorida|ALBUM:Alucinação
+MUSICA:Como Nossos Pais|ALBUM:Alucinação
+MUSICA:Sujeito de Sorte|ALBUM:Alucinação
+MUSICA:Como o Diabo Gosta|ALBUM:Alucinação
+MUSICA:Alucinação|ALBUM:Alucinação
+MUSICA:Não Fique em Fria Que Eu Me Sinto Mal|ALBUM:Alucinação
+MUSICA:Fotografia 3x4|ALBUM:Alucinação
+MUSICA:Antes do Fim|ALBUM:Alucinação
+MUSICA:Na Hora do Almoço|ALBUM:Belchior (1974)
+MUSICA:Ate Mais Ver|ALBUM:Belchior (1974)
+MUSICA:Passeio|ALBUM:Belchior (1974)
+MUSICA:Bebedouro|ALBUM:Belchior (1974)
+MUSICA:A Hora do Almoço|ALBUM:Belchior (1974)
+MUSICA:Coração Selvagem|ALBUM:Coração Selvagem
+MUSICA:Paralelas|ALBUM:Coração Selvagem
+MUSICA:Galos, Noites e Quintais|ALBUM:Coração Selvagem
+MUSICA:Populus|ALBUM:Coração Selvagem
+MUSICA:Todo Sujo de Batom|ALBUM:Coração Selvagem
+MUSICA:Clamor no Deserto|ALBUM:Coração Selvagem
+MUSICA:Brincadeira de Roda|ALBUM:Todos os Sentidos
+MUSICA:Divina Comédia Humana|ALBUM:Todos os Sentidos
+MUSICA:Cancioneiro|ALBUM:Todos os Sentidos
+MUSICA:De Primeira Grandeza|ALBUM:Todos os Sentidos
+MUSICA:Dandy|ALBUM:Todos os Sentidos
+MUSICA:Medo de Avião|ALBUM:Era uma Vez um Homem e Seu Tempo
+MUSICA:Comentário a Respeito de John|ALBUM:Era uma Vez um Homem e Seu Tempo
+MUSICA:Pequeno Perfil de Um Cidadão Comum|ALBUM:Era uma Vez um Homem e Seu Tempo
+MUSICA:Pequeno Mapa do Tempo|ALBUM:Era uma Vez um Homem e Seu Tempo
+MUSICA:Confeitaria Central|ALBUM:Objeto Direto
+MUSICA:Nossos Romances|ALBUM:Objeto Direto
+MUSICA:Aguapé|ALBUM:Objeto Direto
+MUSICA:Ypê|ALBUM:Objeto Direto
+MUSICA:Tudo Outra Vez|ALBUM:Para Viver com Você
+MUSICA:Para Viver com Você|ALBUM:Para Viver com Você
+MUSICA:Cenas do Próximo Capítulo|ALBUM:Cenas do Próximo Capítulo
+MUSICA:Rock-Romance de Um Jovem Sem Juízo|ALBUM:Cenas do Próximo Capítulo
+MUSICA:Melodrama|ALBUM:Melodrama
+MUSICA:Longe Demais das Capitais|ALBUM:Melodrama
+MUSICA:Elogio da Loucura|ALBUM:Elogio da Loucura
+MUSICA:Balada de Madame Fronsac|ALBUM:Elogio da Loucura
+MUSICA:Bahiuno|ALBUM:Bahiuno
+MUSICA:Esa Cura|ALBUM:Bahiuno
+MUSICA:Vesperal|ALBUM:Vesperal
+MUSICA:Notícia de Jornal|ALBUM:Vesperal
+GENERO:Sertanejo
+ARTISTA:Chitãozinho & Xororó|Cidade:Astorga|Anos:54|Ativo:1|Premios:5|Integrantes:Chitãozinho, Xororó
+MUSICA:Galopeira|ALBUM:Galopeira
+MUSICA:A Resposta da Galopeira|ALBUM:Galopeira
+MUSICA:Moda da Mula Preta|ALBUM:Galopeira
+MUSICA:60 Dias Apaixonado|ALBUM:60 Dias Apaixonado
+MUSICA:Amor Com Amor Se Paga|ALBUM:60 Dias Apaixonado
+MUSICA:O Feitiço Quebrou|ALBUM:60 Dias Apaixonado
+MUSICA:Somos Apaixonados|ALBUM:Somos Apaixonados
+MUSICA:Faz Um Ano|ALBUM:Somos Apaixonados
+MUSICA:A Minha Vida|ALBUM:Somos Apaixonados
+MUSICA:Fio de Cabelo|ALBUM:Somos Apaixonados
+MUSICA:Macho Reparo|ALBUM:Somos Apaixonados
+MUSICA:Amante Amada|ALBUM:Amante Amada
+MUSICA:Ela Chora, Chora|ALBUM:Amante Amada
+MUSICA:Que Briga É Essa|ALBUM:Amante Amada
+MUSICA:Seu Amor Ainda É Tudo|ALBUM:Amante Amada
+MUSICA:Quebradas da Vida|ALBUM:Meu Milagre
+MUSICA:Meu Milagre|ALBUM:Meu Milagre
+MUSICA:Lembrança|ALBUM:Meu Milagre
+MUSICA:Coração Chorando|ALBUM:Coração Chorando
+MUSICA:O Amor É Mais Forte|ALBUM:Coração Chorando
+MUSICA:Eu e Meu Irmão|ALBUM:Coração Chorando
+MUSICA:Fotografia|ALBUM:Fotografia
+MUSICA:Noite de Núpcias|ALBUM:Fotografia
+MUSICA:Mulher Sempre Mulher|ALBUM:Fotografia
+MUSICA:Meu Sótão|ALBUM:Meu Sótão
+MUSICA:Pelas Estradas da Vida|ALBUM:Meu Sótão
+MUSICA:Tristeza do Jeca|ALBUM:Meu Sótão
+MUSICA:Nossa Segunda Espanhola|ALBUM:Nossa Segunda Espanhola
+MUSICA:Terra Tombada|ALBUM:Nossa Segunda Espanhola
+MUSICA:Ainda Ontem Chorei de Saudade|ALBUM:Nossa Segunda Espanhola
+MUSICA:Pense em Mim|ALBUM:Pense em Mim
+MUSICA:Página Virada|ALBUM:Pense em Mim
+MUSICA:Garantia|ALBUM:Pense em Mim
+MUSICA:Cowboy do Asfalto|ALBUM:Cowboy do Asfalto
+MUSICA:Evidências|ALBUM:Cowboy do Asfalto
+MUSICA:Nuvem de Lágrimas|ALBUM:Cowboy do Asfalto
+MUSICA:Meus Direitos|ALBUM:Cowboy do Asfalto
+MUSICA:Planeta Azul|ALBUM:Planeta Azul
+MUSICA:Brangas|ALBUM:Planeta Azul
+MUSICA:A Minha Vida (My Way)|ALBUM:Planeta Azul
+MUSICA:Somos Assim|ALBUM:Tudo por Amor
+MUSICA:Tudo por Amor|ALBUM:Tudo por Amor
+MUSICA:Baila Comigo|ALBUM:Tudo por Amor
+MUSICA:Direto no Coração|ALBUM:Direto no Coração
+MUSICA:Até Que Te Conheci|ALBUM:Direto no Coração
+MUSICA:Pura Emoção|ALBUM:Na Aba do Meu Chapéu
+MUSICA:Na Aba do Meu Chapéu|ALBUM:Na Aba do Meu Chapéu
+MUSICA:Deixei de Ser Cowboy por Você|ALBUM:Na Aba do Meu Chapéu
+MUSICA:Alô|ALBUM:Alô
+MUSICA:Corações Vazios|ALBUM:Alô
+MUSICA:0500-2001-Ação do Coração|ALBUM:Alô
+GENERO:Rock
+ARTISTA:Away With Words|Cidade:Filadelfia|Anos:8|Ativo:1|Premios:0|Integrantes:Away With Words
+MUSICA:Intro|ALBUM:Away With Words
+MUSICA:Making Headlines|ALBUM:Away With Words
+MUSICA:Think Before You Speak|ALBUM:Away With Words
+MUSICA:Promises|ALBUM:Away With Words
+MUSICA:Paper Walls|ALBUM:Away With Words
+MUSICA:Moving Forward|ALBUM:Away With Words
+MUSICA:Holding On|ALBUM:Away With Words
+MUSICA:Out of Sight|ALBUM:Away With Words
+MUSICA:Clear the Air|ALBUM:Away With Words
+MUSICA:Final Chapter|ALBUM:Away With Words
+GENERO:Pop
+ARTISTA:Beyoncé|Cidade:Houston|Anos:27|Ativo:1|Premios:32|Integrantes:Beyoncé
+MUSICA:Crazy in Love|ALBUM:Dangerously in Love
+MUSICA:Baby Boy|ALBUM:Dangerously in Love
+MUSICA:Naughty Girl|ALBUM:Dangerously in Love
+MUSICA:Me, Myself and I|ALBUM:Dangerously in Love
+MUSICA:Be With You|ALBUM:Dangerously in Love
+MUSICA:Déjà Vu|ALBUM:B'Day
+MUSICA:Irreplaceable|ALBUM:B'Day
+MUSICA:Beautiful Liar|ALBUM:B'Day
+MUSICA:Get Me Bodied|ALBUM:B'Day
+MUSICA:Upgrade U|ALBUM:B'Day
+MUSICA:Ring the Alarm|ALBUM:B'Day
+MUSICA:Single Ladies (Put a Ring on It)|ALBUM:I Am... Sasha Fierce
+MUSICA:If I Were a Boy|ALBUM:I Am... Sasha Fierce
+MUSICA:Halo|ALBUM:I Am... Sasha Fierce
+MUSICA:Diva|ALBUM:I Am... Sasha Fierce
+MUSICA:Ego|ALBUM:I Am... Sasha Fierce
+MUSICA:Sweet Dreams|ALBUM:I Am... Sasha Fierce
+MUSICA:Broken-Hearted Girl|ALBUM:I Am... Sasha Fierce
+MUSICA:Run the World (Girls)|ALBUM:4
+MUSICA:Best Thing I Never Had|ALBUM:4
+MUSICA:Countdown|ALBUM:4
+MUSICA:Love On Top|ALBUM:4
+MUSICA:End of Time|ALBUM:4
+MUSICA:Party|ALBUM:4
+MUSICA:Pretty Hurts|ALBUM:BEYONCÉ
+MUSICA:Drunk in Love|ALBUM:BEYONCÉ
+MUSICA:Blow|ALBUM:BEYONCÉ
+MUSICA:Partition|ALBUM:BEYONCÉ
+MUSICA:XO|ALBUM:BEYONCÉ
+MUSICA:Flawless|ALBUM:BEYONCÉ
+MUSICA:7/11|ALBUM:BEYONCÉ
+MUSICA:Pray You Catch Me|ALBUM:Lemonade
+MUSICA:Hold Up|ALBUM:Lemonade
+MUSICA:Don't Hurt Yourself|ALBUM:Lemonade
+MUSICA:Sorry|ALBUM:Lemonade
+MUSICA:6 Inch|ALBUM:Lemonade
+MUSICA:Daddy Lessons|ALBUM:Lemonade
+MUSICA:Love Drought|ALBUM:Lemonade
+MUSICA:Sandcastles|ALBUM:Lemonade
+MUSICA:Freedom|ALBUM:Lemonade
+MUSICA:All Night|ALBUM:Lemonade
+MUSICA:Formation|ALBUM:Lemonade
+MUSICA:I'M THAT GIRL|ALBUM:RENAISSANCE
+MUSICA:COZY|ALBUM:RENAISSANCE
+MUSICA:ALIEN SUPERSTAR|ALBUM:RENAISSANCE
+MUSICA:CUFF IT|ALBUM:RENAISSANCE
+MUSICA:ENERGY|ALBUM:RENAISSANCE
+MUSICA:BREAK MY SOUL|ALBUM:RENAISSANCE
+MUSICA:CHURCH GIRLS|ALBUM:RENAISSANCE
+MUSICA:PLASTIC OFF THE SOFA|ALBUM:RENAISSANCE
+MUSICA:VIRGO'S GROOVE|ALBUM:RENAISSANCE
+MUSICA:MOVE|ALBUM:RENAISSANCE
+MUSICA:HEATED|ALBUM:RENAISSANCE
+MUSICA:THIQUE|ALBUM:RENAISSANCE
+MUSICA:ALL MIND|ALBUM:RENAISSANCE
+MUSICA:AMERICA HAS A PROBLEM|ALBUM:RENAISSANCE
+MUSICA:PURE/HONEY|ALBUM:RENAISSANCE
+MUSICA:SUMMER RENAISSANCE|ALBUM:RENAISSANCE
+MUSICA:TEXAS HOLD 'EM|ALBUM:COWBOY CARTER
+MUSICA:16 CARRIAGES|ALBUM:COWBOY CARTER
+MUSICA:JOLENE|ALBUM:COWBOY CARTER
+MUSICA:BLACKBIIRD|ALBUM:COWBOY CARTER
+MUSICA:II MOST WANTED|ALBUM:COWBOY CARTER
+MUSICA:LEVII'S JEANS|ALBUM:COWBOY CARTER
+MUSICA:BODYGUARD|ALBUM:COWBOY CARTER
+GENERO:R&B
+ARTISTA:Beyoncé|Cidade:Houston|Anos:27|Ativo:1|Premios:32|Integrantes:Beyoncé
+MUSICA:Crazy in Love|ALBUM:Dangerously in Love
+MUSICA:Baby Boy|ALBUM:Dangerously in Love
+MUSICA:Naughty Girl|ALBUM:Dangerously in Love
+MUSICA:Me, Myself and I|ALBUM:Dangerously in Love
+MUSICA:Be With You|ALBUM:Dangerously in Love
+MUSICA:Déjà Vu|ALBUM:B'Day
+MUSICA:Irreplaceable|ALBUM:B'Day
+MUSICA:Beautiful Liar|ALBUM:B'Day
+MUSICA:Get Me Bodied|ALBUM:B'Day
+MUSICA:Upgrade U|ALBUM:B'Day
+MUSICA:Ring the Alarm|ALBUM:B'Day
+MUSICA:Single Ladies (Put a Ring on It)|ALBUM:I Am... Sasha Fierce
+MUSICA:If I Were a Boy|ALBUM:I Am... Sasha Fierce
+MUSICA:Halo|ALBUM:I Am... Sasha Fierce
+MUSICA:Diva|ALBUM:I Am... Sasha Fierce
+MUSICA:Ego|ALBUM:I Am... Sasha Fierce
+MUSICA:Sweet Dreams|ALBUM:I Am... Sasha Fierce
+MUSICA:Broken-Hearted Girl|ALBUM:I Am... Sasha Fierce
+MUSICA:Run the World (Girls)|ALBUM:4
+MUSICA:Best Thing I Never Had|ALBUM:4
+MUSICA:Countdown|ALBUM:4
+MUSICA:Love On Top|ALBUM:4
+MUSICA:End of Time|ALBUM:4
+MUSICA:Party|ALBUM:4
+MUSICA:Pretty Hurts|ALBUM:BEYONCÉ
+MUSICA:Drunk in Love|ALBUM:BEYONCÉ
+MUSICA:Blow|ALBUM:BEYONCÉ
+MUSICA:Partition|ALBUM:BEYONCÉ
+MUSICA:XO|ALBUM:BEYONCÉ
+MUSICA:Flawless|ALBUM:BEYONCÉ
+MUSICA:7/11|ALBUM:BEYONCÉ
+MUSICA:Pray You Catch Me|ALBUM:Lemonade
+MUSICA:Hold Up|ALBUM:Lemonade
+MUSICA:Don't Hurt Yourself|ALBUM:Lemonade
+MUSICA:Sorry|ALBUM:Lemonade
+MUSICA:6 Inch|ALBUM:Lemonade
+MUSICA:Daddy Lessons|ALBUM:Lemonade
+MUSICA:Love Drought|ALBUM:Lemonade
+MUSICA:Sandcastles|ALBUM:Lemonade
+MUSICA:Freedom|ALBUM:Lemonade
+MUSICA:All Night|ALBUM:Lemonade
+MUSICA:Formation|ALBUM:Lemonade
+MUSICA:I'M THAT GIRL|ALBUM:RENAISSANCE
+MUSICA:COZY|ALBUM:RENAISSANCE
+MUSICA:ALIEN SUPERSTAR|ALBUM:RENAISSANCE
+MUSICA:CUFF IT|ALBUM:RENAISSANCE
+MUSICA:ENERGY|ALBUM:RENAISSANCE
+MUSICA:BREAK MY SOUL|ALBUM:RENAISSANCE
+MUSICA:CHURCH GIRLS|ALBUM:RENAISSANCE
+MUSICA:PLASTIC OFF THE SOFA|ALBUM:RENAISSANCE
+MUSICA:VIRGO'S GROOVE|ALBUM:RENAISSANCE
+MUSICA:MOVE|ALBUM:RENAISSANCE
+MUSICA:HEATED|ALBUM:RENAISSANCE
+MUSICA:THIQUE|ALBUM:RENAISSANCE
+MUSICA:ALL MIND|ALBUM:RENAISSANCE
+MUSICA:AMERICA HAS A PROBLEM|ALBUM:RENAISSANCE
+MUSICA:PURE/HONEY|ALBUM:RENAISSANCE
+MUSICA:SUMMER RENAISSANCE|ALBUM:RENAISSANCE
+MUSICA:TEXAS HOLD 'EM|ALBUM:COWBOY CARTER
+MUSICA:16 CARRIAGES|ALBUM:COWBOY CARTER
+MUSICA:JOLENE|ALBUM:COWBOY CARTER
+MUSICA:BLACKBIIRD|ALBUM:COWBOY CARTER
+MUSICA:II MOST WANTED|ALBUM:COWBOY CARTER
+MUSICA:LEVII'S JEANS|ALBUM:COWBOY CARTER
+MUSICA:BODYGUARD|ALBUM:COWBOY CARTER
+GENERO:MPB
+ARTISTA:Angela Ro Ro|Cidade:Rio de Janeiro|Anos:47|Ativo:1|Premios:1|Integrantes:Angela Ro Ro
+MUSICA:Cheirando a Amor|ALBUM:Angela Ro Ro
+MUSICA:Noites com Sol|ALBUM:Angela Ro Ro
+MUSICA:Tola Foi Você|ALBUM:Angela Ro Ro
+MUSICA:A Mim e a Mais Ninguém|ALBUM:Angela Ro Ro
+MUSICA:Ame|ALBUM:Angela Ro Ro
+MUSICA:Gota de Sangue|ALBUM:Angela Ro Ro
+MUSICA:Balada da Arrumadeira|ALBUM:Angela Ro Ro
+MUSICA:Me Acalmo Danando|ALBUM:Angela Ro Ro
+MUSICA:Amor, Meu Grande Amor|ALBUM:Angela Ro Ro
+MUSICA:Mares da Espanha|ALBUM:Angela Ro Ro
+MUSICA:Não Há Cabeça|ALBUM:Angela Ro Ro
+MUSICA:Não Acredito|ALBUM:Só Nos Resta Viver
+MUSICA:Cobaias de Deus|ALBUM:Só Nos Resta Viver
+MUSICA:Renúncia|ALBUM:Só Nos Resta Viver
+MUSICA:Meu Sublimar|ALBUM:Só Nos Resta Viver
+MUSICA:Mágica|ALBUM:Só Nos Resta Viver
+MUSICA:Bárbara|ALBUM:Só Nos Resta Viver
+MUSICA:Só Nos Resta Viver|ALBUM:Só Nos Resta Viver
+MUSICA:Amanhã É Época de Cão|ALBUM:Só Nos Resta Viver
+MUSICA:Perdoai-vos|ALBUM:Só Nos Resta Viver
+MUSICA:Contradigi-me|ALBUM:Só Nos Resta Viver
+MUSICA:Escândalo|ALBUM:Escândalo!
+MUSICA:Came e Definição|ALBUM:Escândalo!
+MUSICA:Perdida|ALBUM:Escândalo!
+MUSICA:Nenhum Bonde Passa|ALBUM:Escândalo!
+MUSICA:Fraca e Insegura|ALBUM:Escândalo!
+MUSICA:Mandrake|ALBUM:Escândalo!
+MUSICA:A Incoerência|ALBUM:Escândalo!
+MUSICA:Simples Carinho|ALBUM:Simples Carinho
+MUSICA:Querem Nos Matar|ALBUM:Simples Carinho
+MUSICA:Nossos Enganos|ALBUM:Simples Carinho
+MUSICA:Mundo Novo|ALBUM:Simples Carinho
+MUSICA:Lembranças de Amor|ALBUM:Simples Carinho
+MUSICA:A Vida É daquele Jeito|ALBUM:A Vida É daquele Jeito
+MUSICA:Fogueira|ALBUM:A Vida É daquele Jeito
+MUSICA:Isso É para o Seu Governo|ALBUM:A Vida É daquelse Jeito
+MUSICA:Sua Escolha|ALBUM:A Vida É daquele Jeito
+MUSICA:Eu Desatino|ALBUM:Eu Desatino
+MUSICA:Vem Como Um Sonho|ALBUM:Eu Desatino
+MUSICA:Nenhum Lugar|ALBUM:Eu Desatino
+MUSICA:Prova de Amor|ALBUM:Prova de Amor
+MUSICA:Tão Leve|ALBUM:Prova de Amor
+MUSICA:Sensual|ALBUM:Prova de Amor
+MUSICA:Acertei no Milênio|ALBUM:Acertei no Milênio
+MUSICA:Garantia|ALBUM:Acertei no Milênio
+MUSICA:Vice-Versa|ALBUM:Acertei no Milênio
+MUSICA:Compasso|ALBUM:Compasso
+MUSICA:Opus 2|ALBUM:Compasso
+MUSICA:Selvagem|ALBUM:Selvagem
+MUSICA:Sua Estrela|ALBUM:Selvagem
+GENERO:Pop Punk
+ARTISTA:blink-182|Cidade:San Diego|Anos:32|Ativo:1|Premios:3|Integrantes:Mark Hoppus, Tom DeLonge, Travis Barker
+MUSICA:Carousel|ALBUM:Cheshire Cat
+MUSICA:M+M's|ALBUM:Cheshire Cat
+MUSICA:Fentoozler|ALBUM:Cheshire Cat
+MUSICA:Touchdown Boy|ALBUM:Cheshire Cat
+MUSICA:Strings|ALBUM:Cheshire Cat
+MUSICA:Peggy Sue|ALBUM:Cheshire Cat
+MUSICA:Pathetic|ALBUM:Dude Ranch
+MUSICA:Voyeur|ALBUM:Dude Ranch
+MUSICA:Dammit|ALBUM:Dude Ranch
+MUSICA:Josie|ALBUM:Dude Ranch
+MUSICA:Aneuryism|ALBUM:Dude Ranch
+MUSICA:Apple Shampoo|ALBUM:Dude Ranch
+MUSICA:Emo|ALBUM:Dude Ranch
+MUSICA:I Miss You|ALBUM:Dude Ranch
+MUSICA:Enema of the State|ALBUM:Enema of the State
+MUSICA:Dumpweed|ALBUM:Enema of the State
+MUSICA:Don't Leave Me|ALBUM:Enema of the State
+MUSICA:Aliens Exist|ALBUM:Enema of the State
+MUSICA:Going Away to College|ALBUM:Enema of the State
+MUSICA:What's My Age Again?|ALBUM:Enema of the State
+MUSICA:Dysentery Gary|ALBUM:Enema of the State
+MUSICA:Adam's Song|ALBUM:Enema of the State
+MUSICA:All the Small Things|ALBUM:Enema of the State
+MUSICA:The Party Song|ALBUM:Enema of the State
+MUSICA:Mutt|ALBUM:Enema of the State
+MUSICA:Wendy Clear|ALBUM:Enema of the State
+MUSICA:Anthem|ALBUM:Enema of the State
+MUSICA:Anthem Part Two|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Online Songs|ALBUM:Take Off Your Pants and Jacket
+MUSICA:First Date|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Happy Holidays, You Bastard|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Story of a Lonely Guy|ALBUM:Take Off Your Pants and Jacket
+MUSICA:The Rock Show|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Stay Together for the Kids|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Roller Coaster|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Reckless Abandon|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Everytime I Look for You|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Give Me One Good Reason|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Shut Up|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Please Take Me Home|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Feeling This|ALBUM:Blink-182
+MUSICA:I Miss You|ALBUM:Blink-182
+MUSICA:Violence|ALBUM:Blink-182
+MUSICA:Stockholm Syndrome|ALBUM:Blink-182
+MUSICA:Down|ALBUM:Blink-182
+MUSICA:The Fallen Interlude|ALBUM:Blink-182
+MUSICA:Go|ALBUM:Blink-182
+MUSICA:Asthenia|ALBUM:Blink-182
+MUSICA:Always|ALBUM:Blink-182
+MUSICA:Easy Target|ALBUM:Blink-182
+MUSICA:All of This|ALBUM:Blink-182
+MUSICA:Here's Your Letter|ALBUM:Blink-182
+MUSICA:I'm Lost Without You|ALBUM:Blink-182
+MUSICA:Ghost on the Dance Floor|ALBUM:Neighborhoods
+MUSICA:Natively|ALBUM:Neighborhoods
+MUSICA:Up All Night|ALBUM:Neighborhoods
+MUSICA:After Midnight|ALBUM:Neighborhoods
+MUSICA:Snake Charmer|ALBUM:Neighborhoods
+MUSICA:Heart's All Gone|ALBUM:Neighborhoods
+MUSICA:Wishing Well|ALBUM:Neighborhoods
+MUSICA:Kaleidoscope|ALBUM:Neighborhoods
+MUSICA:MH 4.18.2011|ALBUM:Neighborhoods
+MUSICA:Love Is Dangerous|ALBUM:Neighborhoods
+MUSICA:Fighting the Gravity|ALBUM:Neighborhoods
+MUSICA:Even If She Falls|ALBUM:Neighborhoods
+MUSICA:Cynical|ALBUM:California
+MUSICA:Bored to Death|ALBUM:California
+MUSICA:She's Out of Her Mind|ALBUM:California
+MUSICA:Los Angeles|ALBUM:California
+MUSICA:Sober|ALBUM:California
+MUSICA:No Future|ALBUM:California
+MUSICA:Home Is Such a Lonely Place|ALBUM:California
+MUSICA:Kings of the Weekend|ALBUM:California
+MUSICA:Teenage Satellites|ALBUM:California
+MUSICA:Left Alone|ALBUM:California
+MUSICA:Rabbit Hole|ALBUM:California
+MUSICA:San Diego|ALBUM:California
+MUSICA:The Only Thing That Matters|ALBUM:California
+MUSICA:California|ALBUM:California
+MUSICA:First Time|ALBUM:NINE
+MUSICA:Happy Days|ALBUM:NINE
+MUSICA:Heaven|ALBUM:NINE
+MUSICA:Darkside|ALBUM:NINE
+MUSICA:Blame It on My Youth|ALBUM:NINE
+MUSICA:Generational Divide|ALBUM:NINE
+MUSICA:Run Away|ALBUM:NINE
+MUSICA:Black Rain|ALBUM:NINE
+MUSICA:I Really Wish I Hated You|ALBUM:NINE
+MUSICA:Pin the Grenade|ALBUM:NINE
+MUSICA:No Heart To Speak Of|ALBUM:NINE
+MUSICA:Ransom|ALBUM:NINE
+MUSICA:On Some Emo Shit|ALBUM:NINE
+MUSICA:Hungover You|ALBUM:NINE
+MUSICA:Remember To Forget Me|ALBUM:NINE
+MUSICA:ANTHEM PART 3|ALBUM:ONE MORE TIME...
+MUSICA:DANCE WITH ME|ALBUM:ONE MORE TIME...
+MUSICA:FELL IN LOVE|ALBUM:ONE MORE TIME...
+MUSICA:ONE MORE TIME|ALBUM:ONE MORE TIME...
+MUSICA:MORE THAN YOU KNOW|ALBUM:ONE MORE TIME...
+MUSICA:TURN THIS OFF!|ALBUM:ONE MORE TIME...
+MUSICA:WHEN WE WERE YOUNG|ALBUM:ONE MORE TIME...
+MUSICA:EDGING|ALBUM:ONE MORE TIME...
+MUSICA:YOU DON'T KNOW WHAT YOU'VE GOT|ALBUM:ONE MORE TIME...
+MUSICA:BLINK WAVE|ALBUM:ONE MORE TIME...
+MUSICA:BAD NEWS|ALBUM:ONE MORE TIME...
+MUSICA:HURT (INTERLUDE)|ALBUM:ONE MORE TIME...
+MUSICA:TURPENTINE|ALBUM:ONE MORE TIME...
+MUSICA:FUCK FACE|ALBUM:ONE MORE TIME...
+MUSICA:OTHER SIDE|ALBUM:ONE MORE TIME...
+MUSICA:CHILDHOOD|ALBUM:ONE MORE TIME...
+GENERO:Sertanejo
+ARTISTA:Jorge & Mateus|Cidade:Itumbiara|Anos:19|Ativo:1|Premios:2|Integrantes:Jorge, Mateus
+MUSICA:Pode Chorar|ALBUM:Ao Vivo em Goiânia
+MUSICA:De Tanto Te Querer|ALBUM:Ao Vivo em Goiânia
+MUSICA:Querendo Te Amar|ALBUM:Ao Vivo em Goiânia
+MUSICA:Fogueira|ALBUM:Ao Vivo em Goiânia
+MUSICA:Tem Nada a Ver|ALBUM:Ao Vivo em Goiânia
+MUSICA:Castigo|ALBUM:O Mundo É Tão Pequeno
+MUSICA:Misterios|ALBUM:O Mundo É Tão Pequeno
+MUSICA:Voa Beija-Flor|ALBUM:O Mundo É Tão Pequeno
+MUSICA:Vou Fazer Pirraça|ALBUM:O Mundo É Tão Pequeno
+MUSICA:O Mundo É Tão Pequeno|ALBUM:O Mundo É Tão Pequeno
+MUSICA:Amo Noite e Dia|ALBUM:Aí Já Era
+MUSICA:Aí Já Era|ALBUM:Aí Já Era
+MUSICA:Chora Me Liga|ALBUM:Aí Já Era
+MUSICA:Tempo Ao Tempo|ALBUM:Aí Já Era
+MUSICA:Se Eu Pedir Eu Volto|ALBUM:Aí Já Era
+MUSICA:Flor|ALBUM:A Hora É Agora
+MUSICA:A Hora É Agora|ALBUM:A Hora É Agora
+MUSICA:Duas Metades|ALBUM:A Hora É Agora
+MUSICA:O Que É Que Tem?|ALBUM:A Hora É Agora
+MUSICA: Enquanto Houver Razões|ALBUM:A Hora É Agora
+MUSICA:Calma|ALBUM:Os Anjos Cantam
+MUSICA:Os Anjos Cantam|ALBUM:Os Anjos Cantam
+MUSICA:Nocaute|ALBUM:Os Anjos Cantam
+MUSICA:Logo Eu|ALBUM:Os Anjos Cantam
+MUSICA:Pergunta Boba|ALBUM:Os Anjos Cantam
+MUSICA:Sosseguei|ALBUM:Como.Sempre.Feito.Nunca
+MUSICA:Louca de Saudade|ALBUM:Como.Sempre.Feito.Nunca
+MUSICA:Paredes|ALBUM:Como.Sempre.Feito.Nunca
+MUSICA:Pra Sempre Com Você|ALBUM:Como.Sempre.Feito.Nunca
+MUSICA:Ou Somatiza ou Suma|ALBUM:Como.Sempre.Feito.Nunca
+MUSICA:Propaganda|ALBUM:Terra Sem CEP
+MUSICA:Trincadinho|ALBUM:Terra Sem CEP
+MUSICA:Anti Amor|ALBUM:Terra Sem CEP
+MUSICA:Menina Pipoco|ALBUM:Terra Sem CEP
+MUSICA:Olhares Sinceros|ALBUM:Terra Sem CEP
+MUSICA:Lance Individual|ALBUM:Tudo Em Paz
+MUSICA:Troca de Calçada|ALBUM:Tudo Em Paz
+MUSICA:Paradigmas|ALBUM:Tudo Em Paz
+MUSICA:Molhando o Volante|ALBUM:Tudo Em Paz
+MUSICA:Namorado do Futuro|ALBUM:Tudo Em Paz
+MUSICA:5 Regras|ALBUM:É Simples Assim
+MUSICA:Todo Seu|ALBUM:É Simples Assim
+MUSICA:Canto a Pedras|ALBUM:É Simples Assim
+MUSICA:Xonei|ALBUM:Check-In
+MUSICA:Haverá Sinais|ALBUM:Check-In
+GENERO:Indie Pop
+ARTISTA:Superorganism|Cidade:Londres|Anos:9|Ativo:1|Premios:0|Integrantes:Orono Noguchi, Harry, Tucan, Emily, Robert, Ruby, B
+MUSICA:It's All Good|ALBUM:Superorganism
+MUSICA:Everybody Wants to Be Famous|ALBUM:Superorganism
+MUSICA:Nobody Cares|ALBUM:Superorganism
+MUSICA:Reflections on the Screen|ALBUM:Superorganism
+MUSICA:SPRORGNSM|ALBUM:Superorganism
+MUSICA:The Prawn Song|ALBUM:Superorganism
+MUSICA:Relax|ALBUM:Superorganism
+MUSICA:Nai's March|ALBUM:Superorganism
+MUSICA:Nighttime|ALBUM:Superorganism
+MUSICA:Something for Your M.I.N.D.|ALBUM:Superorganism
+MUSICA:Blackbird|ALBUM:World Wide Pop
+MUSICA:World Wide Pop|ALBUM:World Wide Pop
+MUSICA:On & On|ALBUM:World Wide Pop
+MUSICA:Teenager|ALBUM:World Wide Pop
+MUSICA:It's Raining|ALBUM:World Wide Pop
+MUSICA:Flying|ALBUM:World Wide Pop
+MUSICA:Solar System|ALBUM:World Wide Pop
+MUSICA:Into the Sun|ALBUM:World Wide Pop
+MUSICA:Put Down Your Phone|ALBUM:World Wide Pop
+MUSICA:crushed.zip|ALBUM:World Wide Pop
+MUSICA:Wu Tang Clan|ALBUM:World Wide Pop
+MUSICA:Don't Let the Dark Get the Best of You|ALBUM:World Wide Pop
+MUSICA:Symphony Of Light|ALBUM:World Wide Pop
+GENERO:K-Pop
+ARTISTA:Stray Kids|Cidade:Seul|Anos:7|Ativo:1|Premios:15|Integrantes:Bang Chan, Lee Know, Changbin, Hyunjin, HAN, Felix, Seungmin, I.N
+MUSICA:Hellevator|ALBUM:Mixtape
+MUSICA:Grrr Law of Total Madness|ALBUM:Mixtape
+MUSICA:Young Wings|ALBUM:Mixtape
+MUSICA:YAYAYA|ALBUM:Mixtape
+MUSICA:GLOW|ALBUM:Mixtape
+MUSICA:School Life|ALBUM:Mixtape
+MUSICA:4419|ALBUM:Mixtape
+MUSICA:NOT!|ALBUM:I am NOT
+MUSICA:District 9|ALBUM:I am NOT
+MUSICA:Mirror|ALBUM:I am NOT
+MUSICA:Awaken|ALBUM:I am NOT
+MUSICA:ROCK|ALBUM:I am NOT
+MUSICA:Grow Up|ALBUM:I am NOT
+MUSICA:3rd Eye|ALBUM:I am NOT
+MUSICA:WHO?|ALBUM:I am WHO
+MUSICA:My Pace|ALBUM:I am WHO
+MUSICA:Voices|ALBUM:I am WHO
+MUSICA:Question|ALBUM:I am WHO
+MUSICA:Insomnia|ALBUM:I am WHO
+MUSICA:M.I.A.|ALBUM:I am WHO
+MUSICA:Awkward Silence|ALBUM:I am WHO
+MUSICA:YOU.|ALBUM:I am YOU
+MUSICA:I am YOU|ALBUM:I am YOU
+MUSICA:My Side|ALBUM:I am YOU
+MUSICA:Hero's Soup|ALBUM:I am YOU
+MUSICA:Get Cool|ALBUM:I am YOU
+MUSICA:N/S|ALBUM:I am YOU
+MUSICA:0325|ALBUM:I am YOU
+MUSICA:ENTRANCE|ALBUM:Clé 1 : MIROH
+MUSICA:MIROH|ALBUM:Clé 1 : MIROH
+MUSICA:Victory Song|ALBUM:Clé 1 : MIROH
+MUSICA:Maze of Memories|ALBUM:Clé 1 : MIROH
+MUSICA:Chronosaurus|ALBUM:Clé 1 : MIROH
+MUSICA:19|ALBUM:Clé 1 : MIROH
+MUSICA:ROAD FINALE|ALBUM:Clé 2 : Yellow Wood
+MUSICA:Side Effects|ALBUM:Clé 2 : Yellow Wood
+MUSICA:TMT|ALBUM:Clé 2 : Yellow Wood
+MUSICA:STOP|ALBUM:Clé : LEVANTER
+MUSICA:Double Knot|ALBUM:Clé : LEVANTER
+MUSICA:Levanter|ALBUM:Clé : LEVANTER
+MUSICA:Booster|ALBUM:Clé : LEVANTER
+MUSICA:Astronaut|ALBUM:Clé : LEVANTER
+MUSICA:Sunshine|ALBUM:Clé : LEVANTER
+MUSICA:You Can STAY|ALBUM:Clé : LEVANTER
+MUSICA:GO LIVE|ALBUM:GO LIVE
+MUSICA:God's Menu|ALBUM:GO LIVE
+MUSICA:Easy|ALBUM:GO LIVE
+MUSICA:Pacemaker|ALBUM:GO LIVE
+MUSICA:Airplane|ALBUM:GO LIVE
+MUSICA:Another Day|ALBUM:GO LIVE
+MUSICA:Phobia|ALBUM:GO LIVE
+MUSICA:Blueprint|ALBUM:GO LIVE
+MUSICA:TA|ALBUM:GO LIVE
+MUSICA:Haven|ALBUM:GO LIVE
+MUSICA:The View|ALBUM:NOEASY
+MUSICA:Thunderous|ALBUM:NOEASY
+MUSICA:DOMINO|ALBUM:NOEASY
+MUSICA:CHEESE|ALBUM:NOEASY
+MUSICA:SSICK|ALBUM:NOEASY
+MUSICA:Silent Cry|ALBUM:NOEASY
+MUSICA:Secret Secret|ALBUM:NOEASY
+MUSICA:Star Lost|ALBUM:NOEASY
+MUSICA:Red Lights|ALBUM:NOEASY
+MUSICA:Surfin'|ALBUM:NOEASY
+MUSICA:Gone Away|ALBUM:NOEASY
+MUSICA:Wolfgang|ALBUM:NOEASY
+MUSICA:MANIAC|ALBUM:ODDINARY
+MUSICA:Charmer|ALBUM:ODDINARY
+MUSICA:FREEZE|ALBUM:ODDINARY
+MUSICA:Lonely St.|ALBUM:ODDINARY
+MUSICA:Waiting For Us|ALBUM:ODDINARY
+MUSICA:Muddy Water|ALBUM:ODDINARY
+MUSICA:CASE 143|ALBUM:MAXIDENT
+MUSICA:CHILL|ALBUM:MAXIDENT
+MUSICA:Give Me Your TMI|ALBUM:MAXIDENT
+MUSICA:SUPER BOARD|ALBUM:MAXIDENT
+MUSICA:3RACHA|ALBUM:MAXIDENT
+MUSICA:Taste|ALBUM:MAXIDENT
+MUSICA:Can't Stop|ALBUM:MAXIDENT
+MUSICA:Circus|ALBUM:MAXIDENT
+MUSICA:Hall of Fame|ALBUM:5-STAR
+MUSICA:S-Class|ALBUM:5-STAR
+MUSICA:ITEM|ALBUM:5-STAR
+MUSICA:Super Bowl|ALBUM:5-STAR
+MUSICA:TOPLINE|ALBUM:5-STAR
+MUSICA:DLC|ALBUM:5-STAR
+MUSICA:GET LIT|ALBUM:5-STAR
+MUSICA:Collision|ALBUM:5-STAR
+MUSICA:FNF|ALBUM:5-STAR
+MUSICA:Youtiful|ALBUM:5-STAR
+MUSICA:THE SOUND|ALBUM:5-STAR
+MUSICA:Mixtape : Time Out|ALBUM:5-STAR
+MUSICA:MEGAVERSE|ALBUM:ROCK-STAR
+MUSICA:LALALALA|ALBUM:ROCK-STAR
+MUSICA:BLIND SPOT|ALBUM:ROCK-STAR
+MUSICA:COMFLEX|ALBUM:ROCK-STAR
+MUSICA:Cover Me|ALBUM:ROCK-STAR
+MUSICA:Leave|ALBUM:ROCK-STAR
+MUSICA:Social Path|ALBUM:ROCK-STAR
+MUSICA:MOUNTAINS|ALBUM:ATE
+MUSICA:Chk Chk Boom|ALBUM:ATE
+MUSICA:JJAM|ALBUM:ATE
+MUSICA:I Like It|ALBUM:ATE
+MUSICA:Runners|ALBUM:ATE
+MUSICA:twilight|ALBUM:ATE
+MUSICA:Stray Kids|ALBUM:ATE
+GENERO:K-Pop
+ARTISTA:NewJeans|Cidade:Seul|Anos:2|Ativo:1|Premios:10|Integrantes:Minji, Hanni, Danielle, Haerin, Hyein
+MUSICA:Attention|ALBUM:New Jeans
+MUSICA:Hype Boy|ALBUM:New Jeans
+MUSICA:Cookie|ALBUM:New Jeans
+MUSICA:Hurt|ALBUM:New Jeans
+MUSICA:OMG|ALBUM:OMG
+MUSICA:Ditto|ALBUM:OMG
+MUSICA:New Jeans|ALBUM:Get Up
+MUSICA:Super Shy|ALBUM:Get Up
+MUSICA:ETA|ALBUM:Get Up
+MUSICA:Cool With You|ALBUM:Get Up
+MUSICA:Get Up|ALBUM:Get Up
+MUSICA:ASAP|ALBUM:Get Up
+MUSICA:How Sweet|ALBUM:How Sweet
+MUSICA:Bubble Gum|ALBUM:How Sweet
+MUSICA:Supernatural|ALBUM:Supernatural
+MUSICA:Right Now|ALBUM:Supernatural
+GENERO:Rock Nacional
+ARTISTA:Titãs|Cidade:São Paulo|Anos:42|Ativo:1|Premios:2|Integrantes:Branco Mello, Sérgio Britto, Tony Bellotto, Beto Lee, Mário Fabre
+MUSICA:Sonífera Ilha|ALBUM:Titãs
+MUSICA:Marvin|ALBUM:Titãs
+MUSICA:Toda Cor|ALBUM:Titãs
+MUSICA:Go Back|ALBUM:Titãs
+MUSICA:Televisão|ALBUM:Televisão
+MUSICA:Insensível|ALBUM:Televisão
+MUSICA:Massacre|ALBUM:Cabeça Dinossauro
+MUSICA:Lugar Nenhum|ALBUM:Cabeça Dinossauro
+MUSICA:Bichos Escrotos|ALBUM:Cabeça Dinossauro
+MUSICA:Família|ALBUM:Cabeça Dinossauro
+MUSICA:Homem Primata|ALBUM:Cabeça Dinossauro
+MUSICA:Polícia|ALBUM:Cabeça Dinossauro
+MUSICA:AA UU|ALBUM:Cabeça Dinossauro
+MUSICA:Comida|ALBUM:Jesus Não Tem Dentes no País dos Banguelas
+MUSICA:Lugar Nenhum|ALBUM:Jesus Não Tem Dentes no País dos Banguelas
+MUSICA:Desordem|ALBUM:Jesus Não Tem Dentes no País dos Banguelas
+MUSICA:Diversão|ALBUM:Jesus Não Tem Dentes no País dos Banguelas
+MUSICA:O Inimigo|ALBUM:Jesus Não Tem Dentes no País dos Banguelas
+MUSICA:Miseráveis|ALBUM:Õ Blésq Blom
+MUSICA:Flores|ALBUM:Õ Blésq Blom
+MUSICA:O Pulso|ALBUM:Õ Blésq Blom
+MUSICA: Medo|ALBUM:Õ Blésq Blom
+MUSICA:Saia de Mim|ALBUM:Tudo Ao Mesmo Tempo Agora
+MUSICA:Clitóris|ALBUM:Tudo Ao Mesmo Tempo Agora
+MUSICA:Isso Para Mim É Perfume|ALBUM:Tudo Ao Mesmo Tempo Agora
+MUSICA:Será Que É Disso Que Eu Necessito?|ALBUM:Titanomaquia
+MUSICA:Nem Sempre Se Pode Ser Deus|ALBUM:Titanomaquia
+MUSICA:Hereditário|ALBUM:Titanomaquia
+MUSICA:Domingo|ALBUM:Domingo
+MUSICA:Eu Não Aguento|ALBUM:Domingo
+MUSICA:Porque Eu Sei Que É Amor|ALBUM:Domingo
+MUSICA:Sua Impossível Chance|ALBUM:Domingo
+MUSICA:30 Segundos|ALBUM:Volume Dois
+MUSICA:Sonífera Ilha (Acústico)|ALBUM:Volume Dois
+MUSICA:Sua Impossível Chance|ALBUM:Volume Dois
+MUSICA:É Preciso Saber Viver|ALBUM:Volume Dois
+MUSICA:Sua Impossível Chance|ALBUM:As Dez Mais
+MUSICA:Aluga-se|ALBUM:As Dez Mais
+MUSICA:Pelados em San Galli|ALBUM:As Dez Mais
+MUSICA:A Melhor Banda de Todos os Tempos da Última Semana|ALBUM:A Melhor Banda de Todos os Tempos da Última Semana
+MUSICA:Epitáfio|ALBUM:A Melhor Banda de Todos os Tempos da Última Semana
+MUSICA:Isso|ALBUM:A Melhor Banda de Todos os Tempos da Última Semana
+MUSICA:O Mundo É Bão, Sebastião!|ALBUM:A Melhor Banda de Todos os Tempos da Última Semana
+MUSICA:Eu Não Sou Um Robo|ALBUM:Como Estão Vocês?
+MUSICA:Enquanto Houver Sol|ALBUM:Como Estão Vocês?
+MUSICA:Provas de Amor|ALBUM:Como Estão Vocês?
+MUSICA:Vou Duvidar|ALBUM:Sacos Plásticos
+MUSICA:Antes de Você|ALBUM:Sacos Plásticos
+MUSICA:Porque Eu Sei Que É Amor|ALBUM:Sacos Plásticos
+MUSICA:Fardado|ALBUM:Nheengatu
+MUSICA:Mensamorfose|ALBUM:Nheengatu
+MUSICA:Quem São Os Doentes?|ALBUM:Nheengatu
+MUSICA:Caos|ALBUM:Olho Furta-cor
+MUSICA:Por That|ALBUM:Olho Furta-cor
+GENERO:Hip-Hop
+ARTISTA:Eminem|Cidade:Detroit|Anos:28|Ativo:1|Premios:15|Integrantes:Eminem
+MUSICA:Infinite|ALBUM:Infinite
+MUSICA:W.G.T.O.|ALBUM:Infinite
+MUSICA:313|ALBUM:Infinite
+MUSICA:Tonite|ALBUM:Infinite
+MUSICA:My Name Is|ALBUM:The Slim Shady LP
+MUSICA:Guilty Conscience|ALBUM:The Slim Shady LP
+MUSICA:Brain Damage|ALBUM:The Slim Shady LP
+MUSICA:Role Model|ALBUM:The Slim Shady LP
+MUSICA:Just Don't Give a Fuck|ALBUM:The Slim Shady LP
+MUSICA:Kill You|ALBUM:The Marshall Mathers LP
+MUSICA:Stan|ALBUM:The Marshall Mathers LP
+MUSICA:Who Knew|ALBUM:The Marshall Mathers LP
+MUSICA:The Real Slim Shady|ALBUM:The Marshall Mathers LP
+MUSICA:The Way I Am|ALBUM:The Marshall Mathers LP
+MUSICA:Bitch Please II|ALBUM:The Marshall Mathers LP
+MUSICA:White America|ALBUM:The Eminem Show
+MUSICA:Cleanin' Out My Closet|ALBUM:The Eminem Show
+MUSICA:Without Me|ALBUM:The Eminem Show
+MUSICA:Sing for the Moment|ALBUM:The Eminem Show
+MUSICA:Superman|ALBUM:The Eminem Show
+MUSICA:Till I Collapse|ALBUM:The Eminem Show
+MUSICA:Evil Deeds|ALBUM:Encore
+MUSICA:Never Enough|ALBUM:Encore
+MUSICA:Like Toy Soldiers|ALBUM:Encore
+MUSICA:Mosh|ALBUM:Encore
+MUSICA:Just Lose It|ALBUM:Encore
+MUSICA:Mockingbird|ALBUM:Encore
+MUSICA:Ass Like That|ALBUM:Encore
+MUSICA:3 a.m.|ALBUM:Relapse
+MUSICA:My Mom|ALBUM:Relapse
+MUSICA:We Made You|ALBUM:Relapse
+MUSICA:Beautiful|ALBUM:Relapse
+MUSICA:Crack a Bottle|ALBUM:Relapse
+MUSICA:Cold Wind Blows|ALBUM:Recovery
+MUSICA:Talkin' 2 Myself|ALBUM:Recovery
+MUSICA:Going Through Changes|ALBUM:Recovery
+MUSICA:Not Afraid|ALBUM:Recovery
+MUSICA:No Love|ALBUM:Recovery
+MUSICA:Space Bound|ALBUM:Recovery
+MUSICA:Love the Way You Lie|ALBUM:Recovery
+MUSICA:Bad Guy|ALBUM:The Marshall Mathers LP 2
+MUSICA:Rhyme Or Reason|ALBUM:The Marshall Mathers LP 2
+MUSICA:Berzerk|ALBUM:The Marshall Mathers LP 2
+MUSICA:Rap God|ALBUM:The Marshall Mathers LP 2
+MUSICA:The Monster|ALBUM:The Marshall Mathers LP 2
+MUSICA:Headlights|ALBUM:The Marshall Mathers LP 2
+MUSICA:Walk on Water|ALBUM:Revival
+MUSICA:Believe|ALBUM:Revival
+MUSICA:River|ALBUM:Revival
+MUSICA:Like Home|ALBUM:Revival
+MUSICA:In Your Head|ALBUM:Revival
+MUSICA:The Ringer|ALBUM:Kamikaze
+MUSICA:Greatest|ALBUM:Kamikaze
+MUSICA:Lucky You|ALBUM:Kamikaze
+MUSICA:Fall|ALBUM:Kamikaze
+MUSICA:Venom|ALBUM:Kamikaze
+MUSICA:Premonition|ALBUM:Music to Be Murdered By
+MUSICA:Unaccommodating|ALBUM:Music to Be Murdered By
+MUSICA:You Gon' Learn|ALBUM:Music to Be Murdered By
+MUSICA:Godzilla|ALBUM:Music to Be Murdered By
+MUSICA:Darkness|ALBUM:Music to Be Murdered By
+MUSICA:Renaissance|ALBUM:The Death of Slim Shady
+MUSICA:Habits|ALBUM:The Death of Slim Shady
+MUSICA:Trouble|ALBUM:The Death of Slim Shady
+MUSICA:Houdini|ALBUM:The Death of Slim Shady
+MUSICA:Tobey|ALBUM:The Death of Slim Shady
+MUSICA:Somebody Save Me|ALBUM:The Death of Slim Shady
+GENERO:Hip-Hop
+ARTISTA:50 Cent|Cidade:Nova York|Anos:26|Ativo:1|Premios:1|Integrantes:50 Cent
+MUSICA:What Up Gangsta|ALBUM:Get Rich or Die Tryin'
+MUSICA:Patiently Waiting|ALBUM:Get Rich or Die Tryin'
+MUSICA:Many Men (Wish Death)|ALBUM:Get Rich or Die Tryin'
+MUSICA:In da Club|ALBUM:Get Rich or Die Tryin'
+MUSICA:High All the Time|ALBUM:Get Rich or Die Tryin'
+MUSICA:Heat|ALBUM:Get Rich or Die Tryin'
+MUSICA:If I Can't|ALBUM:Get Rich or Die Tryin'
+MUSICA:Blood Hound|ALBUM:Get Rich or Die Tryin'
+MUSICA:Back Down|ALBUM:Get Rich or Die Tryin'
+MUSICA:P.I.M.P.|ALBUM:Get Rich or Die Tryin'
+MUSICA:21 Questions|ALBUM:Get Rich or Die Tryin'
+MUSICA:Wanksta|ALBUM:Get Rich or Die Tryin'
+MUSICA:In My Hood|ALBUM:The Massacre
+MUSICA:This Is 50|ALBUM:The Massacre
+MUSICA:I'm Supposed to Die Tonight|ALBUM:The Massacre
+MUSICA:Piggy Bank|ALBUM:The Massacre
+MUSICA:Gatman and Robin|ALBUM:The Massacre
+MUSICA:Candy Shop|ALBUM:The Massacre
+MUSICA:Outta Control|ALBUM:The Massacre
+MUSICA:Disco Inferno|ALBUM:The Massacre
+MUSICA:Just a Lil Bit|ALBUM:The Massacre
+MUSICA:Gunz Come Out|ALBUM:The Massacre
+MUSICA:My Toy Soldier|ALBUM:The Massacre
+MUSICA:Position of Power|ALBUM:The Massacre
+MUSICA:Build You Up|ALBUM:The Massacre
+MUSICA:God Gave Me Style|ALBUM:The Massacre
+MUSICA:So Amazing|ALBUM:The Massacre
+MUSICA:A Baltimore Love Story|ALBUM:The Massacre
+MUSICA:Rider Pt. 2|ALBUM:Curtis
+MUSICA:AMBULANCE|ALBUM:Curtis
+MUSICA:My Gun Go Off|ALBUM:Curtis
+MUSICA:Man Down|ALBUM:Curtis
+MUSICA:I'll Still Kill|ALBUM:Curtis
+MUSICA:I Get Money|ALBUM:Curtis
+MUSICA:Ayo Technology|ALBUM:Curtis
+MUSICA:Follow My Lead|ALBUM:Curtis
+MUSICA:Peep Show|ALBUM:Curtis
+MUSICA:Fully Loaded Clip|ALBUM:Curtis
+MUSICA:Straight to the Bank|ALBUM:Curtis
+MUSICA:Touch the Sky|ALBUM:Curtis
+MUSICA:Major Distribution|ALBUM:Before I Self Destruct
+MUSICA:Psycho|ALBUM:Before I Self Destruct
+MUSICA:Baby by Me|ALBUM:Before I Self Destruct
+MUSICA:Do You Think About Me|ALBUM:Before I Self Destruct
+MUSICA:Ok, You're Right|ALBUM:Before I Self Destruct
+MUSICA:Get It Hot|ALBUM:Before I Self Destruct
+MUSICA:Hold Me Down|ALBUM:Before I Self Destruct
+MUSICA:Stretch|ALBUM:Before I Self Destruct
+MUSICA:Strong Enough|ALBUM:Before I Self Destruct
+MUSICA:Crime Wave|ALBUM:Before I Self Destruct
+MUSICA:Don't Worry 'Bout It|ALBUM:Animal Ambition
+MUSICA:Animal Ambition|ALBUM:Animal Ambition
+MUSICA:Pilot|ALBUM:Animal Ambition
+MUSICA:Smoke|ALBUM:Animal Ambition
+MUSICA:Everytime I Come Around|ALBUM:Animal Ambition
+MUSICA:Irregular Heartbeat|ALBUM:Animal Ambition
+MUSICA:Hustler|ALBUM:Animal Ambition
+MUSICA:Twisted|ALBUM:Animal Ambition
+MUSICA:Winner Circle|ALBUM:Animal Ambition
+MUSICA:Chase the Paper|ALBUM:Animal Ambition
+GENERO:K-Pop
+ARTISTA:RM|Cidade:Seul|Anos:11|Ativo:1|Premios:0|Integrantes:RM
+MUSICA:Voice|ALBUM:RM
+MUSICA:Do You|ALBUM:RM
+MUSICA:AWAKE|ALBUM:RM
+MUSICA:Monster|ALBUM:RM
+MUSICA:Throw Away|ALBUM:RM
+MUSICA:God Rap|ALBUM:RM
+MUSICA:Life|ALBUM:RM
+MUSICA:Adrift|ALBUM:RM
+MUSICA:I Believe|ALBUM:RM
+MUSICA:tokyo|ALBUM:mono.
+MUSICA:seoul|ALBUM:mono.
+MUSICA:moonchild|ALBUM:mono.
+MUSICA:badbye|ALBUM:mono.
+MUSICA:uhgood|ALBUM:mono.
+MUSICA:everythingoes|ALBUM:mono.
+MUSICA:forever rain|ALBUM:mono.
+MUSICA:Yun|ALBUM:Indigo
+MUSICA:Still Life|ALBUM:Indigo
+MUSICA:All Day|ALBUM:Indigo
+MUSICA:Forg_tful|ALBUM:Indigo
+MUSICA:Closer|ALBUM:Indigo
+MUSICA:Change pt.2|ALBUM:Indigo
+MUSICA:Lonely|ALBUM:Indigo
+MUSICA:Hectic|ALBUM:Indigo
+MUSICA:Wild Flower|ALBUM:Indigo
+MUSICA:No.2|ALBUM:Indigo
+MUSICA:Right People, Wrong Place|ALBUM:Right Place, Wrong Person
+MUSICA:Nuts|ALBUM:Right Place, Wrong Person
+MUSICA:out of love|ALBUM:Right Place, Wrong Person
+MUSICA:Domodachi|ALBUM:Right Place, Wrong Person
+MUSICA:? (Interlude)|ALBUM:Right Place, Wrong Person
+MUSICA:Groovy Room|ALBUM:Right Place, Wrong Person
+MUSICA:LOST!|ALBUM:Right Place, Wrong Person
+MUSICA:Around the world in a day|ALBUM:Right Place, Wrong Person
+MUSICA:?? (Credit Roll)|ALBUM:Right Place, Wrong Person
+MUSICA:Come back to me|ALBUM:Right Place, Wrong Person
+GENERO:Samba
+ARTISTA:Péricles|Cidade:Santo André|Anos:38|Ativo:1|Premios:1|Integrantes:Péricles
+MUSICA:Linguagem dos Olhos|ALBUM:Sensações
+MUSICA:Ate Que Durou|ALBUM:Sensações
+MUSICA:Cuidado Cupido|ALBUM:Sensações
+MUSICA:Amei|ALBUM:Sensações
+MUSICA:Erro Meu|ALBUM:Feito Pra Durar
+MUSICA:Feito Pra Durar|ALBUM:Feito Pra Durar
+MUSICA:Melhor Eu Ir|ALBUM:Feito Pra Durar
+MUSICA:À Vera|ALBUM:Feito Pra Durar
+MUSICA:Três Da Manhã|ALBUM:Desebrochar
+MUSICA:Desebrochar|ALBUM:Desebrochar
+MUSICA:Costumes|ALBUM:Desebrochar
+MUSICA:Folhas de Outono|ALBUM:Em Sua Direção
+MUSICA:Logo De Manhã|ALBUM:Em Sua Direção
+MUSICA:Até Que Durou (Ao Vivo)|ALBUM:Em Sua Direção
+MUSICA:To Achando Que É Amor|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:O Amor Não Tem Culpado|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:Pupila|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:Nosso Amor Quer Paz|ALBUM:Céu de Lilás
+MUSICA:Céu de Lilás|ALBUM:Céu de Lilás
+MUSICA:Ainda Dói|ALBUM:Céu de Lilás
+MUSICA:Três Apitos|ALBUM:Céu de Lilás
+MUSICA:Aonde Quer Que Eu Vá|ALBUM:Calendário
+MUSICA:Desproporcional|ALBUM:Calendário
+MUSICA:Evoluiu|ALBUM:Calendário
+GENERO:Samba
+ARTISTA:Atitude 67|Cidade:Campo Grande|Anos:8|Ativo:1|Premios:1|Integrantes:Pedrinho Puga, Érico Polidoro, Karan Cavallero, GP, Regge, Leandro Osmar
+MUSICA:Cerveja de Garrafa|ALBUM:Atitude 67
+MUSICA:Saideira|ALBUM:Atitude 67
+MUSICA:Casal do Ano|ALBUM:Atitude 67
+MUSICA:Tão Linda|ALBUM:Atitude 67
+MUSICA:Desce do Salto|ALBUM:Atitude 67
+MUSICA:Com Quem Será|ALBUM:Atitude 67
+MUSICA:Dia de Sol|ALBUM:Atitude 67
+MUSICA:Vem|ALBUM:Atitude 67
+MUSICA:Evoluiu|ALBUM:Pra Chacoalhar
+MUSICA:Tudo ao Mesmo Tempo|ALBUM:Pra Chacoalhar
+MUSICA:Isso É Arte|ALBUM:Pra Chacoalhar
+MUSICA:A Gente Fez Amor|ALBUM:Pra Chacoalhar
+MUSICA:Tão Linda (Ao Vivo)|ALBUM:Atitude no Rolê
+MUSICA:Liquidificou|ALBUM:Atitude no Rolê
+MUSICA:Perdeu a Graça|ALBUM:Atitude no Rolê
+MUSICA:Se Essa Bunda|ALBUM:Atitude no Rolê
+MUSICA:Sonho|ALBUM:Sunset 67
+MUSICA:Duvido|ALBUM:Sunset 67
+MUSICA:Chega Diferente|ALBUM:Sunset 67
+MUSICA:Pode Pular|ALBUM:Sunset 67
+MUSICA:Me Leva Casa|ALBUM:Casa 67
+MUSICA:A Mesma Cerveja|ALBUM:Casa 67
+MUSICA:Faz As Pazes Comigo|ALBUM:Casa 67
+MUSICA:De Bobeira|ALBUM:Casa 67
+MUSICA:Sempre Foi Você|ALBUM:Sempre Foi Você
+MUSICA:Gasto Com Amor|ALBUM:Sempre Foi Você
+MUSICA:Variações|ALBUM:Sempre Foi Você
+MUSICA:Menina Bonita|ALBUM:Fazendo Fumaça
+MUSICA:Fazendo Fumaça|ALBUM:Fazendo Fumaça
+MUSICA:Com Quem Será|ALBUM:Fazendo Fumaça
+GENERO:Pagode
+ARTISTA:Atitude 67|Cidade:Campo Grande|Anos:8|Ativo:1|Premios:1|Integrantes:Pedrinho Puga, Érico Polidoro, Karan Cavallero, GP, Regge, Leandro Osmar
+MUSICA:Cerveja de Garrafa|ALBUM:Atitude 67
+MUSICA:Saideira|ALBUM:Atitude 67
+MUSICA:Casal do Ano|ALBUM:Atitude 67
+MUSICA:Tão Linda|ALBUM:Atitude 67
+MUSICA:Desce do Salto|ALBUM:Atitude 67
+MUSICA:Com Quem Será|ALBUM:Atitude 67
+MUSICA:Dia de Sol|ALBUM:Atitude 67
+MUSICA:Vem|ALBUM:Atitude 67
+MUSICA:Evoluiu|ALBUM:Pra Chacoalhar
+MUSICA:Tudo ao Mesmo Tempo|ALBUM:Pra Chacoalhar
+MUSICA:Isso É Arte|ALBUM:Pra Chacoalhar
+MUSICA:A Gente Fez Amor|ALBUM:Pra Chacoalhar
+MUSICA:Tão Linda (Ao Vivo)|ALBUM:Atitude no Rolê
+MUSICA:Liquidificou|ALBUM:Atitude no Rolê
+MUSICA:Perdeu a Graça|ALBUM:Atitude no Rolê
+MUSICA:Se Essa Bunda|ALBUM:Atitude no Rolê
+MUSICA:Sonho|ALBUM:Sunset 67
+MUSICA:Duvido|ALBUM:Sunset 67
+MUSICA:Chega Diferente|ALBUM:Sunset 67
+MUSICA:Pode Pular|ALBUM:Sunset 67
+MUSICA:Me Leva Casa|ALBUM:Casa 67
+MUSICA:A Mesma Cerveja|ALBUM:Casa 67
+MUSICA:Faz As Pazes Comigo|ALBUM:Casa 67
+MUSICA:De Bobeira|ALBUM:Casa 67
+MUSICA:Sempre Foi Você|ALBUM:Sempre Foi Você
+MUSICA:Gasto Com Amor|ALBUM:Sempre Foi Você
+MUSICA:Variações|ALBUM:Sempre Foi Você
+MUSICA:Menina Bonita|ALBUM:Fazendo Fumaça
+MUSICA:Fazendo Fumaça|ALBUM:Fazendo Fumaça
+MUSICA:Com Quem Será|ALBUM:Fazendo Fumaça
+GENERO:Pagode
+ARTISTA:Péricles|Cidade:Santo André|Anos:38|Ativo:1|Premios:1|Integrantes:Péricles
+MUSICA:Linguagem dos Olhos|ALBUM:Sensações
+MUSICA:Ate Que Durou|ALBUM:Sensações
+MUSICA:Cuidado Cupido|ALBUM:Sensações
+MUSICA:Amei|ALBUM:Sensações
+MUSICA:Erro Meu|ALBUM:Feito Pra Durar
+MUSICA:Feito Pra Durar|ALBUM:Feito Pra Durar
+MUSICA:Melhor Eu Ir|ALBUM:Feito Pra Durar
+MUSICA:À Vera|ALBUM:Feito Pra Durar
+MUSICA:Três Da Manhã|ALBUM:Desebrochar
+MUSICA:Desebrochar|ALBUM:Desebrochar
+MUSICA:Costumes|ALBUM:Desebrochar
+MUSICA:Folhas de Outono|ALBUM:Em Sua Direção
+MUSICA:Logo De Manhã|ALBUM:Em Sua Direção
+MUSICA:Até Que Durou (Ao Vivo)|ALBUM:Em Sua Direção
+MUSICA:To Achando Que É Amor|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:O Amor Não Tem Culpado|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:Pupila|ALBUM:TO ACHANDO QUE É AMOR
+MUSICA:Nosso Amor Quer Paz|ALBUM:Céu de Lilás
+MUSICA:Céu de Lilás|ALBUM:Céu de Lilás
+MUSICA:Ainda Dói|ALBUM:Céu de Lilás
+MUSICA:Três Apitos|ALBUM:Céu de Lilás
+MUSICA:Aonde Quer Que Eu Vá|ALBUM:Calendário
+MUSICA:Desproporcional|ALBUM:Calendário
+MUSICA:Evoluiu|ALBUM:Calendário
+GENERO:Pagode
+ARTISTA:Turma do Pagode|Cidade:São Paulo|Anos:25|Ativo:1|Premios:1|Integrantes:Leiz, Caramelo, Rubinho, Tiago, Marcelinho, Lean, Fabiano, Nani
+MUSICA:Fato Consumado|ALBUM:Turma do Pagode a Nível Nacional
+MUSICA:Toma Jeito Coração|ALBUM:Turma do Pagode a Nível Nacional
+MUSICA:Greve de Fome|ALBUM:Turma do Pagode a Nível Nacional
+MUSICA:Pensando em Você|ALBUM:Mais Uma Vida
+MUSICA:Mais Uma Vida|ALBUM:Mais Uma Vida
+MUSICA:Antes Só Do Que Mal Acompanhado|ALBUM:Mais Uma Vida
+MUSICA:Luz, Câmera, Ação|ALBUM:Esse É o Clima
+MUSICA:Sua Mãe Vai Me Amar|ALBUM:Esse É o Clima
+MUSICA:Camisa 10|ALBUM:Esse É o Clima
+MUSICA:Quando Te Encontrei|ALBUM:Esse É o Clima
+MUSICA:Pintou Um Clima|ALBUM:O Som dos Barzinhos
+MUSICA:Aquele Beijo|ALBUM:O Som dos Barzinhos
+MUSICA:Horário de Verão|ALBUM:O Som dos Barzinhos
+MUSICA:Lancinho|ALBUM:O Som dos Barzinhos
+MUSICA:Pro Meu Mundo Girar|ALBUM:O Som dos Barzinhos
+MUSICA:Deixa Acontecer|ALBUM:Ao Vivo em São Paulo
+MUSICA:Surpresa de Amor|ALBUM:Ao Vivo em São Paulo
+MUSICA:Beijo Roubado|ALBUM:Ao Vivo em São Paulo
+MUSICA:Aonde Quer Que Eu Vá|ALBUM:Ao Vivo em São Paulo
+MUSICA:Pescador de Ilusões|ALBUM:Ao Vivo em São Paulo
+MUSICA:Deixa Eu Te Querer|ALBUM:Mania do Brasil
+MUSICA:Som da Mente|ALBUM:Mania do Brasil
+MUSICA:PULL DOWN|ALBUM:Mania do Brasil
+MUSICA:Acredita|ALBUM:Mania do Brasil
+MUSICA:TDP Deficiente|ALBUM:Mania do Brasil
+MUSICA:Cobertor de Orelha|ALBUM:XV Anos
+MUSICA:Põe na Conta|ALBUM:XV Anos
+MUSICA:Vira Lata|ALBUM:XV Anos
+MUSICA:Sua Mãe Vai Me Amar|ALBUM:XV Anos
+MUSICA:Pesquisa no Google|ALBUM:Misturadin
+MUSICA:Na Nossa Sala|ALBUM:Misturadin
+MUSICA:Você Levou Um Pedaço de Mim|ALBUM:Misturadin
+MUSICA:Misturadin|ALBUM:Misturadin
+MUSICA:Sua Mãe Vai Me Amar|ALBUM:Misturadin 2
+MUSICA:Aonde Quero Chegar|ALBUM:Misturadin 2
+MUSICA:Muito Além|ALBUM:Misturadin 2
+MUSICA:Se Eu Pudesse|ALBUM:Misturadin 2
+MUSICA:Fora dos Nosso Planos|ALBUM:Todavia Vozes
+MUSICA:Sua Mãe Vai Me Amar|ALBUM:Todavia Vozes
+MUSICA:Pro Nosso Bem|ALBUM:Todavia Vozes
+MUSICA:Golaço|ALBUM:TDP 20 Anos
+MUSICA:O Teu Choro É Meu|ALBUM:TDP 20 Anos
+MUSICA:Solo Sagrado|ALBUM:TDP 20 Anos
+MUSICA:Só Um Pagode|ALBUM:TDP 20 Anos
+MUSICA:Modo Avião|ALBUM:Mixturadin
+MUSICA:Comportamento Estranho|ALBUM:Mixturadin
+MUSICA:Nem Pensa|ALBUM:Mixturadin
+GENERO:Rock
+ARTISTA:blink-182|Cidade:San Diego|Anos:32|Ativo:1|Premios:3|Integrantes:Mark Hoppus, Tom DeLonge, Travis Barker
+MUSICA:Carousel|ALBUM:Cheshire Cat
+MUSICA:M+M's|ALBUM:Cheshire Cat
+MUSICA:Fentoozler|ALBUM:Cheshire Cat
+MUSICA:Touchdown Boy|ALBUM:Cheshire Cat
+MUSICA:Strings|ALBUM:Cheshire Cat
+MUSICA:Peggy Sue|ALBUM:Cheshire Cat
+MUSICA:Pathetic|ALBUM:Dude Ranch
+MUSICA:Voyeur|ALBUM:Dude Ranch
+MUSICA:Dammit|ALBUM:Dude Ranch
+MUSICA:Josie|ALBUM:Dude Ranch
+MUSICA:Aneuryism|ALBUM:Dude Ranch
+MUSICA:Apple Shampoo|ALBUM:Dude Ranch
+MUSICA:Emo|ALBUM:Dude Ranch
+MUSICA:I Miss You|ALBUM:Dude Ranch
+MUSICA:Enema of the State|ALBUM:Enema of the State
+MUSICA:Dumpweed|ALBUM:Enema of the State
+MUSICA:Don't Leave Me|ALBUM:Enema of the State
+MUSICA:Aliens Exist|ALBUM:Enema of the State
+MUSICA:Going Away to College|ALBUM:Enema of the State
+MUSICA:What's My Age Again?|ALBUM:Enema of the State
+MUSICA:Dysentery Gary|ALBUM:Enema of the State
+MUSICA:Adam's Song|ALBUM:Enema of the State
+MUSICA:All the Small Things|ALBUM:Enema of the State
+MUSICA:The Party Song|ALBUM:Enema of the State
+MUSICA:Mutt|ALBUM:Enema of the State
+MUSICA:Wendy Clear|ALBUM:Enema of the State
+MUSICA:Anthem|ALBUM:Enema of the State
+MUSICA:Anthem Part Two|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Online Songs|ALBUM:Take Off Your Pants and Jacket
+MUSICA:First Date|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Happy Holidays, You Bastard|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Story of a Lonely Guy|ALBUM:Take Off Your Pants and Jacket
+MUSICA:The Rock Show|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Stay Together for the Kids|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Roller Coaster|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Reckless Abandon|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Everytime I Look for You|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Give Me One Good Reason|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Shut Up|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Please Take Me Home|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Feeling This|ALBUM:Blink-182
+MUSICA:I Miss You|ALBUM:Blink-182
+MUSICA:Violence|ALBUM:Blink-182
+MUSICA:Stockholm Syndrome|ALBUM:Blink-182
+MUSICA:Down|ALBUM:Blink-182
+MUSICA:The Fallen Interlude|ALBUM:Blink-182
+MUSICA:Go|ALBUM:Blink-182
+MUSICA:Asthenia|ALBUM:Blink-182
+MUSICA:Always|ALBUM:Blink-182
+MUSICA:Easy Target|ALBUM:Blink-182
+MUSICA:All of This|ALBUM:Blink-182
+MUSICA:Here's Your Letter|ALBUM:Blink-182
+MUSICA:I'm Lost Without You|ALBUM:Blink-182
+MUSICA:Ghost on the Dance Floor|ALBUM:Neighborhoods
+MUSICA:Natively|ALBUM:Neighborhoods
+MUSICA:Up All Night|ALBUM:Neighborhoods
+MUSICA:After Midnight|ALBUM:Neighborhoods
+MUSICA:Snake Charmer|ALBUM:Neighborhoods
+MUSICA:Heart's All Gone|ALBUM:Neighborhoods
+MUSICA:Wishing Well|ALBUM:Neighborhoods
+MUSICA:Kaleidoscope|ALBUM:Neighborhoods
+MUSICA:MH 4.18.2011|ALBUM:Neighborhoods
+MUSICA:Love Is Dangerous|ALBUM:Neighborhoods
+MUSICA:Fighting the Gravity|ALBUM:Neighborhoods
+MUSICA:Even If She Falls|ALBUM:Neighborhoods
+MUSICA:Cynical|ALBUM:California
+MUSICA:Bored to Death|ALBUM:California
+MUSICA:She's Out of Her Mind|ALBUM:California
+MUSICA:Los Angeles|ALBUM:California
+MUSICA:Sober|ALBUM:California
+MUSICA:No Future|ALBUM:California
+MUSICA:Home Is Such a Lonely Place|ALBUM:California
+MUSICA:Kings of the Weekend|ALBUM:California
+MUSICA:Teenage Satellites|ALBUM:California
+MUSICA:Left Alone|ALBUM:California
+MUSICA:Rabbit Hole|ALBUM:California
+MUSICA:San Diego|ALBUM:California
+MUSICA:The Only Thing That Matters|ALBUM:California
+MUSICA:California|ALBUM:California
+MUSICA:First Time|ALBUM:NINE
+MUSICA:Happy Days|ALBUM:NINE
+MUSICA:Heaven|ALBUM:NINE
+MUSICA:Darkside|ALBUM:NINE
+MUSICA:Blame It on My Youth|ALBUM:NINE
+MUSICA:Generational Divide|ALBUM:NINE
+MUSICA:Run Away|ALBUM:NINE
+MUSICA:Black Rain|ALBUM:NINE
+MUSICA:I Really Wish I Hated You|ALBUM:NINE
+MUSICA:Pin the Grenade|ALBUM:NINE
+MUSICA:No Heart To Speak Of|ALBUM:NINE
+MUSICA:Ransom|ALBUM:NINE
+MUSICA:On Some Emo Shit|ALBUM:NINE
+MUSICA:Hungover You|ALBUM:NINE
+MUSICA:Remember To Forget Me|ALBUM:NINE
+MUSICA:ANTHEM PART 3|ALBUM:ONE MORE TIME...
+MUSICA:DANCE WITH ME|ALBUM:ONE MORE TIME...
+MUSICA:FELL IN LOVE|ALBUM:ONE MORE TIME...
+MUSICA:ONE MORE TIME|ALBUM:ONE MORE TIME...
+MUSICA:MORE THAN YOU KNOW|ALBUM:ONE MORE TIME...
+MUSICA:TURN THIS OFF!|ALBUM:ONE MORE TIME...
+MUSICA:WHEN WE WERE YOUNG|ALBUM:ONE MORE TIME...
+MUSICA:EDGING|ALBUM:ONE MORE TIME...
+MUSICA:YOU DON'T KNOW WHAT YOU'VE GOT|ALBUM:ONE MORE TIME...
+MUSICA:BLINK WAVE|ALBUM:ONE MORE TIME...
+MUSICA:BAD NEWS|ALBUM:ONE MORE TIME...
+MUSICA:HURT (INTERLUDE)|ALBUM:ONE MORE TIME...
+MUSICA:TURPENTINE|ALBUM:ONE MORE TIME...
+MUSICA:FUCK FACE|ALBUM:ONE MORE TIME...
+MUSICA:OTHER SIDE|ALBUM:ONE MORE TIME...
+MUSICA:CHILDHOOD|ALBUM:ONE MORE TIME...
+GENERO:Hard Rock
+ARTISTA:blink-182|Cidade:San Diego|Anos:32|Ativo:1|Premios:3|Integrantes:Mark Hoppus, Tom DeLonge, Travis Barker
+MUSICA:Carousel|ALBUM:Cheshire Cat
+MUSICA:M+M's|ALBUM:Cheshire Cat
+MUSICA:Fentoozler|ALBUM:Cheshire Cat
+MUSICA:Touchdown Boy|ALBUM:Cheshire Cat
+MUSICA:Strings|ALBUM:Cheshire Cat
+MUSICA:Peggy Sue|ALBUM:Cheshire Cat
+MUSICA:Pathetic|ALBUM:Dude Ranch
+MUSICA:Voyeur|ALBUM:Dude Ranch
+MUSICA:Dammit|ALBUM:Dude Ranch
+MUSICA:Josie|ALBUM:Dude Ranch
+MUSICA:Aneuryism|ALBUM:Dude Ranch
+MUSICA:Apple Shampoo|ALBUM:Dude Ranch
+MUSICA:Emo|ALBUM:Dude Ranch
+MUSICA:I Miss You|ALBUM:Dude Ranch
+MUSICA:Enema of the State|ALBUM:Enema of the State
+MUSICA:Dumpweed|ALBUM:Enema of the State
+MUSICA:Don't Leave Me|ALBUM:Enema of the State
+MUSICA:Aliens Exist|ALBUM:Enema of the State
+MUSICA:Going Away to College|ALBUM:Enema of the State
+MUSICA:What's My Age Again?|ALBUM:Enema of the State
+MUSICA:Dysentery Gary|ALBUM:Enema of the State
+MUSICA:Adam's Song|ALBUM:Enema of the State
+MUSICA:All the Small Things|ALBUM:Enema of the State
+MUSICA:The Party Song|ALBUM:Enema of the State
+MUSICA:Mutt|ALBUM:Enema of the State
+MUSICA:Wendy Clear|ALBUM:Enema of the State
+MUSICA:Anthem|ALBUM:Enema of the State
+MUSICA:Anthem Part Two|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Online Songs|ALBUM:Take Off Your Pants and Jacket
+MUSICA:First Date|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Happy Holidays, You Bastard|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Story of a Lonely Guy|ALBUM:Take Off Your Pants and Jacket
+MUSICA:The Rock Show|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Stay Together for the Kids|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Roller Coaster|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Reckless Abandon|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Everytime I Look for You|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Give Me One Good Reason|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Shut Up|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Please Take Me Home|ALBUM:Take Off Your Pants and Jacket
+MUSICA:Feeling This|ALBUM:Blink-182
+MUSICA:I Miss You|ALBUM:Blink-182
+MUSICA:Violence|ALBUM:Blink-182
+MUSICA:Stockholm Syndrome|ALBUM:Blink-182
+MUSICA:Down|ALBUM:Blink-182
+MUSICA:The Fallen Interlude|ALBUM:Blink-182
+MUSICA:Go|ALBUM:Blink-182
+MUSICA:Asthenia|ALBUM:Blink-182
+MUSICA:Always|ALBUM:Blink-182
+MUSICA:Easy Target|ALBUM:Blink-182
+MUSICA:All of This|ALBUM:Blink-182
+MUSICA:Here's Your Letter|ALBUM:Blink-182
+MUSICA:I'm Lost Without You|ALBUM:Blink-182
+MUSICA:Ghost on the Dance Floor|ALBUM:Neighborhoods
+MUSICA:Natively|ALBUM:Neighborhoods
+MUSICA:Up All Night|ALBUM:Neighborhoods
+MUSICA:After Midnight|ALBUM:Neighborhoods
+MUSICA:Snake Charmer|ALBUM:Neighborhoods
+MUSICA:Heart's All Gone|ALBUM:Neighborhoods
+MUSICA:Wishing Well|ALBUM:Neighborhoods
+MUSICA:Kaleidoscope|ALBUM:Neighborhoods
+MUSICA:MH 4.18.2011|ALBUM:Neighborhoods
+MUSICA:Love Is Dangerous|ALBUM:Neighborhoods
+MUSICA:Fighting the Gravity|ALBUM:Neighborhoods
+MUSICA:Even If She Falls|ALBUM:Neighborhoods
+MUSICA:Cynical|ALBUM:California
+MUSICA:Bored to Death|ALBUM:California
+MUSICA:She's Out of Her Mind|ALBUM:California
+MUSICA:Los Angeles|ALBUM:California
+MUSICA:Sober|ALBUM:California
+MUSICA:No Future|ALBUM:California
+MUSICA:Home Is Such a Lonely Place|ALBUM:California
+MUSICA:Kings of the Weekend|ALBUM:California
+MUSICA:Teenage Satellites|ALBUM:California
+MUSICA:Left Alone|ALBUM:California
+MUSICA:Rabbit Hole|ALBUM:California
+MUSICA:San Diego|ALBUM:California
+MUSICA:The Only Thing That Matters|ALBUM:California
+MUSICA:California|ALBUM:California
+MUSICA:First Time|ALBUM:NINE
+MUSICA:Happy Days|ALBUM:NINE
+MUSICA:Heaven|ALBUM:NINE
+MUSICA:Darkside|ALBUM:NINE
+MUSICA:Blame It on My Youth|ALBUM:NINE
+MUSICA:Generational Divide|ALBUM:NINE
+MUSICA:Run Away|ALBUM:NINE
+MUSICA:Black Rain|ALBUM:NINE
+MUSICA:I Really Wish I Hated You|ALBUM:NINE
+MUSICA:Pin the Grenade|ALBUM:NINE
+MUSICA:No Heart To Speak Of|ALBUM:NINE
+MUSICA:Ransom|ALBUM:NINE
+MUSICA:On Some Emo Shit|ALBUM:NINE
+MUSICA:Hungover You|ALBUM:NINE
+MUSICA:Remember To Forget Me|ALBUM:NINE
+MUSICA:ANTHEM PART 3|ALBUM:ONE MORE TIME...
+MUSICA:DANCE WITH ME|ALBUM:ONE MORE TIME...
+MUSICA:FELL IN LOVE|ALBUM:ONE MORE TIME...
+MUSICA:ONE MORE TIME|ALBUM:ONE MORE TIME...
+MUSICA:MORE THAN YOU KNOW|ALBUM:ONE MORE TIME...
+MUSICA:TURN THIS OFF!|ALBUM:ONE MORE TIME...
+MUSICA:WHEN WE WERE YOUNG|ALBUM:ONE MORE TIME...
+MUSICA:EDGING|ALBUM:ONE MORE TIME...
+MUSICA:YOU DON'T KNOW WHAT YOU'VE GOT|ALBUM:ONE MORE TIME...
+MUSICA:BLINK WAVE|ALBUM:ONE MORE TIME...
+MUSICA:BAD NEWS|ALBUM:ONE MORE TIME...
+MUSICA:HURT (INTERLUDE)|ALBUM:ONE MORE TIME...
+MUSICA:TURPENTINE|ALBUM:ONE MORE TIME...
+MUSICA:FUCK FACE|ALBUM:ONE MORE TIME...
+MUSICA:OTHER SIDE|ALBUM:ONE MORE TIME...
+MUSICA:CHILDHOOD|ALBUM:ONE MORE TIME...
+GENERO:Hip-Hop
+ARTISTA:Baco Exu do Blues|Cidade:Salvador|Anos:9|Ativo:1|Premios:2|Integrantes:Baco Exu do Blues
+MUSICA:Esú|ALBUM:Esú
+MUSICA:Aonde Leva?|ALBUM:Esú
+MUSICA:Suicídio|ALBUM:Esú
+MUSICA:Banho de Sol|ALBUM:Esú
+MUSICA:Teia de Aranha|ALBUM:Esú
+MUSICA:Capitão de Areia|ALBUM:Esú
+MUSICA:A Pele Que Habito|ALBUM:Esú
+MUSICA:Oração|ALBUM:Esú
+MUSICA:Encontro das Águas|ALBUM:Esú
+MUSICA:Imensidão|ALBUM:Esú
+MUSICA:Me Desculpa Jay Z|ALBUM:Bluesman
+MUSICA:Bluesman|ALBUM:Bluesman
+MUSICA:Que Bloco É Esse?|ALBUM:Bluesman
+MUSICA:FLAMINGOS|ALBUM:Bluesman
+MUSICA:GIRASSÓIS DE VAN GOGH|ALBUM:Bluesman
+MUSICA:MINISTÉRIO DA MÁGOA|ALBUM:Bluesman
+MUSICA:KANYE WEST DA BAHIA|ALBUM:Bluesman
+MUSICA:SABOTAGE|ALBUM:Bluesman
+MUSICA:BB KING|ALBUM:Bluesman
+MUSICA:O PRETO GANHOU|ALBUM:Bluesman
+MUSICA:O Abre Alas|ALBUM:Não Tem Como Esquecer
+MUSICA:Não Tem Como Esquecer|ALBUM:Não Tem Como Esquecer
+MUSICA:Tudo Que Eu Preciso|ALBUM:Não Tem Como Esquecer
+MUSICA:Dê Aonde Vem|ALBUM:Não Tem Como Esquecer
+MUSICA:Seu Olhares|ALBUM:Não Tem Como Esquecer
+MUSICA:Inimigos|ALBUM:Não Tem Como Esquecer
+MUSICA:LÁCIMA|ALBUM:QDK
+MUSICA:O Canto do Cisne|ALBUM:QDK
+MUSICA:Baco no Sertão|ALBUM:QDK
+MUSICA:Samba do Homem Sete|ALBUM:QDK
+MUSICA:Sua Preferida|ALBUM:QDK
+MUSICA:Samba e Amor|ALBUM:QDK
+MUSICA:LÁTIMA|ALBUM:QDK
+MUSICA:Sorte|ALBUM:QDK
+MUSICA:Samba de Verão|ALBUM:QDK
+MUSICA:Samba da Benção|ALBUM:QDK
+MUSICA:DOS ANJOS|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:Samba in Paris|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:20 Ligações|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:SEI QUE AINDA SOU UM HOMEM|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:MÚSICA DE AMOR NUNCA MAIS|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:LÁGRIMA|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:AUTOESTIMA|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:LIGANDO O FODA-SE|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:MULHER DO FIM DO MUNDO|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:IMORTAL|ALBUM:Quantas Times Você Já Foi Amado?
+MUSICA:LUV IN THE AIR|ALBUM:Fetiche
+MUSICA:FETICHE|ALBUM:Fetiche
+MUSICA:SOTEROPOLITANA|ALBUM:Fetiche
+MUSICA:PAIXÃO|ALBUM:Fetiche
+MUSICA:LIGADO|ALBUM:Fetiche
+MUSICA:ON DA BEAT|ALBUM:Fetiche
+MUSICA:A VONTADE|ALBUM:Fetiche
+GENERO:Funk
+ARTISTA:99 no beat|Cidade:Brasil|Anos:4|Ativo:1|Premios:0|Integrantes:99 no beat
+MUSICA:Trek Trek a Cama Balança|ALBUM:Tremzinho do 99
+MUSICA:POK POK|ALBUM:Tremzinho do 99
+MUSICA:Como Tu Quebrou o Cano?|ALBUM:New Nine
+MUSICA:Calor Comendo|ALBUM:New Nine
+MUSICA:Vem Fazer Besteira|ALBUM:New Nine
+MUSICA:ODNUM ao Contrário!|ALBUM:New Nine
+MUSICA:Medley Tik Tok 2.0|ALBUM:Verão 99 Graus
+MUSICA:Senta Pra Ladrão|ALBUM:Verão 99 Graus
+MUSICA:Toma Pau|ALBUM:Verão 99 Graus
+MUSICA:Sentadinha|ALBUM:Verão 99 Graus
+MUSICA:Sou Clt e Ela do Job|ALBUM:Verão 99 Graus
+GENERO:Funk
+ARTISTA:MC Carol|Cidade:Niterói|Anos:14|Ativo:1|Premios:0|Integrantes:MC Carol
+MUSICA:Meu Namorado É Mo Otário|ALBUM:Bandida
+MUSICA:Jorjão|ALBUM:Bandida
+MUSICA:Liga Pra Mim|ALBUM:Bandida
+MUSICA:Descarada|ALBUM:Bandida
+MUSICA:100% Feminista|ALBUM:Bandida
+MUSICA:Delação Premiada|ALBUM:Bandida
+MUSICA:Avisa Lá|ALBUM:Bandida
+MUSICA:O Amor Acabou|ALBUM:Bandida
+MUSICA:Garganta Profunda|ALBUM:Borogodó
+MUSICA:Acompanhante|ALBUM:Borogodó
+MUSICA:De Acompanhante A Rainha|ALBUM:Borogodó
+MUSICA:Mulher do Fim do Mundo|ALBUM:Borogodó
+MUSICA:Levanta Esse Animo|ALBUM:Borogodó
+MUSICA:Toca o Berrante|ALBUM:Borogodó
+MUSICA:Cheguei no Baile|ALBUM:Borogodó
+MUSICA:Coração de Melão|ALBUM:Borogodó
+MUSICA:Mãe Solteira|ALBUM:Borogodó
+MUSICA:Pequena Garota|ALBUM:Borogodó
+MUSICA:Trabalho Escravo|ALBUM:Borogodó
+MUSICA:Festa de Aniversário|ALBUM:Borogodó
+MUSICA:Pai Nosso|ALBUM:Borogodó
+MUSICA:Mulher Real|ALBUM:Borogodó
+MUSICA:Assassina de Macho|ALBUM:Borogodó
+MUSICA:Dá Squeeze Que É Sucesso|ALBUM:Borogodó
+MUSICA:Coração de Vagabunda|ALBUM:Borogodó
+MUSICA:Ninguém Te Perguntou Nada|ALBUM:Borogodó
+MUSICA:A Bitch Quer O Quê|ALBUM:Borogodó
+MUSICA:Modo Avião|ALBUM:Borogodó
+MUSICA:Felicidade|ALBUM:Borogodó
+MUSICA:Amanheceu|ALBUM:Borogodó
+MUSICA:O Amor Não Dura Para Sempre|ALBUM:Borogodó
+MUSICA:Invasão de Privacidade|ALBUM:Borogodó
+MUSICA:Poderosa|ALBUM:Borogodó
+MUSICA:Dona do Meu Nariz|ALBUM:Borogodó
+MUSICA:O Início de Um Sonho|ALBUM:Borogodó
+MUSICA:Sextou|ALBUM:Borogodó
+MUSICA:Tá Com Medo de Quê?|ALBUM:Borogodó
+MUSICA:Solitude|ALBUM:Borogodó
+MUSICA:Sem Vergonha|ALBUM:Borogodó
+MUSICA:Superação|ALBUM:Borogodó
+GENERO:Reggae
+ARTISTA:Bob Marley & The Wailers|Cidade:Kingston|Anos:20|Ativo:0|Premios:1|Integrantes:Bob Marley, Peter Tosh, Bunny Wailer, Carlton Barrett, Aston Barrett
+MUSICA:Soul Rebel|ALBUM:Soul Rebels
+MUSICA:400 Years|ALBUM:Soul Rebels
+MUSICA:My Cup|ALBUM:Soul Rebels
+MUSICA:Try Me|ALBUM:Soul Rebels
+MUSICA:It's Alright|ALBUM:Soul Rebels
+MUSICA:No Sympathy|ALBUM:Soul Rebels
+MUSICA:Keep On Moving|ALBUM:Soul Revolution
+MUSICA:Don't Rock My Boat|ALBUM:Soul Revolution
+MUSICA:Put It On|ALBUM:Soul Revolution
+MUSICA:Fussing & Fighting|ALBUM:Soul Revolution
+MUSICA:Duppy Conqueror|ALBUM:Soul Revolution
+MUSICA:Concrete Jungle|ALBUM:Catch a Fire
+MUSICA:Slave Driver|ALBUM:Catch a Fire
+MUSICA:400 Years|ALBUM:Catch a Fire
+MUSICA:Stop That Train|ALBUM:Catch a Fire
+MUSICA:Baby We've Got a Date (Rock It Baby)|ALBUM:Catch a Fire
+MUSICA:Stir It Up|ALBUM:Catch a Fire
+MUSICA:Kinky Reggae|ALBUM:Catch a Fire
+MUSICA:No More Trouble|ALBUM:Catch a Fire
+MUSICA:Midnight Ravers|ALBUM:Catch a Fire
+MUSICA:Get Up, Stand Up|ALBUM:Burnin'
+MUSICA:Hallelujah Time|ALBUM:Burnin'
+MUSICA:I Shot the Sheriff|ALBUM:Burnin'
+MUSICA:Burnin' and Lootin'|ALBUM:Burnin'
+MUSICA:Small Axe|ALBUM:Burnin'
+MUSICA:Pass It On|ALBUM:Burnin'
+MUSICA:Duppy Conqueror|ALBUM:Burnin'
+MUSICA:One Foundation|ALBUM:Burnin'
+MUSICA:Rasta Man Chant|ALBUM:Burnin'
+MUSICA:Lively Up Yourself|ALBUM:Natty Dread
+MUSICA:No Woman, No Cry|ALBUM:Natty Dread
+MUSICA:Them Belly Full (But We Hungry)|ALBUM:Natty Dread
+MUSICA:Rebel Music (3 O'Clock Roadblock)|ALBUM:Natty Dread
+MUSICA:So Jah Sseh|ALBUM:Natty Dread
+MUSICA:Natty Dread|ALBUM:Natty Dread
+MUSICA:Bend Down Low|ALBUM:Natty Dread
+MUSICA:Revolution|ALBUM:Natty Dread
+MUSICA:Positive Vibration|ALBUM:Rastaman Vibration
+MUSICA:Roots, Rock, Reggae|ALBUM:Rastaman Vibration
+MUSICA:Who the Cap Fit|ALBUM:Rastaman Vibration
+MUSICA:Cry to Me|ALBUM:Rastaman Vibration
+MUSICA:Want More|ALBUM:Rastaman Vibration
+MUSICA:War|ALBUM:Rastaman Vibration
+MUSICA:Rat Race|ALBUM:Rastaman Vibration
+MUSICA:Natural Mystic|ALBUM:Exodus
+MUSICA:So Much Things to Say|ALBUM:Exodus
+MUSICA:Guiltiness|ALBUM:Exodus
+MUSICA:The Heathen|ALBUM:Exodus
+MUSICA:Exodus|ALBUM:Exodus
+MUSICA:Jamming|ALBUM:Exodus
+MUSICA:Waiting in Vain|ALBUM:Exodus
+MUSICA:Turn Your Lights Down Low|ALBUM:Exodus
+MUSICA:Three Little Birds|ALBUM:Exodus
+MUSICA:One Love / People Get Ready|ALBUM:Exodus
+MUSICA:Easy Skanking|ALBUM:Kaya
+MUSICA:Kaya|ALBUM:Kaya
+MUSICA:Is This Love|ALBUM:Kaya
+MUSICA:Sun Is Shining|ALBUM:Kaya
+MUSICA:Satisfy My Soul|ALBUM:Kaya
+MUSICA:She's Gone|ALBUM:Kaya
+MUSICA:Misty Morning|ALBUM:Kaya
+MUSICA:Crisis|ALBUM:Kaya
+MUSICA:Running Away|ALBUM:Kaya
+MUSICA:Time Will Tell|ALBUM:Kaya
+MUSICA:So Much Trouble in the World|ALBUM:Survival
+MUSICA:Top Rankin'|ALBUM:Survival
+MUSICA:Babylon System|ALBUM:Survival
+MUSICA:Survival|ALBUM:Survival
+MUSICA:Africa Unite|ALBUM:Survival
+MUSICA:One Drop|ALBUM:Survival
+MUSICA:Ride Natty Ride|ALBUM:Survival
+MUSICA:Ambush in the Night|ALBUM:Survival
+MUSICA:Wake Up and Live|ALBUM:Survival
+MUSICA:Coming in from the Cold|ALBUM:Uprising
+MUSICA:Real Situation|ALBUM:Uprising
+MUSICA:Bad Card|ALBUM:Uprising
+MUSICA:We and Dem|ALBUM:Uprising
+MUSICA:Work|ALBUM:Uprising
+MUSICA:Zion Train|ALBUM:Uprising
+MUSICA:Pimper's Paradise|ALBUM:Uprising
+MUSICA:Could You Be Loved|ALBUM:Uprising
+MUSICA:Forever Loving Jah|ALBUM:Uprising
+MUSICA:Redemption Song|ALBUM:Uprising
+MUSICA:Chant Down Babylon|ALBUM:Confrontation
+MUSICA:Buffalo Soldier|ALBUM:Confrontation
+MUSICA:Jump Nyabinghi|ALBUM:Confrontation
+MUSICA:Mix Up, Mix Up|ALBUM:Confrontation
+MUSICA:Give Thanks and Praises|ALBUM:Confrontation
+MUSICA:Blackman Redemption|ALBUM:Confrontation
+MUSICA:Trenchtown|ALBUM:Confrontation
+MUSICA:Stiff Necked Fools|ALBUM:Confrontation
+GENERO:Pop
+ARTISTA:One Direction|Cidade:Londres|Anos:6|Ativo:0|Premios:7|Integrantes:Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, Zayn Malik
+MUSICA:What Makes You Beautiful|ALBUM:Up All Night
+MUSICA:Gotta Be You|ALBUM:Up All Night
+MUSICA:One Thing|ALBUM:Up All Night
+MUSICA:More than This|ALBUM:Up All Night
+MUSICA:Up All Night|ALBUM:Up All Night
+MUSICA:I Wish|ALBUM:Up All Night
+MUSICA:Tell Me a Lie|ALBUM:Up All Night
+MUSICA:Taken|ALBUM:Up All Night
+MUSICA:I Want|ALBUM:Up All Night
+MUSICA:Same Mistakes|ALBUM:Up All Night
+MUSICA:Save You Tonight|ALBUM:Up All Night
+MUSICA:Stole My Heart|ALBUM:Up All Night
+MUSICA:Live While We're Young|ALBUM:Take Me Home
+MUSICA:Kiss You|ALBUM:Take Me Home
+MUSICA:Little Things|ALBUM:Take Me Home
+MUSICA:C'mon, C'mon|ALBUM:Take Me Home
+MUSICA:Last First Kiss|ALBUM:Take Me Home
+MUSICA:Heart Attack|ALBUM:Take Me Home
+MUSICA:Rock Me|ALBUM:Take Me Home
+MUSICA:Change My Mind|ALBUM:Take Me Home
+MUSICA:I Would|ALBUM:Take Me Home
+MUSICA:Over Again|ALBUM:Take Me Home
+MUSICA:Back for You|ALBUM:Take Me Home
+MUSICA:They Don't Know About Us|ALBUM:Take Me Home
+MUSICA:Summer Love|ALBUM:Take Me Home
+MUSICA:Best Song Ever|ALBUM:Midnight Memories
+MUSICA:Story of My Life|ALBUM:Midnight Memories
+MUSICA:Diana|ALBUM:Midnight Memories
+MUSICA:Midnight Memories|ALBUM:Midnight Memories
+MUSICA:You & I|ALBUM:Midnight Memories
+MUSICA:Don't Forget Where You Belong|ALBUM:Midnight Memories
+MUSICA:Strong|ALBUM:Midnight Memories
+MUSICA:Happily|ALBUM:Midnight Memories
+MUSICA:Right Now|ALBUM:Midnight Memories
+MUSICA:Little Black Dress|ALBUM:Midnight Memories
+MUSICA:Through the Dark|ALBUM:Midnight Memories
+MUSICA:Something Great|ALBUM:Midnight Memories
+MUSICA:Little White Lies|ALBUM:Midnight Memories
+MUSICA:Better Than Words|ALBUM:Midnight Memories
+MUSICA:Steal My Girl|ALBUM:Four
+MUSICA:Ready to Run|ALBUM:Four
+MUSICA:Where Do Broken Hearts Go|ALBUM:Four
+MUSICA:18|ALBUM:Four
+MUSICA:Girl Almighty|ALBUM:Four
+MUSICA:Fool's Gold|ALBUM:Four
+MUSICA:Night Changes|ALBUM:Four
+MUSICA:No Control|ALBUM:Four
+MUSICA:Fireproof|ALBUM:Four
+MUSICA:Spaces|ALBUM:Four
+MUSICA:Stockholm Syndrome|ALBUM:Four
+MUSICA:Clouds|ALBUM:Four
+MUSICA:Hey Angel|ALBUM:Made in the A.M.
+MUSICA:Drag Me Down|ALBUM:Made in the A.M.
+MUSICA:Perfect|ALBUM:Made in the A.M.
+MUSICA:Infinity|ALBUM:Made in the A.M.
+MUSICA:End of the Day|ALBUM:Made in the A.M.
+MUSICA:If I Could Fly|ALBUM:Made in the A.M.
+MUSICA:Long Way Down|ALBUM:Made in the A.M.
+MUSICA:Never Enough|ALBUM:Made in the A.M.
+MUSICA:Olivia|ALBUM:Made in the A.M.
+MUSICA:What a Feeling|ALBUM:Made in the A.M.
+MUSICA:Love You Goodbye|ALBUM:Made in the A.M.
+MUSICA:I Want to Write You a Song|ALBUM:Made in the A.M.
+MUSICA:History|ALBUM:Made in the A.M.
+GENERO:Art Pop
+ARTISTA:Björk|Cidade:Reykjavík|Anos:47|Ativo:1|Premios:5|Integrantes:Björk
+MUSICA:Human Behaviour|ALBUM:Debut
+MUSICA:Crying|ALBUM:Debut
+MUSICA:Venus as a Boy|ALBUM:Debut
+MUSICA:There's More to Life Than This|ALBUM:Debut
+MUSICA:Like Someone in Love|ALBUM:Debut
+MUSICA:Big Time Sensuality|ALBUM:Debut
+MUSICA:One Day|ALBUM:Debut
+MUSICA:Aeroplane|ALBUM:Debut
+MUSICA:Come to Me|ALBUM:Debut
+MUSICA:Violently Happy|ALBUM:Debut
+MUSICA:The Anchor Song|ALBUM:Debut
+MUSICA:Army of Me|ALBUM:Post
+MUSICA:Hyperballad|ALBUM:Post
+MUSICA:The Modern Things|ALBUM:Post
+MUSICA:It's Oh So Quiet|ALBUM:Post
+MUSICA:Enjoy|ALBUM:Post
+MUSICA:You've Been Flirting Again|ALBUM:Post
+MUSICA:Isobel|ALBUM:Post
+MUSICA:Possibly Maybe|ALBUM:Post
+MUSICA:I Miss You|ALBUM:Post
+MUSICA:Cover Me|ALBUM:Post
+MUSICA:Headphones|ALBUM:Post
+MUSICA:Hunter|ALBUM:Homogenic
+MUSICA:Jóga|ALBUM:Homogenic
+MUSICA:Unravel|ALBUM:Homogenic
+MUSICA:Bachelorette|ALBUM:Homogenic
+MUSICA:All Neon Like|ALBUM:Homogenic
+MUSICA:5 Years|ALBUM:Homogenic
+MUSICA:Immature|ALBUM:Homogenic
+MUSICA:Alarm Call|ALBUM:Homogenic
+MUSICA:Pluto|ALBUM:Homogenic
+MUSICA:All Is Full of Love|ALBUM:Homogenic
+MUSICA:Hidden Place|ALBUM:Vespertine
+MUSICA:Cocoon|ALBUM:Vespertine
+MUSICA:It's Not Up to You|ALBUM:Vespertine
+MUSICA:Undo|ALBUM:Vespertine
+MUSICA:Pagan Poetry|ALBUM:Vespertine
+MUSICA:Frosti|ALBUM:Vespertine
+MUSICA:Aurora|ALBUM:Vespertine
+MUSICA:An Echo, A Stain|ALBUM:Vespertine
+MUSICA:Sun in My Mouth|ALBUM:Vespertine
+MUSICA:Heirloom|ALBUM:Vespertine
+MUSICA:Harm of Will|ALBUM:Vespertine
+MUSICA:Unison|ALBUM:Vespertine
+MUSICA:Pleasure Is All Mine|ALBUM:Medúlla
+MUSICA:Show Me Forgiveness|ALBUM:Medúlla
+MUSICA:Where Is the Line|ALBUM:Medúlla
+MUSICA:Vökuró|ALBUM:Medúlla
+MUSICA:Öll Birtan|ALBUM:Medúlla
+MUSICA:Who Is It|ALBUM:Medúlla
+MUSICA:Submarine|ALBUM:Medúlla
+MUSICA:Desired Constellation|ALBUM:Medúlla
+MUSICA:Oceania|ALBUM:Medúlla
+MUSICA:Sonnets / Unrealities XI|ALBUM:Medúlla
+MUSICA:Ancestors|ALBUM:Medúlla
+MUSICA:Mouth's Cradle|ALBUM:Medúlla
+MUSICA:Miðvikudags|ALBUM:Medúlla
+MUSICA:Triumph of a Heart|ALBUM:Medúlla
+MUSICA:Earth Intruders|ALBUM:Volta
+MUSICA:Wanderlust|ALBUM:Volta
+MUSICA:The Dull Flame of Desire|ALBUM:Volta
+MUSICA:Innocence|ALBUM:Volta
+MUSICA:I See Who You Are|ALBUM:Volta
+MUSICA:Verðandi|ALBUM:Volta
+MUSICA:Pneumonia|ALBUM:Volta
+MUSICA:Hope|ALBUM:Volta
+MUSICA:Declare Independence|ALBUM:Volta
+MUSICA:My Juvenile|ALBUM:Volta
+MUSICA:Moon|ALBUM:Biophilia
+MUSICA:Thunderbolt|ALBUM:Biophilia
+MUSICA:Crystalline|ALBUM:Biophilia
+MUSICA:Cosmogony|ALBUM:Biophilia
+MUSICA:Dark Matter|ALBUM:Biophilia
+MUSICA:Hollow|ALBUM:Biophilia
+MUSICA:Virus|ALBUM:Biophilia
+MUSICA:Sacrifice|ALBUM:Biophilia
+MUSICA:Mutual Core|ALBUM:Biophilia
+MUSICA:Solstice|ALBUM:Biophilia
+MUSICA:Stonemilker|ALBUM:Vulnicura
+MUSICA:Lionsong|ALBUM:Vulnicura
+MUSICA:History of Touches|ALBUM:Vulnicura
+MUSICA:Black Lake|ALBUM:Vulnicura
+MUSICA:Family|ALBUM:Vulnicura
+MUSICA:Notget|ALBUM:Vulnicura
+MUSICA:Atom Dance|ALBUM:Vulnicura
+MUSICA:Mouth Mantra|ALBUM:Vulnicura
+MUSICA:Quicksand|ALBUM:Vulnicura
+MUSICA:Arisen My Senses|ALBUM:Utopia
+MUSICA:Blissing Me|ALBUM:Utopia
+MUSICA:The Gate|ALBUM:Utopia
+MUSICA:Utopia|ALBUM:Utopia
+MUSICA:Body Memory|ALBUM:Utopia
+MUSICA:Courtship|ALBUM:Utopia
+MUSICA:Losss|ALBUM:Utopia
+MUSICA:Sue Me|ALBUM:Utopia
+MUSICA:Tabula Rasa|ALBUM:Utopia
+MUSICA:Claimstaker|ALBUM:Utopia
+MUSICA:Paradisa|ALBUM:Utopia
+MUSICA:Saint|ALBUM:Utopia
+MUSICA:Future Forever|ALBUM:Utopia
+MUSICA:Atopos|ALBUM:Fossora
+MUSICA:Ovule|ALBUM:Fossora
+MUSICA:Mycelia|ALBUM:Fossora
+MUSICA:Sorrowful Soil|ALBUM:Fossora
+MUSICA:Ancestress|ALBUM:Fossora
+MUSICA:Fagrahrami|ALBUM:Fossora
+MUSICA:Fossora|ALBUM:Fossora
+MUSICA:Allow|ALBUM:Fossora
+MUSICA:Fungal City|ALBUM:Fossora
+MUSICA:Trölla-Gabba|ALBUM:Fossora
+MUSICA:Freefall|ALBUM:Fossora
+MUSICA:Her Mother's House|ALBUM:Fossora
+GENERO:Pós-Punk
+ARTISTA:Plastique Noir|Cidade:Fortaleza|Anos:21|Ativo:1|Premios:0|Integrantes:Airton S., Danyel Alves, Deivyson Teixeira
+MUSICA:Inconstancy|ALBUM:Dead Pop
+MUSICA:Imaginary Walls|ALBUM:Dead Pop
+MUSICA:Phantom In My Stereo|ALBUM:Dead Pop
+MUSICA:IML|ALBUM:Dead Pop
+MUSICA:Creep Show|ALBUM:Dead Pop
+MUSICA:Killdergarten|ALBUM:Dead Pop
+MUSICA:Those Who Walk By The Night|ALBUM:Dead Pop
+MUSICA:Desire or Disease|ALBUM:Dead Pop
+MUSICA:Shadowrun|ALBUM:Dead Pop
+MUSICA:Nihil|ALBUM:Dead Pop
+MUSICA:Empty Streets|ALBUM:Dead Pop
+MUSICA:Silent Shout|ALBUM:Dead Pop
+MUSICA:Morphine Days|ALBUM:Dead Pop
+MUSICA:Rose of Flesh and Blood|ALBUM:Affects
+MUSICA:Fugitive Dawn|ALBUM:Affects
+MUSICA:Vésper|ALBUM:Affects
+MUSICA:Asleep In The Night Train|ALBUM:Affects
+MUSICA:Silent Kingdom|ALBUM:Affects
+MUSICA:Secret Bizarre|ALBUM:Affects
+MUSICA:24 Hours Awake|ALBUM:24 Hours Awake
+MUSICA:Scared|ALBUM:24 Hours Awake
+MUSICA:Peepshow|ALBUM:24 Hours Awake
+MUSICA:Mara|ALBUM:24 Hours Awake
+MUSICA:Poltergeist|ALBUM:24 Hours Awake
+MUSICA:Catedrais Em Chamas|ALBUM:Iskuros
+MUSICA:All Cats Shall Celebrate|ALBUM:Iskuros
+MUSICA:Kafé|ALBUM:Iskuros
+MUSICA:Upper Waves|ALBUM:Iskuros
+MUSICA:Scrying Your Soul|ALBUM:Iskuros
+MUSICA:Clock|ALBUM:Iskuros
+MUSICA:Manifesto|ALBUM:Iskuros
+MUSICA:Times|ALBUM:Iskuros
+GENERO:Rock Gótico
+ARTISTA:Plastique Noir|Cidade:Fortaleza|Anos:21|Ativo:1|Premios:0|Integrantes:Airton S., Danyel Alves, Deivyson Teixeira
+MUSICA:Inconstancy|ALBUM:Dead Pop
+MUSICA:Imaginary Walls|ALBUM:Dead Pop
+MUSICA:Phantom In My Stereo|ALBUM:Dead Pop
+MUSICA:IML|ALBUM:Dead Pop
+MUSICA:Creep Show|ALBUM:Dead Pop
+MUSICA:Killdergarten|ALBUM:Dead Pop
+MUSICA:Those Who Walk By The Night|ALBUM:Dead Pop
+MUSICA:Desire or Disease|ALBUM:Dead Pop
+MUSICA:Shadowrun|ALBUM:Dead Pop
+MUSICA:Nihil|ALBUM:Dead Pop
+MUSICA:Empty Streets|ALBUM:Dead Pop
+MUSICA:Silent Shout|ALBUM:Dead Pop
+MUSICA:Morphine Days|ALBUM:Dead Pop
+MUSICA:Rose of Flesh and Blood|ALBUM:Affects
+MUSICA:Fugitive Dawn|ALBUM:Affects
+MUSICA:Vésper|ALBUM:Affects
+MUSICA:Asleep In The Night Train|ALBUM:Affects
+MUSICA:Silent Kingdom|ALBUM:Affects
+MUSICA:Secret Bizarre|ALBUM:Affects
+MUSICA:24 Hours Awake|ALBUM:24 Hours Awake
+MUSICA:Scared|ALBUM:24 Hours Awake
+MUSICA:Peepshow|ALBUM:24 Hours Awake
+MUSICA:Mara|ALBUM:24 Hours Awake
+MUSICA:Poltergeist|ALBUM:24 Hours Awake
+MUSICA:Catedrais Em Chamas|ALBUM:Iskuros
+MUSICA:All Cats Shall Celebrate|ALBUM:Iskuros
+MUSICA:Kafé|ALBUM:Iskuros
+MUSICA:Upper Waves|ALBUM:Iskuros
+MUSICA:Scrying Your Soul|ALBUM:Iskuros
+MUSICA:Clock|ALBUM:Iskuros
+MUSICA:Manifesto|ALBUM:Iskuros
+MUSICA:Times|ALBUM:Iskuros
+GENERO:Synthpop
+ARTISTA:Depeche Mode|Cidade:Basildon|Anos:46|Ativo:1|Premios:2|Integrantes:Dave Gahan, Martin Gore, Andy Fletcher, Vince Clarke, Alan Wilder
+MUSICA:New Life|ALBUM:Speak & Spell
+MUSICA:Puppets|ALBUM:Speak & Spell
+MUSICA:Dreaming of Me|ALBUM:Speak & Spell
+MUSICA:Boys Say Go!|ALBUM:Speak & Spell
+MUSICA:Just Can't Get Enough|ALBUM:Speak & Spell
+MUSICA:Leave in Silence|ALBUM:A Broken Frame
+MUSICA:My Secret Garden|ALBUM:A Broken Frame
+MUSICA:See You|ALBUM:A Broken Frame
+MUSICA:The Meaning of Love|ALBUM:A Broken Frame
+MUSICA:Love, in Itself|ALBUM:Construction Time Again
+MUSICA:More Than a Party|ALBUM:Construction Time Again
+MUSICA:Pipeline|ALBUM:Construction Time Again
+MUSICA:Everything Counts|ALBUM:Construction Time Again
+MUSICA:Something to Do|ALBUM:Some Great Reward
+MUSICA:People Are People|ALBUM:Some Great Reward
+MUSICA:It's Doesn't Matter|ALBUM:Some Great Reward
+MUSICA:Stories of Lust|ALBUM:Some Great Reward
+MUSICA:Master and Servant|ALBUM:Some Great Reward
+MUSICA:Blasphemous Rumours|ALBUM:Some Great Reward
+MUSICA:Somebody|ALBUM:Some Great Reward
+MUSICA:Black Celebration|ALBUM:Black Celebration
+MUSICA:A Question of Lust|ALBUM:Black Celebration
+MUSICA:A Question of Time|ALBUM:Black Celebration
+MUSICA:Stripped|ALBUM:Black Celebration
+MUSICA:Never Let Me Down Again|ALBUM:Music for the Masses
+MUSICA:The Things You Said|ALBUM:Music for the Masses
+MUSICA:Strangelove|ALBUM:Music for the Masses
+MUSICA:Behind the Wheel|ALBUM:Music for the Masses
+MUSICA:Little 15|ALBUM:Music for the Masses
+MUSICA:World in My Eyes|ALBUM:Violator
+MUSICA:Sweetest Perfection|ALBUM:Violator
+MUSICA:Personal Jesus|ALBUM:Violator
+MUSICA:Halo|ALBUM:Violator
+MUSICA:Waiting for the Night|ALBUM:Violator
+MUSICA:Enjoy the Silence|ALBUM:Violator
+MUSICA:Policy of Truth|ALBUM:Violator
+MUSICA:Blue Dress|ALBUM:Violator
+MUSICA:Clean|ALBUM:Violator
+MUSICA:I Feel You|ALBUM:Songs of Faith and Devotion
+MUSICA:Walking in My Shoes|ALBUM:Songs of Faith and Devotion
+MUSICA:Condemnation|ALBUM:Songs of Faith and Devotion
+MUSICA:Mercy in You|ALBUM:Songs of Faith and Devotion
+MUSICA:Judas|ALBUM:Songs of Faith and Devotion
+MUSICA:In Your Room|ALBUM:Songs of Faith and Devotion
+MUSICA:Barrel of a Gun|ALBUM:Ultra
+MUSICA:The Love Thieves|ALBUM:Ultra
+MUSICA:Home|ALBUM:Ultra
+MUSICA:It's No Good|ALBUM:Ultra
+MUSICA:Useless|ALBUM:Ultra
+MUSICA:Dream On|ALBUM:Exciter
+MUSICA:Shine|ALBUM:Exciter
+MUSICA:The Sweetest Condition|ALBUM:Exciter
+MUSICA:I Feel Loved|ALBUM:Exciter
+MUSICA:Freelove|ALBUM:Exciter
+MUSICA:A Pain That I'm Used To|ALBUM:Playing the Angel
+MUSICA:John the Revelator|ALBUM:Playing the Angel
+MUSICA:Suffer Well|ALBUM:Playing the Angel
+MUSICA:Precious|ALBUM:Playing the Angel
+MUSICA:In Sympathy|ALBUM:Sounds of the Universe
+MUSICA:Wrong|ALBUM:Sounds of the Universe
+MUSICA:Peace|ALBUM:Sounds of the Universe
+MUSICA:Welcome to My World|ALBUM:Delta Machine
+MUSICA:Angel|ALBUM:Delta Machine
+MUSICA:Heaven|ALBUM:Delta Machine
+MUSICA:Soothe My Soul|ALBUM:Delta Machine
+MUSICA:Going Backwards|ALBUM:Spirit
+MUSICA:Where's the Revolution|ALBUM:Spirit
+MUSICA:Cover Me|ALBUM:Spirit
+MUSICA:My Cosmos Is Mine|ALBUM:Memento Mori
+MUSICA:Wagging Tongue|ALBUM:Memento Mori
+MUSICA:Ghosts Again|ALBUM:Memento Mori
+MUSICA:Don't Say You Love Me|ALBUM:Memento Mori
+MUSICA:Before We Drown|ALBUM:Memento Mori
+GENERO:Nu Metal
+ARTISTA:Limp Bizkit|Cidade:Jacksonville|Anos:29|Ativo:1|Premios:0|Integrantes:Fred Durst, Wes Borland, Sam Rivers, John Otto, DJ Lethal
+MUSICA:Intro|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Pollution|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Counterfeit|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Stuck|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Nobody Like You|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Sour|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Faith|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Stink Finger|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Indigo Flow|ALBUM:Three Dollar Bill, Y'all$
+MUSICA:Intro|ALBUM:Significant Other
+MUSICA:Just Like This|ALBUM:Significant Other
+MUSICA:Nookie|ALBUM:Significant Other
+MUSICA:Break Stuff|ALBUM:Significant Other
+MUSICA:Re-Arranged|ALBUM:Significant Other
+MUSICA:I'm Broke|ALBUM:Significant Other
+MUSICA:Nobody Like You|ALBUM:Significant Other
+MUSICA:Don't Go Off Wandering|ALBUM:Significant Other
+MUSICA:9 Teen 90 Nine|ALBUM:Significant Other
+MUSICA:Trust?|ALBUM:Significant Other
+MUSICA:No Sex|ALBUM:Significant Other
+MUSICA:Show Me What You Got|ALBUM:Significant Other
+MUSICA:A Lesson Learned|ALBUM:Significant Other
+MUSICA:Outro|ALBUM:Significant Other
+MUSICA:Intro|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Hot Dog|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:My Generation|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Full Nelson|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:My Way|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Rollin' (Air Raid Vehicle)|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Livin' It Up|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:The One|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Get Cha Head Right|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Take a Look Around|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:It'll Be OK|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Boiler|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Hold On|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Rollin' (Urban Assault Vehicle)|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Outro|ALBUM:Chocolate Starfish and the Hot Dog Flavored Water
+MUSICA:Re-Entry|ALBUM:Results May Vary
+MUSICA:Eat You Alive|ALBUM:Results May Vary
+MUSICA:Gimme the Mic|ALBUM:Results May Vary
+MUSICA:Underneath the Gun|ALBUM:Results May Vary
+MUSICA:Down Another Day|ALBUM:Results May Vary
+MUSICA:Almost Over|ALBUM:Results May Vary
+MUSICA:Build a Bridge|ALBUM:Results May Vary
+MUSICA:Red Light-Green Light|ALBUM:Results May Vary
+MUSICA:The Sad Head|ALBUM:Results May Vary
+MUSICA:Behind Blue Eyes|ALBUM:Results May Vary
+MUSICA:Get a Life|ALBUM:Results May Vary
+MUSICA:Phenomenon|ALBUM:Results May Vary
+MUSICA:Creamer (Radio is Dead)|ALBUM:Results May Vary
+MUSICA:Head for the Barricade|ALBUM:Results May Vary
+MUSICA:Behind Blue Eyes|ALBUM:Results May Vary
+MUSICA:Drown|ALBUM:Results May Vary
+MUSICA:Let Me Down|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Propaganda|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Story|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Key|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Surrender|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Priest|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:The Channel|ALBUM:The Unquestionable Truth (Part 1)
+MUSICA:Introbra|ALBUM:Gold Cobra
+MUSICA:Bring It Back|ALBUM:Gold Cobra
+MUSICA:Gold Cobra|ALBUM:Gold Cobra
+MUSICA:Shark Attack|ALBUM:Gold Cobra
+MUSICA:Get a Life|ALBUM:Gold Cobra
+MUSICA:Shotgun|ALBUM:Gold Cobra
+MUSICA:Douche Bag|ALBUM:Gold Cobra
+MUSICA:Walking Away|ALBUM:Gold Cobra
+MUSICA:Loser|ALBUM:Gold Cobra
+MUSICA:Autotunage|ALBUM:Gold Cobra
+MUSICA:90210|ALBUM:Gold Cobra
+MUSICA:My Own Cobain|ALBUM:Gold Cobra
+MUSICA:Clerky|ALBUM:Gold Cobra
+MUSICA:Dad Vibes|ALBUM:Still Sucks
+MUSICA:Out of Style|ALBUM:Still Sucks
+MUSICA:Dirty Rotten Bizkit|ALBUM:Still Sucks
+MUSICA:Barnacle|ALBUM:Still Sucks
+MUSICA:Empty Hole|ALBUM:Still Sucks
+MUSICA:Pill Popper|ALBUM:Still Sucks
+MUSICA:Snack Attack|ALBUM:Still Sucks
+MUSICA:Goodbye|ALBUM:Still Sucks
+MUSICA:Love the Hate|ALBUM:Still Sucks
+MUSICA:Turn It Up, Bitch|ALBUM:Still Sucks
+MUSICA:Don't Change|ALBUM:Still Sucks
+MUSICA:You Bring Out the Worst in Me|ALBUM:Still Sucks
+GENERO:Hard Rock
+ARTISTA:Scorpions|Cidade:Hannover|Anos:61|Ativo:1|Premios:2|Integrantes:Klaus Meine, Rudolf Schenker, Matthias Jabs, Pawel Mąciwoda, Mikkey Dee
+MUSICA:I'm Going Mad|ALBUM:Lonesome Crow
+MUSICA:It All Depends|ALBUM:Lonesome Crow
+MUSICA:Leave Me|ALBUM:Lonesome Crow
+MUSICA:In Search of the Peace of Mind|ALBUM:Lonesome Crow
+MUSICA:Lonesome Crow|ALBUM:Lonesome Crow
+MUSICA:Speedy's Coming|ALBUM:Fly to the Rainbow
+MUSICA:They Need a Million|ALBUM:Fly to the Rainbow
+MUSICA:Drifting Sun|ALBUM:Fly to the Rainbow
+MUSICA:Fly to the Rainbow|ALBUM:Fly to the Rainbow
+MUSICA:Dark Lady|ALBUM:In Trance
+MUSICA:In Trance|ALBUM:In Trance
+MUSICA:Life's Like a River|ALBUM:In Trance
+MUSICA:Top of the Bill|ALBUM:In Trance
+MUSICA:Robot Man|ALBUM:In Trance
+MUSICA:Pictured Life|ALBUM:Virgin Killer
+MUSICA:Catch Your Train|ALBUM:Virgin Killer
+MUSICA:Virgin Killer|ALBUM:Virgin Killer
+MUSICA:In Your Park|ALBUM:Virgin Killer
+MUSICA:Polar Nights|ALBUM:Virgin Killer
+MUSICA:Steamrock Fever|ALBUM:Taken by Force
+MUSICA:We'll Burn the Sky|ALBUM:Taken by Force
+MUSICA:The Sails of Charon|ALBUM:Taken by Force
+MUSICA:Born to Touch Your Feelings|ALBUM:Taken by Force
+MUSICA:Loving You Sunday Morning|ALBUM:Lovedrive
+MUSICA:Another Piece of Meat|ALBUM:Lovedrive
+MUSICA:Always Somewhere|ALBUM:Lovedrive
+MUSICA:Coast to Coast|ALBUM:Lovedrive
+MUSICA:Top of the Bill|ALBUM:Lovedrive
+MUSICA:Lovedrive|ALBUM:Lovedrive
+MUSICA:Holiday|ALBUM:Lovedrive
+MUSICA:Make It Real|ALBUM:Animal Magnetism
+MUSICA:Don't Make No Promises|ALBUM:Animal Magnetism
+MUSICA:Lady Starlight|ALBUM:Animal Magnetism
+MUSICA:The Zoo|ALBUM:Animal Magnetism
+MUSICA:Animal Magnetism|ALBUM:Animal Magnetism
+MUSICA:Blackout|ALBUM:Blackout
+MUSICA:Can't Live Without You|ALBUM:Blackout
+MUSICA:No One Like You|ALBUM:Blackout
+MUSICA:You Give Me All I Need|ALBUM:Blackout
+MUSICA:Now!|ALBUM:Blackout
+MUSICA:Dynamite|ALBUM:Blackout
+MUSICA:Arizona|ALBUM:Blackout
+MUSICA:China White|ALBUM:Blackout
+MUSICA:When the Smoke Is Going Down|ALBUM:Blackout
+MUSICA:Bad Boys Running Wild|ALBUM:Love at First Sting
+MUSICA:Rock You Like a Hurricane|ALBUM:Love at First Sting
+MUSICA:I'm Leaving You|ALBUM:Love at First Sting
+MUSICA:Coming Home|ALBUM:Love at First Sting
+MUSICA:The Same Thrill|ALBUM:Love at First Sting
+MUSICA:Big City Nights|ALBUM:Love at First Sting
+MUSICA:As Soon as the Good Times Roll|ALBUM:Love at First Sting
+MUSICA:Crossfire|ALBUM:Love at First Sting
+MUSICA:Still Loving You|ALBUM:Love at First Sting
+MUSICA:Don't Stop at the Top|ALBUM:Savage Amusement
+MUSICA:Rhythm of Love|ALBUM:Savage Amusement
+MUSICA:Passion Rules the Game|ALBUM:Savage Amusement
+MUSICA:Walking on the Edge|ALBUM:Savage Amusement
+MUSICA:We Let It Rock... You Let It Roll|ALBUM:Savage Amusement
+MUSICA:Tease Me Please Me|ALBUM:Crazy World
+MUSICA:Don't Believe Her|ALBUM:Crazy World
+MUSICA:To Be With You in Heaven|ALBUM:Crazy World
+MUSICA:Wind of Change|ALBUM:Crazy World
+MUSICA:Restless Nights|ALBUM:Crazy World
+MUSICA:Lust or Love|ALBUM:Crazy World
+MUSICA:Kicks After Dark|ALBUM:Crazy World
+MUSICA:Hit Between the Eyes|ALBUM:Crazy World
+MUSICA:Money and Fame|ALBUM:Crazy World
+MUSICA:Crazy World|ALBUM:Crazy World
+MUSICA:Send Me an Angel|ALBUM:Crazy World
+MUSICA:Alien Nation|ALBUM:Face the Heat
+MUSICA:No Pain No Gain|ALBUM:Face the Heat
+MUSICA:Under the Same Sun|ALBUM:Face the Heat
+MUSICA:Woman|ALBUM:Face the Heat
+MUSICA:Wild Child|ALBUM:Pure Instinct
+MUSICA:You and I|ALBUM:Pure Instinct
+MUSICA:Does Anyone Know|ALBUM:Pure Instinct
+MUSICA:Ten Light Years Away|ALBUM:Pure Instinct
+MUSICA:Mysterious|ALBUM:Eye II Eye
+MUSICA:To Be No. 1|ALBUM:Eye II Eye
+MUSICA:10 Light Years Away|ALBUM:Eye II Eye
+MUSICA:Eye II Eye|ALBUM:Eye II Eye
+MUSICA:New Generation|ALBUM:Unbreakable
+MUSICA:Love 'Em or Leave 'Em|ALBUM:Unbreakable
+MUSICA:Deep and Dark|ALBUM:Unbreakable
+MUSICA:Through My Eyes|ALBUM:Unbreakable
+MUSICA:Hour I|ALBUM:Humanity: Hour I
+MUSICA:The Game of Life|ALBUM:Humanity: Hour I
+MUSICA:We Were Born to Fly|ALBUM:Humanity: Hour I
+MUSICA:The Future Never Dies|ALBUM:Humanity: Hour I
+MUSICA:Humanity|ALBUM:Humanity: Hour I
+MUSICA:Raised on Rock|ALBUM:Sting in the Tail
+MUSICA:Sting in the Tail|ALBUM:Sting in the Tail
+MUSICA:Slave Me|ALBUM:Sting in the Tail
+MUSICA:The Good Die Young|ALBUM:Sting in the Tail
+MUSICA:Lorelei|ALBUM:Sting in the Tail
+MUSICA:Going Out with a Bang|ALBUM:Return to Forever
+MUSICA:We Built This House|ALBUM:Return to Forever
+MUSICA:Rock My Car|ALBUM:Return to Forever
+MUSICA:House of Cards|ALBUM:Return to Forever
+MUSICA:Gas in the Tank|ALBUM:Rock Believer
+MUSICA:Roots in My Boots|ALBUM:Rock Believer
+MUSICA:Rock Believer|ALBUM:Rock Believer
+MUSICA:Shining of Your Soul|ALBUM:Rock Believer
+MUSICA:Peacemaker|ALBUM:Rock Believer
+GENERO:Rock
+ARTISTA:The Rolling Stones|Cidade:Londres|Anos:64|Ativo:1|Premios:3|Integrantes:Mick Jagger, Keith Richards, Ronnie Wood, Charlie Watts, Brian Jones, Bill Wyman, Mick Taylor
+MUSICA:Route 66|ALBUM:The Rolling Stones
+MUSICA:Tell Me|ALBUM:The Rolling Stones
+MUSICA:Not Fade Away|ALBUM:The Rolling Stones
+MUSICA:(I Can't Get No) Satisfaction|ALBUM:Out of Our Heads
+MUSICA:The Last Time|ALBUM:Out of Our Heads
+MUSICA:Play with Fire|ALBUM:Out of Our Heads
+MUSICA:Paint It Black|ALBUM:Aftermath
+MUSICA:Under My Thumb|ALBUM:Aftermath
+MUSICA:Lady Jane|ALBUM:Aftermath
+MUSICA:Stupid Girl|ALBUM:Aftermath
+MUSICA:Ruby Tuesday|ALBUM:Between the Buttons
+MUSICA:Let's Spend the Night Together|ALBUM:Between the Buttons
+MUSICA:She's a Rainbow|ALBUM:Their Satanic Majesties Request
+MUSICA:2000 Light Years from Home|ALBUM:Their Satanic Majesties Request
+MUSICA:Sympathy for the Devil|ALBUM:Beggars Banquet
+MUSICA:Street Fighting Man|ALBUM:Beggars Banquet
+MUSICA:Stray Cat Blues|ALBUM:Beggars Banquet
+MUSICA:Gimme Shelter|ALBUM:Let It Bleed
+MUSICA:Love in Vain|ALBUM:Let It Bleed
+MUSICA:You Can't Always Get What You Want|ALBUM:Let It Bleed
+MUSICA:Midnight Rambler|ALBUM:Let It Bleed
+MUSICA:Brown Sugar|ALBUM:Sticky Fingers
+MUSICA:Sway|ALBUM:Sticky Fingers
+MUSICA:Wild Horses|ALBUM:Sticky Fingers
+MUSICA:Can't You Hear Me Knocking|ALBUM:Sticky Fingers
+MUSICA:Dead Flowers|ALBUM:Sticky Fingers
+MUSICA:Rocks Off|ALBUM:Exile on Main St.
+MUSICA:Rip This Joint|ALBUM:Exile on Main St.
+MUSICA:Tumbling Dice|ALBUM:Exile on Main St.
+MUSICA:Happy|ALBUM:Exile on Main St.
+MUSICA:Loving Cup|ALBUM:Exile on Main St.
+MUSICA:Angie|ALBUM:Goats Head Soup
+MUSICA:Doo Doo Doo Doo Doo (Heartbreaker)|ALBUM:Goats Head Soup
+MUSICA:It's Only Rock 'n Roll (But I Like It)|ALBUM:It's Only Rock 'n Roll
+MUSICA:Time Waits for No One|ALBUM:It's Only Rock 'n Roll
+MUSICA:Fool to Cry|ALBUM:Black and Blue
+MUSICA:Hot Stuff|ALBUM:Black nightlife|ALBUM:Black and Blue
+MUSICA:Miss You|ALBUM:Some Girls
+MUSICA:When the Whip Comes Down|ALBUM:Some Girls
+MUSICA:Beast of Burden|ALBUM:Some Girls
+MUSICA:Shattered|ALBUM:Some Girls
+MUSICA:Far Away Eyes|ALBUM:Some Girls
+MUSICA:Emotional Rescue|ALBUM:Emotional Rescue
+MUSICA:Dance (Pt. 1)|ALBUM:Emotional Rescue
+MUSICA:Start Me Up|ALBUM:Tattoo You
+MUSICA:Hang Fire|ALBUM:Tattoo You
+MUSICA:Waiting on a Friend|ALBUM:Tattoo You
+MUSICA:Undercover of the Night|ALBUM:Undercover
+MUSICA:She Was Hot|ALBUM:Undercover
+MUSICA:One Hit (To the Body)|ALBUM:Dirty Work
+MUSICA:Harlem Shuffle|ALBUM:Dirty Work
+MUSICA:Mixed Emotions|ALBUM:Steel Wheels
+MUSICA:Rock and a Hard Place|ALBUM:Steel Wheels
+MUSICA:Love Is Strong|ALBUM:Voodoo Lounge
+MUSICA:You Got Me Rocking|ALBUM:Voodoo Lounge
+MUSICA:Anybody Seen My Baby?|ALBUM:Bridges to Babylon
+MUSICA:Saint of Me|ALBUM:Bridges to Babylon
+MUSICA:Rough Justice|ALBUM:A Bigger Bang
+MUSICA:Streets of Love|ALBUM:A Bigger Bang
+MUSICA:Ride 'Em On Down|ALBUM:Blue & Lonesome
+MUSICA:Hate to See You Go|ALBUM:Blue & Lonesome
+MUSICA:Angry|ALBUM:Hackney Diamonds
+MUSICA:Sweet Sounds of Heaven|ALBUM:Hackney Diamonds
+MUSICA:Mess It Up|ALBUM:Hackney Diamonds
+GENERO:Rock Alternativo
+ARTISTA:My Chemical Romance|Cidade:Newark|Anos:25|Ativo:1|Premios:0|Integrantes:Gerard Way, Ray Toro, Frank Iero, Mikey Way
+MUSICA:Romance|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Honey, This Mirror Isn't Big Enough for the Two of Us|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Vampires Will Never Hurt You|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Drowning Lessons|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Our Lady of Sorrows|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Headfirst for Halos|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Skylines and Turnstiles|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Early Sunsets Over Monroeville|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:This Is the Best Day Ever|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Cubicles|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Demolition Lovers|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Helena|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Give 'Em Hell, Kid|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:To the End|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:You Know What They Do to Guys Like Us in Prison|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:I'm Not Okay (I Promise)|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The Ghost of You|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The Jetset Life Is Gonna Kill You|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Interlude|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Thank You for the Venom|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Hang 'Em High|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:It's Not a Fashion Statement, It's a Deathwish|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Cemetery Drive|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:I Never Told You What I Do for a Living|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The End.|ALBUM:The Black Parade
+MUSICA:Dead!|ALBUM:The Black Parade
+MUSICA:This Is How I Disappear|ALBUM:The Black Parade
+MUSICA:The Sharpest Lives|ALBUM:The Black Parade
+MUSICA:Welcome to the Black Parade|ALBUM:The Black Parade
+MUSICA:I Don't Love You|ALBUM:The Black Parade
+MUSICA:House of Wolves|ALBUM:The Black Parade
+MUSICA:Cancer|ALBUM:The Black Parade
+MUSICA:Mama|ALBUM:The Black Parade
+MUSICA:Sleep|ALBUM:The Black Parade
+MUSICA:Teenagers|ALBUM:The Black Parade
+MUSICA:Disenchanted|ALBUM:The Black Parade
+MUSICA:Famous Last Words|ALBUM:The Black Parade
+MUSICA:Blood|ALBUM:The Black Parade
+MUSICA:Look Alive, Sunshine|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Na Na Na (Na Na Na Na Na Na Na Na Na)|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Bulletproof Heart|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:SING|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Planetary (GO!)|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:The Only Hope for Me Is You|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Jet-Star and the Kobra Kid/Traffic Report|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Party Poison|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Save Yourself, I'll Hold Them Back|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:S/C/A/R/E/C/R/O/W|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Summertime|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:DESTROYA|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:The Kids from Yesterday|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Goodite, Dr. Death|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Vampire Money|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Boy Division|ALBUM:Conventional Weapons
+MUSICA:Tomorrow's Money|ALBUM:Conventional Weapons
+MUSICA:AMBULANCE|ALBUM:Conventional Weapons
+MUSICA:Gun.|ALBUM:Conventional Weapons
+MUSICA:The World Is Ugly|ALBUM:Conventional Weapons
+MUSICA:The Light Behind Your Eyes|ALBUM:Conventional Weapons
+MUSICA:Kiss the Ring|ALBUM:Conventional Weapons
+MUSICA:Make Room!!!!|ALBUM:Conventional Weapons
+MUSICA:Surrender the Night|ALBUM:Conventional Weapons
+MUSICA:Burn Bright|ALBUM:Conventional Weapons
+GENERO:Pop Punk
+ARTISTA:My Chemical Romance|Cidade:Newark|Anos:25|Ativo:1|Premios:0|Integrantes:Gerard Way, Ray Toro, Frank Iero, Mikey Way
+MUSICA:Romance|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Honey, This Mirror Isn't Big Enough for the Two of Us|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Vampires Will Never Hurt You|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Drowning Lessons|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Our Lady of Sorrows|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Headfirst for Halos|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Skylines and Turnstiles|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Early Sunsets Over Monroeville|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:This Is the Best Day Ever|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Cubicles|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Demolition Lovers|ALBUM:I Brought You My Bullets, You Brought Me Your Love
+MUSICA:Helena|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Give 'Em Hell, Kid|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:To the End|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:You Know What They Do to Guys Like Us in Prison|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:I'm Not Okay (I Promise)|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The Ghost of You|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The Jetset Life Is Gonna Kill You|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Interlude|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Thank You for the Venom|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Hang 'Em High|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:It's Not a Fashion Statement, It's a Deathwish|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:Cemetery Drive|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:I Never Told You What I Do for a Living|ALBUM:Three Cheers for Sweet Revenge
+MUSICA:The End.|ALBUM:The Black Parade
+MUSICA:Dead!|ALBUM:The Black Parade
+MUSICA:This Is How I Disappear|ALBUM:The Black Parade
+MUSICA:The Sharpest Lives|ALBUM:The Black Parade
+MUSICA:Welcome to the Black Parade|ALBUM:The Black Parade
+MUSICA:I Don't Love You|ALBUM:The Black Parade
+MUSICA:House of Wolves|ALBUM:The Black Parade
+MUSICA:Cancer|ALBUM:The Black Parade
+MUSICA:Mama|ALBUM:The Black Parade
+MUSICA:Sleep|ALBUM:The Black Parade
+MUSICA:Teenagers|ALBUM:The Black Parade
+MUSICA:Disenchanted|ALBUM:The Black Parade
+MUSICA:Famous Last Words|ALBUM:The Black Parade
+MUSICA:Blood|ALBUM:The Black Parade
+MUSICA:Look Alive, Sunshine|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Na Na Na (Na Na Na Na Na Na Na Na Na)|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Bulletproof Heart|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:SING|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Planetary (GO!)|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:The Only Hope for Me Is You|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Jet-Star and the Kobra Kid/Traffic Report|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Party Poison|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Save Yourself, I'll Hold Them Back|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:S/C/A/R/E/C/R/O/W|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Summertime|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:DESTROYA|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:The Kids from Yesterday|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Goodite, Dr. Death|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Vampire Money|ALBUM:Danger Days: The True Lives of the Fabulous Killjoys
+MUSICA:Boy Division|ALBUM:Conventional Weapons
+MUSICA:Tomorrow's Money|ALBUM:Conventional Weapons
+MUSICA:AMBULANCE|ALBUM:Conventional Weapons
+MUSICA:Gun.|ALBUM:Conventional Weapons
+MUSICA:The World Is Ugly|ALBUM:Conventional Weapons
+MUSICA:The Light Behind Your Eyes|ALBUM:Conventional Weapons
+MUSICA:Kiss the Ring|ALBUM:Conventional Weapons
+MUSICA:Make Room!!!!|ALBUM:Conventional Weapons
+MUSICA:Surrender the Night|ALBUM:Conventional Weapons
+MUSICA:Burn Bright|ALBUM:Conventional Weapons
+GENERO:Metal Alternativo
+ARTISTA:Evanescence|Cidade:Little Rock|Anos:31|Ativo:1|Premios:2|Integrantes:Amy Lee, Tim McCord, Will Hunt, Troy McLawhorn, Emma Anzai
+MUSICA:Going Under|ALBUM:Fallen
+MUSICA:Bring Me to Life|ALBUM:Fallen
+MUSICA:Everybody's Fool|ALBUM:Fallen
+MUSICA:My Immortal|ALBUM:Fallen
+MUSICA:Haunted|ALBUM:Fallen
+MUSICA:Tourniquet|ALBUM:Fallen
+MUSICA:Imaginary|ALBUM:Fallen
+MUSICA:Taking Over Me|ALBUM:Fallen
+MUSICA:Hello|ALBUM:Fallen
+MUSICA:My Last Breath|ALBUM:Fallen
+MUSICA:Whisper|ALBUM:Fallen
+MUSICA:Sweet Sacrifice|ALBUM:The Open Door
+MUSICA:Call Me When You're Sober|ALBUM:The Open Door
+MUSICA:Weight of the World|ALBUM:The Open Door
+MUSICA:Lithium|ALBUM:The Open Door
+MUSICA:Cloud Nine|ALBUM:The Open Door
+MUSICA:Snow White Queen|ALBUM:The Open Door
+MUSICA:Lacrymosa|ALBUM:The Open Door
+MUSICA:Like You|ALBUM:The Open Door
+MUSICA:Lose Control|ALBUM:The Open Door
+MUSICA:The Only One|ALBUM:The Open Door
+MUSICA:Your Star|ALBUM:The Open Door
+MUSICA:All That I'm Living For|ALBUM:The Open Door
+MUSICA:Good Enough|ALBUM:The Open Door
+MUSICA:What You Want|ALBUM:Evanescence
+MUSICA:Made of Stone|ALBUM:Evanescence
+MUSICA:The Change|ALBUM:Evanescence
+MUSICA:My Heart Is Broken|ALBUM:Evanescence
+MUSICA:The Other Side|ALBUM:Evanescence
+MUSICA:Erase This|ALBUM:Evanescence
+MUSICA:Lost in Paradise|ALBUM:Evanescence
+MUSICA:Sick|ALBUM:Evanescence
+MUSICA:End of the Dream|ALBUM:Evanescence
+MUSICA:Oceans|ALBUM:Evanescence
+MUSICA:Never Go Back|ALBUM:Evanescence
+MUSICA:Swimming Home|ALBUM:Evanescence
+MUSICA:Overture|ALBUM:Synthesis
+MUSICA:Never Go Back (Synthesis)|ALBUM:Synthesis
+MUSICA:Hi-Lo|ALBUM:Synthesis
+MUSICA:My Heart Is Broken (Synthesis)|ALBUM:Synthesis
+MUSICA:Lacrymosa (Synthesis)|ALBUM:Synthesis
+MUSICA:The End of the Dream (Synthesis)|ALBUM:Synthesis
+MUSICA:Bring Me to Life (Synthesis)|ALBUM:Synthesis
+MUSICA:Unraveling (Interlude)|ALBUM:Synthesis
+MUSICA:Imaginary (Synthesis)|ALBUM:Synthesis
+MUSICA:Secret Door (Synthesis)|ALBUM:Synthesis
+MUSICA:Lithium (Synthesis)|ALBUM:Synthesis
+MUSICA:Lost in Paradise (Synthesis)|ALBUM:Synthesis
+MUSICA:Your Star (Synthesis)|ALBUM:Synthesis
+MUSICA:My Immortal (Synthesis)|ALBUM:Synthesis
+MUSICA:The In-Between (Piano Solo)|ALBUM:Synthesis
+MUSICA:Imperfection|ALBUM:Synthesis
+MUSICA:Artifact/The Turn|ALBUM:The Bitter Truth
+MUSICA:Broken Pieces Shine|ALBUM:The Bitter Truth
+MUSICA:The Game Is Over|ALBUM:The Bitter Truth
+MUSICA:Yeah Right|ALBUM:The Bitter Truth
+MUSICA:Feeding the Dark|ALBUM:The Bitter Truth
+MUSICA:Wasted on You|ALBUM:The Bitter Truth
+MUSICA:Better Without You|ALBUM:The Bitter Truth
+MUSICA:Use My Voice|ALBUM:The Bitter Truth
+MUSICA:Take Cover|ALBUM:The Bitter Truth
+MUSICA:Far From Heaven|ALBUM:The Bitter Truth
+MUSICA:Part of Me|ALBUM:The Bitter Truth
+MUSICA:Blind Belief|ALBUM:The Bitter Truth
+GENERO:Rock Gótico
+ARTISTA:Evanescence|Cidade:Little Rock|Anos:31|Ativo:1|Premios:2|Integrantes:Amy Lee, Tim McCord, Will Hunt, Troy McLawhorn, Emma Anzai
+MUSICA:Going Under|ALBUM:Fallen
+MUSICA:Bring Me to Life|ALBUM:Fallen
+MUSICA:Everybody's Fool|ALBUM:Fallen
+MUSICA:My Immortal|ALBUM:Fallen
+MUSICA:Haunted|ALBUM:Fallen
+MUSICA:Tourniquet|ALBUM:Fallen
+MUSICA:Imaginary|ALBUM:Fallen
+MUSICA:Taking Over Me|ALBUM:Fallen
+MUSICA:Hello|ALBUM:Fallen
+MUSICA:My Last Breath|ALBUM:Fallen
+MUSICA:Whisper|ALBUM:Fallen
+MUSICA:Sweet Sacrifice|ALBUM:The Open Door
+MUSICA:Call Me When You're Sober|ALBUM:The Open Door
+MUSICA:Weight of the World|ALBUM:The Open Door
+MUSICA:Lithium|ALBUM:The Open Door
+MUSICA:Cloud Nine|ALBUM:The Open Door
+MUSICA:Snow White Queen|ALBUM:The Open Door
+MUSICA:Lacrymosa|ALBUM:The Open Door
+MUSICA:Like You|ALBUM:The Open Door
+MUSICA:Lose Control|ALBUM:The Open Door
+MUSICA:The Only One|ALBUM:The Open Door
+MUSICA:Your Star|ALBUM:The Open Door
+MUSICA:All That I'm Living For|ALBUM:The Open Door
+MUSICA:Good Enough|ALBUM:The Open Door
+MUSICA:What You Want|ALBUM:Evanescence
+MUSICA:Made of Stone|ALBUM:Evanescence
+MUSICA:The Change|ALBUM:Evanescence
+MUSICA:My Heart Is Broken|ALBUM:Evanescence
+MUSICA:The Other Side|ALBUM:Evanescence
+MUSICA:Erase This|ALBUM:Evanescence
+MUSICA:Lost in Paradise|ALBUM:Evanescence
+MUSICA:Sick|ALBUM:Evanescence
+MUSICA:End of the Dream|ALBUM:Evanescence
+MUSICA:Oceans|ALBUM:Evanescence
+MUSICA:Never Go Back|ALBUM:Evanescence
+MUSICA:Swimming Home|ALBUM:Evanescence
+MUSICA:Overture|ALBUM:Synthesis
+MUSICA:Never Go Back (Synthesis)|ALBUM:Synthesis
+MUSICA:Hi-Lo|ALBUM:Synthesis
+MUSICA:My Heart Is Broken (Synthesis)|ALBUM:Synthesis
+MUSICA:Lacrymosa (Synthesis)|ALBUM:Synthesis
+MUSICA:The End of the Dream (Synthesis)|ALBUM:Synthesis
+MUSICA:Bring Me to Life (Synthesis)|ALBUM:Synthesis
+MUSICA:Unraveling (Interlude)|ALBUM:Synthesis
+MUSICA:Imaginary (Synthesis)|ALBUM:Synthesis
+MUSICA:Secret Door (Synthesis)|ALBUM:Synthesis
+MUSICA:Lithium (Synthesis)|ALBUM:Synthesis
+MUSICA:Lost in Paradise (Synthesis)|ALBUM:Synthesis
+MUSICA:Your Star (Synthesis)|ALBUM:Synthesis
+MUSICA:My Immortal (Synthesis)|ALBUM:Synthesis
+MUSICA:The In-Between (Piano Solo)|ALBUM:Synthesis
+MUSICA:Imperfection|ALBUM:Synthesis
+MUSICA:Artifact/The Turn|ALBUM:The Bitter Truth
+MUSICA:Broken Pieces Shine|ALBUM:The Bitter Truth
+MUSICA:The Game Is Over|ALBUM:The Bitter Truth
+MUSICA:Yeah Right|ALBUM:The Bitter Truth
+MUSICA:Feeding the Dark|ALBUM:The Bitter Truth
+MUSICA:Wasted on You|ALBUM:The Bitter Truth
+MUSICA:Better Without You|ALBUM:The Bitter Truth
+MUSICA:Use My Voice|ALBUM:The Bitter Truth
+MUSICA:Take Cover|ALBUM:The Bitter Truth
+MUSICA:Far From Heaven|ALBUM:The Bitter Truth
+MUSICA:Part of Me|ALBUM:The Bitter Truth
+MUSICA:Blind Belief|ALBUM:The Bitter Truth
+GENERO:Pop Punk
+ARTISTA:Fall Out Boy|Cidade:Wilmette|Anos:25|Ativo:1|Premios:0|Integrantes:Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley
+MUSICA: "Tell That Mick He Just Made My List of Things to Do Today"|ALBUM:Take This to Your Grave
+MUSICA:Dead on Arrival|ALBUM:Take This to Your Grave
+MUSICA:Grand Theft Autumn / Where Is Your Boy|ALBUM:Take This to Your Grave
+MUSICA:Saturday|ALBUM:Take This to Your Grave
+MUSICA:Homesick at Space Camp|ALBUM:Take This to Your Grave
+MUSICA:Sending Postcards from a Plane Crash (Wish You Were Here)|ALBUM:Take This to Your Grave
+MUSICA:Chicago Is So Two Years Ago|ALBUM:Take This to Your Grave
+MUSICA:The Pros and Cons of Breathing|ALBUM:Take This to Your Grave
+MUSICA:Grenade Jumper|ALBUM:Take This to Your Grave
+MUSICA:Calm Before the Storm|ALBUM:Take This to Your Grave
+MUSICA:Reinventing the Wheel to Run Myself Over|ALBUM:Take This to Your Grave
+MUSICA:The Patron Saint of Liars and Fake Friends|ALBUM:Take This to Your Grave
+MUSICA:Our Lawyer Made Us Change the Name of This Song So We Wouldn't Get Sued|ALBUM:From Under the Cork Tree
+MUSICA:Of All the Gin Joints in All the World|ALBUM:From Under the Cork Tree
+MUSICA:Dance, Dance|ALBUM:From Under the Cork Tree
+MUSICA:Sugar, We're Goin Down|ALBUM:From Under the Cork Tree
+MUSICA:Nobody Puts Baby in the Corner|ALBUM:From Under the Cork Tree
+MUSICA:I've Got a Dark Alley and a Bad Idea That Says You Should Shut Your Mouth (Summer Song)|ALBUM:From Under the Cork Tree
+MUSICA:7 Minutes in Heaven (Atavan Happen)|ALBUM:From Under the Cork Tree
+MUSICA:Sophomore Slump or Comeback of the Year|ALBUM:From Under the Cork Tree
+MUSICA:Champagne for My Real Friends, Real Pain for My Sham Friends|ALBUM:From Under the Cork Tree
+MUSICA:I Slept with Someone in Fall Out Boy and All I Got Was This Stupid Song Written About Me|ALBUM:From Under the Cork Tree
+MUSICA:A Little Less Sixteen Candles, a Little More "Touch Me"|ALBUM:From Under the Cork Tree
+MUSICA:Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene and Stop Going to Shows)|ALBUM:From Under the Cork Tree
+MUSICA:XO|ALBUM:From Under the Cork Tree
+MUSICA:Thriller|ALBUM:Infinity on High
+MUSICA:"The Take Over, the Breaks Over"|ALBUM:Infinity on High
+MUSICA:This Ain't a Scene, It's an Arms Race|ALBUM:Infinity on High
+MUSICA:I'm Like a Lawyer with the Way I'm Always Trying to Get You Off (Me & You)|ALBUM:Infinity on High
+MUSICA:Hum Hallelujah|ALBUM:Infinity on High
+MUSICA:Golden|ALBUM:Infinity on High
+MUSICA:Thnks fr th Mmrs|ALBUM:Infinity on High
+MUSICA:Don't You Know Who I Think I Am?|ALBUM:Infinity on High
+MUSICA:The (After) Life of the Party|ALBUM:Infinity on High
+MUSICA:The Carpal Tunnel of Love|ALBUM:Infinity on High
+MUSICA:Bang the Doldrums|ALBUM:Infinity on High
+MUSICA:Fame < Infamy|ALBUM:Infinity on High
+MUSICA:You're Crashing, But You're No Wave|ALBUM:Infinity on High
+MUSICA:I've Got All This Ringing in My Ears and None on My Fingers|ALBUM:Infinity on High
+MUSICA:Disloyal Order of Water Buffaloes|ALBUM:Folie à Deux
+MUSICA:I Don't Care|ALBUM:Folie à Deux
+MUSICA:She's My Winona|ALBUM:Folie à Deux
+MUSICA:America's Suitehearts|ALBUM:Folie à Deux
+MUSICA:Headfirst Slide into Cooperstown on a Bad Bet|ALBUM:Folie à Deux
+MUSICA:The Shipped Gold Standard|ALBUM:Folie à Deux
+MUSICA:(Coffee's for Closers)|ALBUM:Folie à Deux
+MUSICA:What a Catch, Donnie|ALBUM:Folie à Deux
+MUSICA:27|ALBUM:Folie à Deux
+MUSICA:Tiffany Blews|ALBUM:Folie à Deux
+MUSICA:w.a.m.s.|ALBUM:Folie à Deux
+MUSICA:20 Dollar Nose Bleed|ALBUM:Folie à Deux
+MUSICA:West Coast Smoker|ALBUM:Folie à Deux
+MUSICA:The Phoenix|ALBUM:Save Rock and Roll
+MUSICA:My Songs Know What You Did in the Dark (Light Em Up)|ALBUM:Save Rock and Roll
+MUSICA:Alone Together|ALBUM:Save Rock and Roll
+MUSICA:Where Did the Party Go|ALBUM:Save Rock and Roll
+MUSICA:Just One Yesterday|ALBUM:Save Rock and Roll
+MUSICA:The Mighty Fall|ALBUM:Save Rock and Roll
+MUSICA:Miss Missing You|ALBUM:Save Rock and Roll
+MUSICA:Death Valley|ALBUM:Save Rock and Roll
+MUSICA:Young Volcanoes|ALBUM:Save Rock and Roll
+MUSICA:Rat a Tat|ALBUM:Save Rock and Roll
+MUSICA:Save Rock and Roll|ALBUM:Save Rock and Roll
+MUSICA:Irresistible|ALBUM:American Beauty/American Psycho
+MUSICA:American Beauty/American Psycho|ALBUM:American Beauty/American Psycho
+MUSICA:Centuries|ALBUM:American Beauty/American Psycho
+MUSICA:The Kids Aren't Alright|ALBUM:American Beauty/American Psycho
+MUSICA:Uma Thurman|ALBUM:American Beauty/American Psycho
+MUSICA:Jet Pack Blues|ALBUM:American Beauty/American Psycho
+MUSICA:Novocaine|ALBUM:American Beauty/American Psycho
+MUSICA:Fourth of July|ALBUM:American Beauty/American Psycho
+MUSICA:Favorite Record|ALBUM:American Beauty/American Psycho
+MUSICA:Immortals|ALBUM:American Beauty/American Psycho
+MUSICA:Twin Skeleton's (Hotel in NYC)|ALBUM:American Beauty/American Psycho
+MUSICA:Young and Menace|ALBUM:Mania
+MUSICA:Champion|ALBUM:Mania
+MUSICA:Stay Frosty Royal Milk Tea|ALBUM:Mania
+MUSICA:HOLD ME TIGHT OR DON'T|ALBUM:Mania
+MUSICA:The Last of the Real Ones|ALBUM:Mania
+MUSICA:Wilson (Expensive Mistakes)|ALBUM:Mania
+MUSICA:Church|ALBUM:Mania
+MUSICA:Heaven's Gate|ALBUM:Mania
+MUSICA:Sunshine Riptide|ALBUM:Mania
+MUSICA:Bishops Knife Trick|ALBUM:Mania
+MUSICA:Love From the Other Side|ALBUM:So Much (for) Stardust
+MUSICA:Heartbreak Feels So Good|ALBUM:So Much (for) Stardust
+MUSICA:Hold Me Like a Grudge|ALBUM:So Much (for) Stardust
+MUSICA:I Am My Own Muse|ALBUM:So Much (for) Stardust
+MUSICA:Fake Out|ALBUM:So Much (for) Stardust
+MUSICA:So Good Right Now|ALBUM:So Much (for) Stardust
+MUSICA:The Pink Seashell|ALBUM:So Much (for) Stardust
+MUSICA:I Am My Own Muse|ALBUM:So Much (for) Stardust
+MUSICA:Flu Less I Know The Better|ALBUM:So Much (for) Stardust
+MUSICA:Kintsugi Kid (Ten Years)|ALBUM:So Much (for) Stardust
+MUSICA:What a Time to Be Alive|ALBUM:So Much (for) Stardust
+MUSICA:So Much (for) Stardust|ALBUM:So Much (for) Stardust
+GENERO:Rock Alternativo
+ARTISTA:Fall Out Boy|Cidade:Wilmette|Anos:25|Ativo:1|Premios:0|Integrantes:Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley
+MUSICA: "Tell That Mick He Just Made My List of Things to Do Today"|ALBUM:Take This to Your Grave
+MUSICA:Dead on Arrival|ALBUM:Take This to Your Grave
+MUSICA:Grand Theft Autumn / Where Is Your Boy|ALBUM:Take This to Your Grave
+MUSICA:Saturday|ALBUM:Take This to Your Grave
+MUSICA:Homesick at Space Camp|ALBUM:Take This to Your Grave
+MUSICA:Sending Postcards from a Plane Crash (Wish You Were Here)|ALBUM:Take This to Your Grave
+MUSICA:Chicago Is So Two Years Ago|ALBUM:Take This to Your Grave
+MUSICA:The Pros and Cons of Breathing|ALBUM:Take This to Your Grave
+MUSICA:Grenade Jumper|ALBUM:Take This to Your Grave
+MUSICA:Calm Before the Storm|ALBUM:Take This to Your Grave
+MUSICA:Reinventing the Wheel to Run Myself Over|ALBUM:Take This to Your Grave
+MUSICA:The Patron Saint of Liars and Fake Friends|ALBUM:Take This to Your Grave
+MUSICA:Our Lawyer Made Us Change the Name of This Song So We Wouldn't Get Sued|ALBUM:From Under the Cork Tree
+MUSICA:Of All the Gin Joints in All the World|ALBUM:From Under the Cork Tree
+MUSICA:Dance, Dance|ALBUM:From Under the Cork Tree
+MUSICA:Sugar, We're Goin Down|ALBUM:From Under the Cork Tree
+MUSICA:Nobody Puts Baby in the Corner|ALBUM:From Under the Cork Tree
+MUSICA:I've Got a Dark Alley and a Bad Idea That Says You Should Shut Your Mouth (Summer Song)|ALBUM:From Under the Cork Tree
+MUSICA:7 Minutes in Heaven (Atavan Happen)|ALBUM:From Under the Cork Tree
+MUSICA:Sophomore Slump or Comeback of the Year|ALBUM:From Under the Cork Tree
+MUSICA:Champagne for My Real Friends, Real Pain for My Sham Friends|ALBUM:From Under the Cork Tree
+MUSICA:I Slept with Someone in Fall Out Boy and All I Got Was This Stupid Song Written About Me|ALBUM:From Under the Cork Tree
+MUSICA:A Little Less Sixteen Candles, a Little More "Touch Me"|ALBUM:From Under the Cork Tree
+MUSICA:Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene and Stop Going to Shows)|ALBUM:From Under the Cork Tree
+MUSICA:XO|ALBUM:From Under the Cork Tree
+MUSICA:Thriller|ALBUM:Infinity on High
+MUSICA:"The Take Over, the Breaks Over"|ALBUM:Infinity on High
+MUSICA:This Ain't a Scene, It's an Arms Race|ALBUM:Infinity on High
+MUSICA:I'm Like a Lawyer with the Way I'm Always Trying to Get You Off (Me & You)|ALBUM:Infinity on High
+MUSICA:Hum Hallelujah|ALBUM:Infinity on High
+MUSICA:Golden|ALBUM:Infinity on High
+MUSICA:Thnks fr th Mmrs|ALBUM:Infinity on High
+MUSICA:Don't You Know Who I Think I Am?|ALBUM:Infinity on High
+MUSICA:The (After) Life of the Party|ALBUM:Infinity on High
+MUSICA:The Carpal Tunnel of Love|ALBUM:Infinity on High
+MUSICA:Bang the Doldrums|ALBUM:Infinity on High
+MUSICA:Fame < Infamy|ALBUM:Infinity on High
+MUSICA:You're Crashing, But You're No Wave|ALBUM:Infinity on High
+MUSICA:I've Got All This Ringing in My Ears and None on My Fingers|ALBUM:Infinity on High
+MUSICA:Disloyal Order of Water Buffaloes|ALBUM:Folie à Deux
+MUSICA:I Don't Care|ALBUM:Folie à Deux
+MUSICA:She's My Winona|ALBUM:Folie à Deux
+MUSICA:America's Suitehearts|ALBUM:Folie à Deux
+MUSICA:Headfirst Slide into Cooperstown on a Bad Bet|ALBUM:Folie à Deux
+MUSICA:The Shipped Gold Standard|ALBUM:Folie à Deux
+MUSICA:(Coffee's for Closers)|ALBUM:Folie à Deux
+MUSICA:What a Catch, Donnie|ALBUM:Folie à Deux
+MUSICA:27|ALBUM:Folie à Deux
+MUSICA:Tiffany Blews|ALBUM:Folie à Deux
+MUSICA:w.a.m.s.|ALBUM:Folie à Deux
+MUSICA:20 Dollar Nose Bleed|ALBUM:Folie à Deux
+MUSICA:West Coast Smoker|ALBUM:Folie à Deux
+MUSICA:The Phoenix|ALBUM:Save Rock and Roll
+MUSICA:My Songs Know What You Did in the Dark (Light Em Up)|ALBUM:Save Rock and Roll
+MUSICA:Alone Together|ALBUM:Save Rock and Roll
+MUSICA:Where Did the Party Go|ALBUM:Save Rock and Roll
+MUSICA:Just One Yesterday|ALBUM:Save Rock and Roll
+MUSICA:The Mighty Fall|ALBUM:Save Rock and Roll
+MUSICA:Miss Missing You|ALBUM:Save Rock and Roll
+MUSICA:Death Valley|ALBUM:Save Rock and Roll
+MUSICA:Young Volcanoes|ALBUM:Save Rock and Roll
+MUSICA:Rat a Tat|ALBUM:Save Rock and Roll
+MUSICA:Save Rock and Roll|ALBUM:Save Rock and Roll
+MUSICA:Irresistible|ALBUM:American Beauty/American Psycho
+MUSICA:American Beauty/American Psycho|ALBUM:American Beauty/American Psycho
+MUSICA:Centuries|ALBUM:American Beauty/American Psycho
+MUSICA:The Kids Aren't Alright|ALBUM:American Beauty/American Psycho
+MUSICA:Uma Thurman|ALBUM:American Beauty/American Psycho
+MUSICA:Jet Pack Blues|ALBUM:American Beauty/American Psycho
+MUSICA:Novocaine|ALBUM:American Beauty/American Psycho
+MUSICA:Fourth of July|ALBUM:American Beauty/American Psycho
+MUSICA:Favorite Record|ALBUM:American Beauty/American Psycho
+MUSICA:Immortals|ALBUM:American Beauty/American Psycho
+MUSICA:Twin Skeleton's (Hotel in NYC)|ALBUM:American Beauty/American Psycho
+MUSICA:Young and Menace|ALBUM:Mania
+MUSICA:Champion|ALBUM:Mania
+MUSICA:Stay Frosty Royal Milk Tea|ALBUM:Mania
+MUSICA:HOLD ME TIGHT OR DON'T|ALBUM:Mania
+MUSICA:The Last of the Real Ones|ALBUM:Mania
+MUSICA:Wilson (Expensive Mistakes)|ALBUM:Mania
+MUSICA:Church|ALBUM:Mania
+MUSICA:Heaven's Gate|ALBUM:Mania
+MUSICA:Sunshine Riptide|ALBUM:Mania
+MUSICA:Bishops Knife Trick|ALBUM:Mania
+MUSICA:Love From the Other Side|ALBUM:So Much (for) Stardust
+MUSICA:Heartbreak Feels So Good|ALBUM:So Much (for) Stardust
+MUSICA:Hold Me Like a Grudge|ALBUM:So Much (for) Stardust
+MUSICA:I Am My Own Muse|ALBUM:So Much (for) Stardust
+MUSICA:Fake Out|ALBUM:So Much (for) Stardust
+MUSICA:So Good Right Now|ALBUM:So Much (for) Stardust
+MUSICA:The Pink Seashell|ALBUM:So Much (for) Stardust
+MUSICA:I Am My Own Muse|ALBUM:So Much (for) Stardust
+MUSICA:Flu Less I Know The Better|ALBUM:So Much (for) Stardust
+MUSICA:Kintsugi Kid (Ten Years)|ALBUM:So Much (for) Stardust
+MUSICA:What a Time to Be Alive|ALBUM:So Much (for) Stardust
+MUSICA:So Much (for) Stardust|ALBUM:So Much (for) Stardust
+GENERO:Gospel
+ARTISTA:Aline Barros|Cidade:Rio de Janeiro|Anos:34|Ativo:1|Premios:8|Integrantes:Aline Barros
+MUSICA:Consolação|ALBUM:Sem Limites
+MUSICA:Sem Limites|ALBUM:Sem Limites
+MUSICA:Apenas um Toque|ALBUM:Sem Limites
+MUSICA:O Poder do Teu Amor|ALBUM:O Poder do Teu Amor
+MUSICA:Guarda o Meu Coração|ALBUM:O Poder do Teu Amor
+MUSICA:Deus do Impossível|ALBUM:O Poder do Teu Amor
+MUSICA:Sonda-me, Usa-me|ALBUM:Som de Adoradores
+MUSICA:Apaixonado|ALBUM:Som de Adoradores
+MUSICA:Tudo É Teu|ALBUM:Som de Adoradores
+MUSICA:Rendido Estou|ALBUM:Extraordinário Amor de Deus
+MUSICA:Ressuscita-me|ALBUM:Extraordinário Amor de Deus
+MUSICA:Vitória no Deserto|ALBUM:Extraordinário Amor de Deus
+MUSICA:Casa do Pai|ALBUM:Graça
+MUSICA:Ressuscita-me (Graça)|ALBUM:Graça
+MUSICA:Lugar Seguro|ALBUM:Graça
+MUSICA:Eternidade|ALBUM:Viva
+MUSICA:Diante da Cruz|ALBUM:Viva
+MUSICA:Paulo e Silas|ALBUM:Reino
+MUSICA:Autor da Vida|ALBUM:Reino
+MUSICA:Imensurável|ALBUM:Minha Oração
+MUSICA:Jeová Jireh|ALBUM:Minha Oração
+GENERO:Britpop
+ARTISTA:Oasis|Cidade:Manchester|Anos:35|Ativo:1|Premios:6|Integrantes:Liam Gallagher, Noel Gallagher, Paul Arthurs, Paul McGuigan, Tony McCarroll, Alan White, Gem Archer, Andy Bell
+MUSICA:Rock 'n' Roll Star|ALBUM:Definitely Maybe
+MUSICA:Shakermaker|ALBUM:Definitely Maybe
+MUSICA:Live Forever|ALBUM:Definitely Maybe
+MUSICA:Up in the Sky|ALBUM:Definitely Maybe
+MUSICA:Columbia|ALBUM:Definitely Maybe
+MUSICA:Supersonic|ALBUM:Definitely Maybe
+MUSICA:Bring It On Down|ALBUM:Definitely Maybe
+MUSICA:Cigarettes & Alcohol|ALBUM:Definitely Maybe
+MUSICA:Digsy's Dinner|ALBUM:Definitely Maybe
+MUSICA:Slide Away|ALBUM:Definitely Maybe
+MUSICA:Married with Children|ALBUM:Definitely Maybe
+MUSICA:Hello|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Roll with It|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Wonderwall|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Don't Look Back in Anger|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Hey Now!|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Some Might Say|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Cast No Shadow|ALBUM:(What's the Story) Morning Glory?
+MUSICA:She's Electric|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Morning Glory|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Champagne Supernova|ALBUM:(What's the Story) Morning Glory?
+MUSICA:D'You Know What I Mean?|ALBUM:Be Here Now
+MUSICA:My Big Mouth|ALBUM:Be Here Now
+MUSICA:Magic Pie|ALBUM:Be Here Now
+MUSICA:Stand by Me|ALBUM:Be Here Now
+MUSICA:I Hope, I Think, I Know|ALBUM:Be Here Now
+MUSICA:The Girl in the Dirty Shirt|ALBUM:Be Here Now
+MUSICA:Fade In-Out|ALBUM:Be Here Now
+MUSICA:Don't Go Away|ALBUM:Be Here Now
+MUSICA:Be Here Now|ALBUM:Be Here Now
+MUSICA:All Around the World|ALBUM:Be Here Now
+MUSICA:It's Gettin' Better (Man!!)|ALBUM:Be Here Now
+MUSICA:Fuckin' in the Bushes|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Go Let It Out|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Who Feels Love?|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Little James|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Gas Panic!|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Where Did It All Go Wrong?|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Sunday Morning Call|ALBUM:Standing on the Shoulder of Giants
+MUSICA:I Can See a Liar|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Roll It Over|ALBUM:Standing on the Shoulder of Giants
+MUSICA:The Hindu Times|ALBUM:Heathen Chemistry
+MUSICA:Force of Nature|ALBUM:Heathen Chemistry
+MUSICA:Hung in a Bad Place|ALBUM:Heathen Chemistry
+MUSICA:Stop Crying Your Heart Out|ALBUM:Heathen Chemistry
+MUSICA:Songbird|ALBUM:Heathen Chemistry
+MUSICA:Little by Little|ALBUM:Heathen Chemistry
+MUSICA:A Quick Peep|ALBUM:Heathen Chemistry
+MUSICA:Probably All in the Mind|ALBUM:Heathen Chemistry
+MUSICA:She Is Love|ALBUM:Heathen Chemistry
+MUSICA:Born on a Different Cloud|ALBUM:Heathen Chemistry
+MUSICA:Better Man|ALBUM:Heathen Chemistry
+MUSICA:Turn Up the Sun|ALBUM:Don't Believe the Truth
+MUSICA:Mucky Finger|ALBUM:Don't Believe the Truth
+MUSICA:Lyla|ALBUM:Don't Believe the Truth
+MUSICA:Love Like a Bomb|ALBUM:Don't Believe the Truth
+MUSICA:Importance of Being Idle|ALBUM:Don't Believe the Truth
+MUSICA:The Meaning of Soul|ALBUM:Don't Believe the Truth
+MUSICA:Guess God Thinks I'm Abel|ALBUM:Don't Believe the Truth
+MUSICA:Part of the Queue|ALBUM:Don't Believe the Truth
+MUSICA:Keep the Dream Alive|ALBUM:Don't Believe the Truth
+MUSICA:A Bell Will Ring|ALBUM:Don't Believe the Truth
+MUSICA:Let There Be Love|ALBUM:Don't Believe the Truth
+MUSICA:Bag It Up|ALBUM:Dig Out Your Soul
+MUSICA:The Turning|ALBUM:Dig Out Your Soul
+MUSICA:Waiting for the Rapture|ALBUM:Dig Out Your Soul
+MUSICA:The Shock of the Lightning|ALBUM:Dig Out Your Soul
+MUSICA:I'm Outta Time|ALBUM:Dig Out Your Soul
+MUSICA:Get Off Your High Horse Lady|ALBUM:Dig Out Your Soul
+MUSICA:Falling Down|ALBUM:Dig Out Your Soul
+MUSICA:To Be Where There's Life|ALBUM:Dig Out Your Soul
+MUSICA:Ain't Got Nothin'|ALBUM:Dig Out Your Soul
+MUSICA:The Nature of Reality|ALBUM:Dig Out Your Soul
+MUSICA:Soldier On|ALBUM:Dig Out Your Soul
+GENERO:Rock
+ARTISTA:Oasis|Cidade:Manchester|Anos:35|Ativo:1|Premios:6|Integrantes:Liam Gallagher, Noel Gallagher, Paul Arthurs, Paul McGuigan, Tony McCarroll, Alan White, Gem Archer, Andy Bell
+MUSICA:Rock 'n' Roll Star|ALBUM:Definitely Maybe
+MUSICA:Shakermaker|ALBUM:Definitely Maybe
+MUSICA:Live Forever|ALBUM:Definitely Maybe
+MUSICA:Up in the Sky|ALBUM:Definitely Maybe
+MUSICA:Columbia|ALBUM:Definitely Maybe
+MUSICA:Supersonic|ALBUM:Definitely Maybe
+MUSICA:Bring It On Down|ALBUM:Definitely Maybe
+MUSICA:Cigarettes & Alcohol|ALBUM:Definitely Maybe
+MUSICA:Digsy's Dinner|ALBUM:Definitely Maybe
+MUSICA:Slide Away|ALBUM:Definitely Maybe
+MUSICA:Married with Children|ALBUM:Definitely Maybe
+MUSICA:Hello|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Roll with It|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Wonderwall|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Don't Look Back in Anger|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Hey Now!|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Some Might Say|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Cast No Shadow|ALBUM:(What's the Story) Morning Glory?
+MUSICA:She's Electric|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Morning Glory|ALBUM:(What's the Story) Morning Glory?
+MUSICA:Champagne Supernova|ALBUM:(What's the Story) Morning Glory?
+MUSICA:D'You Know What I Mean?|ALBUM:Be Here Now
+MUSICA:My Big Mouth|ALBUM:Be Here Now
+MUSICA:Magic Pie|ALBUM:Be Here Now
+MUSICA:Stand by Me|ALBUM:Be Here Now
+MUSICA:I Hope, I Think, I Know|ALBUM:Be Here Now
+MUSICA:The Girl in the Dirty Shirt|ALBUM:Be Here Now
+MUSICA:Fade In-Out|ALBUM:Be Here Now
+MUSICA:Don't Go Away|ALBUM:Be Here Now
+MUSICA:Be Here Now|ALBUM:Be Here Now
+MUSICA:All Around the World|ALBUM:Be Here Now
+MUSICA:It's Gettin' Better (Man!!)|ALBUM:Be Here Now
+MUSICA:Fuckin' in the Bushes|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Go Let It Out|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Who Feels Love?|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Little James|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Gas Panic!|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Where Did It All Go Wrong?|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Sunday Morning Call|ALBUM:Standing on the Shoulder of Giants
+MUSICA:I Can See a Liar|ALBUM:Standing on the Shoulder of Giants
+MUSICA:Roll It Over|ALBUM:Standing on the Shoulder of Giants
+MUSICA:The Hindu Times|ALBUM:Heathen Chemistry
+MUSICA:Force of Nature|ALBUM:Heathen Chemistry
+MUSICA:Hung in a Bad Place|ALBUM:Heathen Chemistry
+MUSICA:Stop Crying Your Heart Out|ALBUM:Heathen Chemistry
+MUSICA:Songbird|ALBUM:Heathen Chemistry
+MUSICA:Little by Little|ALBUM:Heathen Chemistry
+MUSICA:A Quick Peep|ALBUM:Heathen Chemistry
+MUSICA:Probably All in the Mind|ALBUM:Heathen Chemistry
+MUSICA:She Is Love|ALBUM:Heathen Chemistry
+MUSICA:Born on a Different Cloud|ALBUM:Heathen Chemistry
+MUSICA:Better Man|ALBUM:Heathen Chemistry
+MUSICA:Turn Up the Sun|ALBUM:Don't Believe the Truth
+MUSICA:Mucky Finger|ALBUM:Don't Believe the Truth
+MUSICA:Lyla|ALBUM:Don't Believe the Truth
+MUSICA:Love Like a Bomb|ALBUM:Don't Believe the Truth
+MUSICA:Importance of Being Idle|ALBUM:Don't Believe the Truth
+MUSICA:The Meaning of Soul|ALBUM:Don't Believe the Truth
+MUSICA:Guess God Thinks I'm Abel|ALBUM:Don't Believe the Truth
+MUSICA:Part of the Queue|ALBUM:Don't Believe the Truth
+MUSICA:Keep the Dream Alive|ALBUM:Don't Believe the Truth
+MUSICA:A Bell Will Ring|ALBUM:Don't Believe the Truth
+MUSICA:Let There Be Love|ALBUM:Don't Believe the Truth
+MUSICA:Bag It Up|ALBUM:Dig Out Your Soul
+MUSICA:The Turning|ALBUM:Dig Out Your Soul
+MUSICA:Waiting for the Rapture|ALBUM:Dig Out Your Soul
+MUSICA:The Shock of the Lightning|ALBUM:Dig Out Your Soul
+MUSICA:I'm Outta Time|ALBUM:Dig Out Your Soul
+MUSICA:Get Off Your High Horse Lady|ALBUM:Dig Out Your Soul
+MUSICA:Falling Down|ALBUM:Dig Out Your Soul
+MUSICA:To Be Where There's Life|ALBUM:Dig Out Your Soul
+MUSICA:Ain't Got Nothin'|ALBUM:Dig Out Your Soul
+MUSICA:The Nature of Reality|ALBUM:Dig Out Your Soul
+MUSICA:Soldier On|ALBUM:Dig Out Your Soul
+GENERO:Rock Alternativo
+ARTISTA:Radiohead|Cidade:Abingdon|Anos:41|Ativo:1|Premios:6|Integrantes:Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway
+MUSICA:You|ALBUM:Pablo Honey
+MUSICA:Creep|ALBUM:Pablo Honey
+MUSICA:How Do You?|ALBUM:Pablo Honey
+MUSICA:Stop Whispering|ALBUM:Pablo Honey
+MUSICA:Thinking About You|ALBUM:Pablo Honey
+MUSICA:Anyone Can Play Guitar|ALBUM:Pablo Honey
+MUSICA:Ripcord|ALBUM:Pablo Honey
+MUSICA:Vegetable|ALBUM:Pablo Honey
+MUSICA:Prove Yourself|ALBUM:Pablo Honey
+MUSICA:I Can't|ALBUM:Pablo Honey
+MUSICA:Lurgee|ALBUM:Pablo Honey
+MUSICA:Blow Out|ALBUM:Pablo Honey
+MUSICA:Planet Telex|ALBUM:The Bends
+MUSICA:The Bends|ALBUM:The Bends
+MUSICA:High and Dry|ALBUM:The Bends
+MUSICA:Fake Plastic Trees|ALBUM:The Bends
+MUSICA:Bones|ALBUM:The Bends
+MUSICA:(Nice Dream)|ALBUM:The Bends
+MUSICA:Just|ALBUM:The Bends
+MUSICA:My Iron Lung|ALBUM:The Bends
+MUSICA:Bullet Proof.. I Wish I Was|ALBUM:The Bends
+MUSICA:Black Star|ALBUM:The Bends
+MUSICA:Sulk|ALBUM:The Bends
+MUSICA:Street Spirit (Fade Out)|ALBUM:The Bends
+MUSICA:Airbag|ALBUM:OK Computer
+MUSICA:Paranoid Android|ALBUM:OK Computer
+MUSICA:Subterranean Homesick Alien|ALBUM:OK Computer
+MUSICA:Exit Music (For a Film)|ALBUM:OK Computer
+MUSICA:Let Down|ALBUM:OK Computer
+MUSICA:Karma Police|ALBUM:OK Computer
+MUSICA:Fitter Happier|ALBUM:OK Computer
+MUSICA:Electioneering|ALBUM:OK Computer
+MUSICA:Climbing Up the Walls|ALBUM:OK Computer
+MUSICA:No Surprises|ALBUM:OK Computer
+MUSICA:Lucky|ALBUM:OK Computer
+MUSICA:The Tourist|ALBUM:OK Computer
+MUSICA:Everything in Its Right Place|ALBUM:Kid A
+MUSICA:Kid A|ALBUM:Kid A
+MUSICA:The National Anthem|ALBUM:Kid A
+MUSICA:How to Disappear Completely|ALBUM:Kid A
+MUSICA:Treefingers|ALBUM:Kid A
+MUSICA:Optimistic|ALBUM:Kid A
+MUSICA:In Limbo|ALBUM:Kid A
+MUSICA:Idioteque|ALBUM:Kid A
+MUSICA:Morning Bell|ALBUM:Kid A
+MUSICA:Motion Picture Soundtrack|ALBUM:Kid A
+MUSICA:Packt Like Sardines in a Crushd Tin Box|ALBUM:Amnesiac
+MUSICA:Pyramid Song|ALBUM:Amnesiac
+MUSICA:Pulk/Pull Revolving Doors|ALBUM:Amnesiac
+MUSICA:You and Whose Army?|ALBUM:Amnesiac
+MUSICA:I Might Be Wrong|ALBUM:Amnesiac
+MUSICA:Knives Out|ALBUM:Amnesiac
+MUSICA:Morning Bell/Amnesiac|ALBUM:Amnesiac
+MUSICA:Dollars and Cents|ALBUM:Amnesiac
+MUSICA:Hunting Bears|ALBUM:Amnesiac
+MUSICA:Like Spinning Plates|ALBUM:Amnesiac
+MUSICA:Life in a Glasshouse|ALBUM:Amnesiac
+MUSICA:2 + 2 = 5|ALBUM:Hail to the Thief
+MUSICA:Sit Down. Stand Up|ALBUM:Hail to the Thief
+MUSICA:Sail to the Moon|ALBUM:Hail to the Thief
+MUSICA:Backdrifts|ALBUM:Hail to the Thief
+MUSICA:Go to Sleep|ALBUM:Hail to the Thief
+MUSICA:Where I End and You Begin|ALBUM:Hail to the Thief
+MUSICA:We Suck Young Blood|ALBUM:Hail to the Thief
+MUSICA:The Gloaming|ALBUM:Hail to the Thief
+MUSICA:There There|ALBUM:Hail to the Thief
+MUSICA:I Will|ALBUM:Hail to the Thief
+MUSICA:A Punchup at a Wedding|ALBUM:Hail to the Thief
+MUSICA:Myxomatosis|ALBUM:Hail to the Thief
+MUSICA:Scatterbrain|ALBUM:Hail to the Thief
+MUSICA:A Wolf at the Door|ALBUM:Hail to the Thief
+MUSICA:15 Step|ALBUM:In Rainbows
+MUSICA:Bodysnatchers|ALBUM:In Rainbows
+MUSICA:Nude|ALBUM:In Rainbows
+MUSICA:Weird Fishes/Arpeggi|ALBUM:In Rainbows
+MUSICA:All I Need|ALBUM:In Rainbows
+MUSICA:Faust Arp|ALBUM:In Rainbows
+MUSICA:Reckoner|ALBUM:In Rainbows
+MUSICA:House of Cards|ALBUM:In Rainbows
+MUSICA:Jigsaw Falling Into Place|ALBUM:In Rainbows
+MUSICA:Videotape|ALBUM:In Rainbows
+MUSICA:Bloom|ALBUM:The King of Limbs
+MUSICA:Morning Mr Magpie|ALBUM:The King of Limbs
+MUSICA:Little by Little|ALBUM:The King of Limbs
+MUSICA:Feral|ALBUM:The King of Limbs
+MUSICA:Lotus Flower|ALBUM:The King of Limbs
+MUSICA:Codex|ALBUM:The King of Limbs
+MUSICA:Give Up the Ghost|ALBUM:The King of Limbs
+MUSICA:Separator|ALBUM:The King of Limbs
+MUSICA:Burn the Witch|ALBUM:A Moon Shaped Pool
+MUSICA:Daydreaming|ALBUM:A Moon Shaped Pool
+MUSICA:Decks Dark|ALBUM:A Moon Shaped Pool
+MUSICA:Desert Island Disk|ALBUM:A Moon Shaped Pool
+MUSICA:Ful Stop|ALBUM:A Moon Shaped Pool
+MUSICA:Glass Eyes|ALBUM:A Moon Shaped Pool
+MUSICA:Identikit|ALBUM:A Moon Shaped Pool
+MUSICA:The Numbers|ALBUM:A Moon Shaped Pool
+MUSICA:Present Tense|ALBUM:A Moon Shaped Pool
+MUSICA:Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief|ALBUM:A Moon Shaped Pool
+MUSICA:True Love Waits|ALBUM:A Moon Shaped Pool
+GENERO:Experimental
+ARTISTA:Radiohead|Cidade:Abingdon|Anos:41|Ativo:1|Premios:6|Integrantes:Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway
+MUSICA:You|ALBUM:Pablo Honey
+MUSICA:Creep|ALBUM:Pablo Honey
+MUSICA:How Do You?|ALBUM:Pablo Honey
+MUSICA:Stop Whispering|ALBUM:Pablo Honey
+MUSICA:Thinking About You|ALBUM:Pablo Honey
+MUSICA:Anyone Can Play Guitar|ALBUM:Pablo Honey
+MUSICA:Ripcord|ALBUM:Pablo Honey
+MUSICA:Vegetable|ALBUM:Pablo Honey
+MUSICA:Prove Yourself|ALBUM:Pablo Honey
+MUSICA:I Can't|ALBUM:Pablo Honey
+MUSICA:Lurgee|ALBUM:Pablo Honey
+MUSICA:Blow Out|ALBUM:Pablo Honey
+MUSICA:Planet Telex|ALBUM:The Bends
+MUSICA:The Bends|ALBUM:The Bends
+MUSICA:High and Dry|ALBUM:The Bends
+MUSICA:Fake Plastic Trees|ALBUM:The Bends
+MUSICA:Bones|ALBUM:The Bends
+MUSICA:(Nice Dream)|ALBUM:The Bends
+MUSICA:Just|ALBUM:The Bends
+MUSICA:My Iron Lung|ALBUM:The Bends
+MUSICA:Bullet Proof.. I Wish I Was|ALBUM:The Bends
+MUSICA:Black Star|ALBUM:The Bends
+MUSICA:Sulk|ALBUM:The Bends
+MUSICA:Street Spirit (Fade Out)|ALBUM:The Bends
+MUSICA:Airbag|ALBUM:OK Computer
+MUSICA:Paranoid Android|ALBUM:OK Computer
+MUSICA:Subterranean Homesick Alien|ALBUM:OK Computer
+MUSICA:Exit Music (For a Film)|ALBUM:OK Computer
+MUSICA:Let Down|ALBUM:OK Computer
+MUSICA:Karma Police|ALBUM:OK Computer
+MUSICA:Fitter Happier|ALBUM:OK Computer
+MUSICA:Electioneering|ALBUM:OK Computer
+MUSICA:Climbing Up the Walls|ALBUM:OK Computer
+MUSICA:No Surprises|ALBUM:OK Computer
+MUSICA:Lucky|ALBUM:OK Computer
+MUSICA:The Tourist|ALBUM:OK Computer
+MUSICA:Everything in Its Right Place|ALBUM:Kid A
+MUSICA:Kid A|ALBUM:Kid A
+MUSICA:The National Anthem|ALBUM:Kid A
+MUSICA:How to Disappear Completely|ALBUM:Kid A
+MUSICA:Treefingers|ALBUM:Kid A
+MUSICA:Optimistic|ALBUM:Kid A
+MUSICA:In Limbo|ALBUM:Kid A
+MUSICA:Idioteque|ALBUM:Kid A
+MUSICA:Morning Bell|ALBUM:Kid A
+MUSICA:Motion Picture Soundtrack|ALBUM:Kid A
+MUSICA:Packt Like Sardines in a Crushd Tin Box|ALBUM:Amnesiac
+MUSICA:Pyramid Song|ALBUM:Amnesiac
+MUSICA:Pulk/Pull Revolving Doors|ALBUM:Amnesiac
+MUSICA:You and Whose Army?|ALBUM:Amnesiac
+MUSICA:I Might Be Wrong|ALBUM:Amnesiac
+MUSICA:Knives Out|ALBUM:Amnesiac
+MUSICA:Morning Bell/Amnesiac|ALBUM:Amnesiac
+MUSICA:Dollars and Cents|ALBUM:Amnesiac
+MUSICA:Hunting Bears|ALBUM:Amnesiac
+MUSICA:Like Spinning Plates|ALBUM:Amnesiac
+MUSICA:Life in a Glasshouse|ALBUM:Amnesiac
+MUSICA:2 + 2 = 5|ALBUM:Hail to the Thief
+MUSICA:Sit Down. Stand Up|ALBUM:Hail to the Thief
+MUSICA:Sail to the Moon|ALBUM:Hail to the Thief
+MUSICA:Backdrifts|ALBUM:Hail to the Thief
+MUSICA:Go to Sleep|ALBUM:Hail to the Thief
+MUSICA:Where I End and You Begin|ALBUM:Hail to the Thief
+MUSICA:We Suck Young Blood|ALBUM:Hail to the Thief
+MUSICA:The Gloaming|ALBUM:Hail to the Thief
+MUSICA:There There|ALBUM:Hail to the Thief
+MUSICA:I Will|ALBUM:Hail to the Thief
+MUSICA:A Punchup at a Wedding|ALBUM:Hail to the Thief
+MUSICA:Myxomatosis|ALBUM:Hail to the Thief
+MUSICA:Scatterbrain|ALBUM:Hail to the Thief
+MUSICA:A Wolf at the Door|ALBUM:Hail to the Thief
+MUSICA:15 Step|ALBUM:In Rainbows
+MUSICA:Bodysnatchers|ALBUM:In Rainbows
+MUSICA:Nude|ALBUM:In Rainbows
+MUSICA:Weird Fishes/Arpeggi|ALBUM:In Rainbows
+MUSICA:All I Need|ALBUM:In Rainbows
+MUSICA:Faust Arp|ALBUM:In Rainbows
+MUSICA:Reckoner|ALBUM:In Rainbows
+MUSICA:House of Cards|ALBUM:In Rainbows
+MUSICA:Jigsaw Falling Into Place|ALBUM:In Rainbows
+MUSICA:Videotape|ALBUM:In Rainbows
+MUSICA:Bloom|ALBUM:The King of Limbs
+MUSICA:Morning Mr Magpie|ALBUM:The King of Limbs
+MUSICA:Little by Little|ALBUM:The King of Limbs
+MUSICA:Feral|ALBUM:The King of Limbs
+MUSICA:Lotus Flower|ALBUM:The King of Limbs
+MUSICA:Codex|ALBUM:The King of Limbs
+MUSICA:Give Up the Ghost|ALBUM:The King of Limbs
+MUSICA:Separator|ALBUM:The King of Limbs
+MUSICA:Burn the Witch|ALBUM:A Moon Shaped Pool
+MUSICA:Daydreaming|ALBUM:A Moon Shaped Pool
+MUSICA:Decks Dark|ALBUM:A Moon Shaped Pool
+MUSICA:Desert Island Disk|ALBUM:A Moon Shaped Pool
+MUSICA:Ful Stop|ALBUM:A Moon Shaped Pool
+MUSICA:Glass Eyes|ALBUM:A Moon Shaped Pool
+MUSICA:Identikit|ALBUM:A Moon Shaped Pool
+MUSICA:The Numbers|ALBUM:A Moon Shaped Pool
+MUSICA:Present Tense|ALBUM:A Moon Shaped Pool
+MUSICA:Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief|ALBUM:A Moon Shaped Pool
+MUSICA:True Love Waits|ALBUM:A Moon Shaped Pool
+GENERO:Pop
+ARTISTA:Phantogram|Cidade:Saratoga Springs|Anos:19|Ativo:1|Premios:0|Integrantes:Sarah Barthel, Josh Carter
+MUSICA:Mouthful of Diamonds|ALBUM:Eyelid Movies
+MUSICA:When I'm Small|ALBUM:Eyelid Movies
+MUSICA:Turn It Off|ALBUM:Eyelid Movies
+MUSICA:Running From the Cops|ALBUM:Eyelid Movies
+MUSICA:All Dying Lies|ALBUM:Eyelid Movies
+MUSICA:As Childishly Unknown as Possible|ALBUM:Eyelid Movies
+MUSICA:You Are the Ocean|ALBUM:Eyelid Movies
+MUSICA:Bloody Palms|ALBUM:Eyelid Movies
+MUSICA:Futuristic Casket|ALBUM:Eyelid Movies
+MUSICA:Let Me Go|ALBUM:Eyelid Movies
+MUSICA:10,000 Claps|ALBUM:Eyelid Movies
+MUSICA:Nothing But Trouble|ALBUM:Voices
+MUSICA:Fall in Love|ALBUM:Voices
+MUSICA:Gu时间(Guilt Trip)|ALBUM:Voices
+MUSICA:Black Out Days|ALBUM:Voices
+MUSICA:How Falling Works|ALBUM:Voices
+MUSICA:Never Going Home|ALBUM:Voices
+MUSICA:The Day You Died|ALBUM:Voices
+MUSICA:Bad Dreams|ALBUM:Voices
+MUSICA:Psychic Trax|ALBUM:Voices
+MUSICA:I Don't Blame You|ALBUM:Voices
+MUSICA:Bill Murray|ALBUM:Voices
+MUSICA: Funeral Pyre|ALBUM:Three
+MUSICA:Same Old Blues|ALBUM:Three
+MUSICA:You're Mine|ALBUM:Three
+MUSICA:Cruel World|ALBUM:Three
+MUSICA:Barking Dog|ALBUM:Three
+MUSICA: Calling All|ALBUM:Three
+MUSICA: Ansiedad|ALBUM:Three
+MUSICA:Destroyer|ALBUM:Three
+MUSICA: You Don't Get Me High Anymore|ALBUM:Three
+MUSICA: Run Run Blood|ALBUM:Three
+MUSICA:Dear God|ALBUM:Ceremony
+MUSICA:In a Spiral|ALBUM:Ceremony
+MUSICA:Into Happiness|ALBUM:Ceremony
+MUSICA:Pedestal|ALBUM:Ceremony
+MUSICA:Love Me Now|ALBUM:Ceremony
+MUSICA:Glowing|ALBUM:Ceremony
+MUSICA:Gaunt Kids|ALBUM:Ceremony
+MUSICA: Let Me Down|ALBUM:Ceremony
+MUSICA: News Today|ALBUM:Ceremony
+MUSICA: Mister Impossible|ALBUM:Ceremony
+MUSICA: Happy Again|ALBUM:Memory of a Day
+MUSICA: All a Mystery|ALBUM:Memory of a Day
+MUSICA: It Wasn't Meant to Be|ALBUM:Memory of a Day
+MUSICA: Jealousy|ALBUM:Memory of a Day
+GENERO:Eletrônico
+ARTISTA:Phantogram|Cidade:Saratoga Springs|Anos:19|Ativo:1|Premios:0|Integrantes:Sarah Barthel, Josh Carter
+MUSICA:Mouthful of Diamonds|ALBUM:Eyelid Movies
+MUSICA:When I'm Small|ALBUM:Eyelid Movies
+MUSICA:Turn It Off|ALBUM:Eyelid Movies
+MUSICA:Running From the Cops|ALBUM:Eyelid Movies
+MUSICA:All Dying Lies|ALBUM:Eyelid Movies
+MUSICA:As Childishly Unknown as Possible|ALBUM:Eyelid Movies
+MUSICA:You Are the Ocean|ALBUM:Eyelid Movies
+MUSICA:Bloody Palms|ALBUM:Eyelid Movies
+MUSICA:Futuristic Casket|ALBUM:Eyelid Movies
+MUSICA:Let Me Go|ALBUM:Eyelid Movies
+MUSICA:10,000 Claps|ALBUM:Eyelid Movies
+MUSICA:Nothing But Trouble|ALBUM:Voices
+MUSICA:Fall in Love|ALBUM:Voices
+MUSICA:Gu时间(Guilt Trip)|ALBUM:Voices
+MUSICA:Black Out Days|ALBUM:Voices
+MUSICA:How Falling Works|ALBUM:Voices
+MUSICA:Never Going Home|ALBUM:Voices
+MUSICA:The Day You Died|ALBUM:Voices
+MUSICA:Bad Dreams|ALBUM:Voices
+MUSICA:Psychic Trax|ALBUM:Voices
+MUSICA:I Don't Blame You|ALBUM:Voices
+MUSICA:Bill Murray|ALBUM:Voices
+MUSICA: Funeral Pyre|ALBUM:Three
+MUSICA:Same Old Blues|ALBUM:Three
+MUSICA:You're Mine|ALBUM:Three
+MUSICA:Cruel World|ALBUM:Three
+MUSICA:Barking Dog|ALBUM:Three
+MUSICA: Calling All|ALBUM:Three
+MUSICA: Ansiedad|ALBUM:Three
+MUSICA:Destroyer|ALBUM:Three
+MUSICA: You Don't Get Me High Anymore|ALBUM:Three
+MUSICA: Run Run Blood|ALBUM:Three
+MUSICA:Dear God|ALBUM:Ceremony
+MUSICA:In a Spiral|ALBUM:Ceremony
+MUSICA:Into Happiness|ALBUM:Ceremony
+MUSICA:Pedestal|ALBUM:Ceremony
+MUSICA:Love Me Now|ALBUM:Ceremony
+MUSICA:Glowing|ALBUM:Ceremony
+MUSICA:Gaunt Kids|ALBUM:Ceremony
+MUSICA: Let Me Down|ALBUM:Ceremony
+MUSICA: News Today|ALBUM:Ceremony
+MUSICA: Mister Impossible|ALBUM:Ceremony
+MUSICA: Happy Again|ALBUM:Memory of a Day
+MUSICA: All a Mystery|ALBUM:Memory of a Day
+MUSICA: It Wasn't Meant to Be|ALBUM:Memory of a Day
+MUSICA: Jealousy|ALBUM:Memory of a Day
+GENERO:K-Pop
+ARTISTA:Red Velvet|Cidade:Seul|Anos:12|Ativo:1|Premios:60|Integrantes:Irene, Seulgi, Wendy, Joy, Yeri
+MUSICA:Dumb Dumb|ALBUM:The Red
+MUSICA:Huff n Puff|ALBUM:The Red
+MUSICA:Campfire|ALBUM:The Red
+MUSICA:Red Dress|ALBUM:The Red
+MUSICA:Oh Boy|ALBUM:The Red
+MUSICA:Lady's Room|ALBUM:The Red
+MUSICA:Time Slip|ALBUM:The Red
+MUSICA:Don't U Wait No More|ALBUM:The Red
+MUSICA:Day 1|ALBUM:The Red
+MUSICA:Cool World|ALBUM:The Red
+MUSICA:Peek-A-Boo|ALBUM:Perfect Velvet
+MUSICA:Look|ALBUM:Perfect Velvet
+MUSICA:I Just|ALBUM:Perfect Velvet
+MUSICA:Kingdom Come|ALBUM:Perfect Velvet
+MUSICA:My Second Date|ALBUM:Perfect Velvet
+MUSICA:Attaboy|ALBUM:Perfect Velvet
+MUSICA:Perfect 10|ALBUM:Perfect Velvet
+MUSICA:About Love|ALBUM:Perfect Velvet
+MUSICA:Moonlight Melody|ALBUM:Perfect Velvet
+MUSICA:Bad Boy|ALBUM:The Perfect Red Velvet
+MUSICA:All Right|ALBUM:The Perfect Red Velvet
+MUSICA:Time To Love|ALBUM:The Perfect Red Velvet
+MUSICA:Marionette|ALBUM:Bloom
+MUSICA:WILDFLOWER|ALBUM:Bloom
+MUSICA:SAPPY|ALBUM:Bloom
+MUSICA:Jackpot|ALBUM:Bloom
+MUSICA:#Cookie Jar|ALBUM:Bloom
+MUSICA:Snap Snap|ALBUM:Bloom
+MUSICA:Sayonara|ALBUM:Bloom
+MUSICA:Aitai-tai|ALBUM:Bloom
+MUSICA:Color of Love|ALBUM:Bloom
+MUSICA:Chill Kill|ALBUM:Chill Kill
+MUSICA:Knock Knock (Who's There?)|ALBUM:Chill Kill
+MUSICA:Underwater|ALBUM:Chill Kill
+MUSICA:Will I Ever See You Again?|ALBUM:Chill Kill
+MUSICA:Nightmare|ALBUM:Chill Kill
+MUSICA:Iced Coffee|ALBUM:Chill Kill
+MUSICA:One Kiss|ALBUM:Chill Kill
+MUSICA:Bulldozer|ALBUM:Chill Kill
+MUSICA:Wings|ALBUM:Chill Kill
+MUSICA:Scenery|ALBUM:Chill Kill
+MUSICA:Ice Cream Cake|ALBUM:Ice Cream Cake
+MUSICA:Automatic|ALBUM:Ice Cream Cake
+MUSICA:One of These Nights|ALBUM:The Velvet
+MUSICA:Russian Roulette|ALBUM:Russian Roulette
+MUSICA:Rookie|ALBUM:Rookie
+MUSICA:Red Flavor|ALBUM:The Red Summer
+MUSICA:Power Up|ALBUM:Summer Magic
+MUSICA:RBB (Really Bad Boy)|ALBUM:RBB
+MUSICA:Zimzalabim|ALBUM:The ReVe Festival: Day 1
+MUSICA:Umpah Umpah|ALBUM:The ReVe Festival: Day 2
+MUSICA:Psycho|ALBUM:The ReVe Festival: Finale
+MUSICA:Queendom|ALBUM:Queendom
+MUSICA:Feel My Rhythm|ALBUM:The ReVe Festival 2022 - Feel My Rhythm
+MUSICA:Birthday|ALBUM:The ReVe Festival 2022 - Birthday
+MUSICA:Cosmic|ALBUM:Cosmic
+GENERO:Pop
+ARTISTA:Red Velvet|Cidade:Seul|Anos:12|Ativo:1|Premios:60|Integrantes:Irene, Seulgi, Wendy, Joy, Yeri
+MUSICA:Dumb Dumb|ALBUM:The Red
+MUSICA:Huff n Puff|ALBUM:The Red
+MUSICA:Campfire|ALBUM:The Red
+MUSICA:Red Dress|ALBUM:The Red
+MUSICA:Oh Boy|ALBUM:The Red
+MUSICA:Lady's Room|ALBUM:The Red
+MUSICA:Time Slip|ALBUM:The Red
+MUSICA:Don't U Wait No More|ALBUM:The Red
+MUSICA:Day 1|ALBUM:The Red
+MUSICA:Cool World|ALBUM:The Red
+MUSICA:Peek-A-Boo|ALBUM:Perfect Velvet
+MUSICA:Look|ALBUM:Perfect Velvet
+MUSICA:I Just|ALBUM:Perfect Velvet
+MUSICA:Kingdom Come|ALBUM:Perfect Velvet
+MUSICA:My Second Date|ALBUM:Perfect Velvet
+MUSICA:Attaboy|ALBUM:Perfect Velvet
+MUSICA:Perfect 10|ALBUM:Perfect Velvet
+MUSICA:About Love|ALBUM:Perfect Velvet
+MUSICA:Moonlight Melody|ALBUM:Perfect Velvet
+MUSICA:Bad Boy|ALBUM:The Perfect Red Velvet
+MUSICA:All Right|ALBUM:The Perfect Red Velvet
+MUSICA:Time To Love|ALBUM:The Perfect Red Velvet
+MUSICA:Marionette|ALBUM:Bloom
+MUSICA:WILDFLOWER|ALBUM:Bloom
+MUSICA:SAPPY|ALBUM:Bloom
+MUSICA:Jackpot|ALBUM:Bloom
+MUSICA:#Cookie Jar|ALBUM:Bloom
+MUSICA:Snap Snap|ALBUM:Bloom
+MUSICA:Sayonara|ALBUM:Bloom
+MUSICA:Aitai-tai|ALBUM:Bloom
+MUSICA:Color of Love|ALBUM:Bloom
+MUSICA:Chill Kill|ALBUM:Chill Kill
+MUSICA:Knock Knock (Who's There?)|ALBUM:Chill Kill
+MUSICA:Underwater|ALBUM:Chill Kill
+MUSICA:Will I Ever See You Again?|ALBUM:Chill Kill
+MUSICA:Nightmare|ALBUM:Chill Kill
+MUSICA:Iced Coffee|ALBUM:Chill Kill
+MUSICA:One Kiss|ALBUM:Chill Kill
+MUSICA:Bulldozer|ALBUM:Chill Kill
+MUSICA:Wings|ALBUM:Chill Kill
+MUSICA:Scenery|ALBUM:Chill Kill
+MUSICA:Ice Cream Cake|ALBUM:Ice Cream Cake
+MUSICA:Automatic|ALBUM:Ice Cream Cake
+MUSICA:One of These Nights|ALBUM:The Velvet
+MUSICA:Russian Roulette|ALBUM:Russian Roulette
+MUSICA:Rookie|ALBUM:Rookie
+MUSICA:Red Flavor|ALBUM:The Red Summer
+MUSICA:Power Up|ALBUM:Summer Magic
+MUSICA:RBB (Really Bad Boy)|ALBUM:RBB
+MUSICA:Zimzalabim|ALBUM:The ReVe Festival: Day 1
+MUSICA:Umpah Umpah|ALBUM:The ReVe Festival: Day 2
+MUSICA:Psycho|ALBUM:The ReVe Festival: Finale
+MUSICA:Queendom|ALBUM:Queendom
+MUSICA:Feel My Rhythm|ALBUM:The ReVe Festival 2022 - Feel My Rhythm
+MUSICA:Birthday|ALBUM:The ReVe Festival 2022 - Birthday
+MUSICA:Cosmic|ALBUM:Cosmic
+GENERO:R&B
+ARTISTA:Red Velvet|Cidade:Seul|Anos:12|Ativo:1|Premios:60|Integrantes:Irene, Seulgi, Wendy, Joy, Yeri
+MUSICA:Dumb Dumb|ALBUM:The Red
+MUSICA:Huff n Puff|ALBUM:The Red
+MUSICA:Campfire|ALBUM:The Red
+MUSICA:Red Dress|ALBUM:The Red
+MUSICA:Oh Boy|ALBUM:The Red
+MUSICA:Lady's Room|ALBUM:The Red
+MUSICA:Time Slip|ALBUM:The Red
+MUSICA:Don't U Wait No More|ALBUM:The Red
+MUSICA:Day 1|ALBUM:The Red
+MUSICA:Cool World|ALBUM:The Red
+MUSICA:Peek-A-Boo|ALBUM:Perfect Velvet
+MUSICA:Look|ALBUM:Perfect Velvet
+MUSICA:I Just|ALBUM:Perfect Velvet
+MUSICA:Kingdom Come|ALBUM:Perfect Velvet
+MUSICA:My Second Date|ALBUM:Perfect Velvet
+MUSICA:Attaboy|ALBUM:Perfect Velvet
+MUSICA:Perfect 10|ALBUM:Perfect Velvet
+MUSICA:About Love|ALBUM:Perfect Velvet
+MUSICA:Moonlight Melody|ALBUM:Perfect Velvet
+MUSICA:Bad Boy|ALBUM:The Perfect Red Velvet
+MUSICA:All Right|ALBUM:The Perfect Red Velvet
+MUSICA:Time To Love|ALBUM:The Perfect Red Velvet
+MUSICA:Marionette|ALBUM:Bloom
+MUSICA:WILDFLOWER|ALBUM:Bloom
+MUSICA:SAPPY|ALBUM:Bloom
+MUSICA:Jackpot|ALBUM:Bloom
+MUSICA:#Cookie Jar|ALBUM:Bloom
+MUSICA:Snap Snap|ALBUM:Bloom
+MUSICA:Sayonara|ALBUM:Bloom
+MUSICA:Aitai-tai|ALBUM:Bloom
+MUSICA:Color of Love|ALBUM:Bloom
+MUSICA:Chill Kill|ALBUM:Chill Kill
+MUSICA:Knock Knock (Who's There?)|ALBUM:Chill Kill
+MUSICA:Underwater|ALBUM:Chill Kill
+MUSICA:Will I Ever See You Again?|ALBUM:Chill Kill
+MUSICA:Nightmare|ALBUM:Chill Kill
+MUSICA:Iced Coffee|ALBUM:Chill Kill
+MUSICA:One Kiss|ALBUM:Chill Kill
+MUSICA:Bulldozer|ALBUM:Chill Kill
+MUSICA:Wings|ALBUM:Chill Kill
+MUSICA:Scenery|ALBUM:Chill Kill
+MUSICA:Ice Cream Cake|ALBUM:Ice Cream Cake
+MUSICA:Automatic|ALBUM:Ice Cream Cake
+MUSICA:One of These Nights|ALBUM:The Velvet
+MUSICA:Russian Roulette|ALBUM:Russian Roulette
+MUSICA:Rookie|ALBUM:Rookie
+MUSICA:Red Flavor|ALBUM:The Red Summer
+MUSICA:Power Up|ALBUM:Summer Magic
+MUSICA:RBB (Really Bad Boy)|ALBUM:RBB
+MUSICA:Zimzalabim|ALBUM:The ReVe Festival: Day 1
+MUSICA:Umpah Umpah|ALBUM:The ReVe Festival: Day 2
+MUSICA:Psycho|ALBUM:The ReVe Festival: Finale
+MUSICA:Queendom|ALBUM:Queendom
+MUSICA:Feel My Rhythm|ALBUM:The ReVe Festival 2022 - Feel My Rhythm
+MUSICA:Birthday|ALBUM:The ReVe Festival 2022 - Birthday
+MUSICA:Cosmic|ALBUM:Cosmic
+GENERO:Pop
+ARTISTA:Chappell Roan|Cidade:Willard|Anos:11|Ativo:1|Premios:0|Integrantes:Chappell Roan
+MUSICA:Good Hurt|ALBUM:School Nights - EP
+MUSICA:Meantime|ALBUM:School Nights - EP
+MUSICA:Die Young|ALBUM:School Nights - EP
+MUSICA:Bad For You|ALBUM:School Nights - EP
+MUSICA:Sugar High|ALBUM:School Nights - EP
+MUSICA:Pink Pony Club|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Femininomenon|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Red Wine Supernova|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:I Hate It Here|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Casual|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Super Graphic Ultra Modern Girl|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:HOT TO GO!|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:My Kink Is Karma|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Picture You|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Kaleidoscope|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:SGUMG|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:After Midnight|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Coffee|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Naked in Manhattan|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Guilty Pleasure|ALBUM:The Rise and Fall of a Midwest Princess
+GENERO:Synthpop
+ARTISTA:Chappell Roan|Cidade:Willard|Anos:11|Ativo:1|Premios:0|Integrantes:Chappell Roan
+MUSICA:Good Hurt|ALBUM:School Nights - EP
+MUSICA:Meantime|ALBUM:School Nights - EP
+MUSICA:Die Young|ALBUM:School Nights - EP
+MUSICA:Bad For You|ALBUM:School Nights - EP
+MUSICA:Sugar High|ALBUM:School Nights - EP
+MUSICA:Pink Pony Club|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Femininomenon|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Red Wine Supernova|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:I Hate It Here|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Casual|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Super Graphic Ultra Modern Girl|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:HOT TO GO!|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:My Kink Is Karma|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Picture You|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Kaleidoscope|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:SGUMG|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:After Midnight|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Coffee|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Naked in Manhattan|ALBUM:The Rise and Fall of a Midwest Princess
+MUSICA:Guilty Pleasure|ALBUM:The Rise and Fall of a Midwest Princess
+GENERO:Pop
+ARTISTA:girl in red|Cidade:Oslo|Anos:9|Ativo:1|Premios:3|Integrantes:Marie Ulven Ringheim
+MUSICA:i wanna be your girlfriend|ALBUM:chapter 1
+MUSICA:say anything|ALBUM:chapter 1
+MUSICA:summer depression|ALBUM:chapter 1
+MUSICA:4am|ALBUM:chapter 1
+MUSICA:girls|ALBUM:chapter 1
+MUSICA:watch you sleep.|ALBUM:chapter 2
+MUSICA:i need to be alone.|ALBUM:chapter 2
+MUSICA:dead girl in the pool.|ALBUM:chapter 2
+MUSICA:i'll die anyway.|ALBUM:chapter 2
+MUSICA:bad idea!|ALBUM:chapter 2
+MUSICA:we fell in love in october|ALBUM:if i could make it go quiet
+MUSICA:Serotonin|ALBUM:if i could make it go quiet
+MUSICA:Did You Come?|ALBUM:if i could make it go quiet
+MUSICA:Body and Mind|ALBUM:if i could make it go quiet
+MUSICA:hornylovesickmess|ALBUM:if i could make it go quiet
+MUSICA:midnight love|ALBUM:if i could make it go quiet
+MUSICA:You Stupid Bitch|ALBUM:if i could make it go quiet
+MUSICA:Rue|ALBUM:if i could make it go quiet
+MUSICA:Apartment 402|ALBUM:if i could make it go quiet
+MUSICA: . |ALBUM:if i could make it go quiet
+MUSICA:I'll Call You Mine|ALBUM:if i could make it go quiet
+MUSICA:it would feel like this|ALBUM:if i could make it go quiet
+MUSICA:DOING IT AGAIN BABY|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Too Much|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Phantom Pain|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:You Need Me Now?|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:A Night To Remember|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Living Emptiness|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Starstruck|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Ugly Side|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:New Love|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Pick Me|ALBUM:I'M DOING IT AGAIN BABY!
+GENERO:Indie Pop
+ARTISTA:girl in red|Cidade:Oslo|Anos:9|Ativo:1|Premios:3|Integrantes:Marie Ulven Ringheim
+MUSICA:i wanna be your girlfriend|ALBUM:chapter 1
+MUSICA:say anything|ALBUM:chapter 1
+MUSICA:summer depression|ALBUM:chapter 1
+MUSICA:4am|ALBUM:chapter 1
+MUSICA:girls|ALBUM:chapter 1
+MUSICA:watch you sleep.|ALBUM:chapter 2
+MUSICA:i need to be alone.|ALBUM:chapter 2
+MUSICA:dead girl in the pool.|ALBUM:chapter 2
+MUSICA:i'll die anyway.|ALBUM:chapter 2
+MUSICA:bad idea!|ALBUM:chapter 2
+MUSICA:we fell in love in october|ALBUM:if i could make it go quiet
+MUSICA:Serotonin|ALBUM:if i could make it go quiet
+MUSICA:Did You Come?|ALBUM:if i could make it go quiet
+MUSICA:Body and Mind|ALBUM:if i could make it go quiet
+MUSICA:hornylovesickmess|ALBUM:if i could make it go quiet
+MUSICA:midnight love|ALBUM:if i could make it go quiet
+MUSICA:You Stupid Bitch|ALBUM:if i could make it go quiet
+MUSICA:Rue|ALBUM:if i could make it go quiet
+MUSICA:Apartment 402|ALBUM:if i could make it go quiet
+MUSICA: . |ALBUM:if i could make it go quiet
+MUSICA:I'll Call You Mine|ALBUM:if i could make it go quiet
+MUSICA:it would feel like this|ALBUM:if i could make it go quiet
+MUSICA:DOING IT AGAIN BABY|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Too Much|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Phantom Pain|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:You Need Me Now?|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:A Night To Remember|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Living Emptiness|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Starstruck|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Ugly Side|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:New Love|ALBUM:I'M DOING IT AGAIN BABY!
+MUSICA:Pick Me|ALBUM:I'M DOING IT AGAIN BABY!

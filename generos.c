@@ -5,14 +5,14 @@
 
 // DEFINIÇÃO DAS ESTRUTURAS
 struct mus{
-    char nome[40];
-    char album[40];
+    char nome[70];
+    char album[70];
     struct mus *prox;
 };
 
 struct no1{
-    char nome[30];
-    char cidadeOrigem[30];
+    char nome[70];
+    char cidadeOrigem[70];
     int anosAtuacao;
     bool aindaAtua;
     int premiacoes;
@@ -23,7 +23,7 @@ struct no1{
 };
 
 struct no{
-    char nome[15];
+    char nome[70];
     struct no *ant;
     struct no *prox;
     Artista *listaArtistas;
@@ -125,7 +125,7 @@ Artista* buscarArtista(ListaGeneros *l, char nomeGenero[], char nomeArtista[]){
 void alterarNomeArtista(Artista *art, char novoNome[]){
     if(art != NULL){
         strcpy(art->nome, novoNome);
-    } 
+    }
 }
 void alterarCidadeArtista(Artista *art, char novaCidade[]){
     if(art != NULL){
@@ -198,9 +198,9 @@ void listarArtistas(ListaGeneros *l, char nomeGenero[]){
                atual->nome, atual->cidadeOrigem, atual->anosAtuacao,
                atual->premiacoes, atual->aindaAtua ? "Sim" : "Nao",
                atual->integrantes);
-        
+
         listarMusicasDoArtista(atual);
-        
+
         atual = atual->prox;
     }
 }
@@ -223,7 +223,7 @@ int contarArtistas(ListaGeneros *l, char nomeGenero[]) {
 void destruirArtistasDoGenero(Genero *gen){
     if(gen == NULL){
         return;
-    } 
+    }
 
     Artista *atual = gen->listaArtistas;
     Artista *prox;
@@ -253,7 +253,7 @@ void inserirGenero(ListaGeneros *l, char nome[]){
     if(l == NULL){
         printf("Erro ao inserir Genero - lista nula\n");
         return;
-    } 
+    }
 
     Genero *novo = (Genero*) malloc(sizeof(Genero));
     if(novo == NULL){
@@ -266,7 +266,7 @@ void inserirGenero(ListaGeneros *l, char nome[]){
     novo->listaArtistas = NULL;
     novo->prox = l->ini;
     novo->ant = NULL;
-    
+
     if(l->ini != NULL){
         l->ini->ant = novo;
     }
@@ -277,7 +277,7 @@ void inserirGenero(ListaGeneros *l, char nome[]){
 Genero* buscarGenero(ListaGeneros *l, char nome[]){
     if(l == NULL){
         return NULL;
-    } 
+    }
     Genero *atual = l->ini;
     while(atual!= NULL){
         if(strcmp(atual->nome, nome) == 0){
@@ -305,7 +305,7 @@ void alterarGenero(ListaGeneros *l, char nomeAntigo[], char nomeNovo[]){
 void removerGenero(ListaGeneros *l, char nome[]){
     if(l == NULL){
         return;
-    } 
+    }
 
     Genero *atual = buscarGenero(l, nome);
     if(atual == NULL){
@@ -315,7 +315,7 @@ void removerGenero(ListaGeneros *l, char nome[]){
 
     if(atual->ant != NULL){
         atual->ant->prox = atual->prox;
-    } 
+    }
     else{
         l->ini = atual->prox; // Se for o primeiro da lista
     }
@@ -441,11 +441,11 @@ void ordenarArtistasPorNome(ListaGeneros *l, char nomeGenero[]) {
     // Bubble Sort
     for (int i = 0; i < tamanho - 1; i++) {
         for (Artista *atual = gen->listaArtistas; atual != NULL && atual->prox != NULL; atual = atual->prox) {
-            
+
 
             if (strcmp(atual->nome, atual->prox->nome) > 0) {
-                
-                char tempNome[30], tempCidade[30], tempIntegrantes[200];
+
+                char tempNome[70], tempCidade[70], tempIntegrantes[200];
                 strcpy(tempNome, atual->nome);
                 strcpy(tempCidade, atual->cidadeOrigem);
                 strcpy(tempIntegrantes, atual->integrantes);
@@ -479,7 +479,7 @@ void ordenarArtistasPorNome(ListaGeneros *l, char nomeGenero[]) {
     }
 }
 
-// Gera um relatorio sintetizado 
+// Gera um relatorio sintetizado
 void gerarRelatorioGeral(ListaGeneros *l){
     if (l == NULL || l->ini == NULL){
         printf("\nNenhum dado cadastrado para gerar relatório.\n");
@@ -555,7 +555,7 @@ void gerarTop3Generos(ListaGeneros *l){
         limite = totalGeneros;
     }
 
-    
+
     Genero *selecionados[3] = {NULL, NULL, NULL};
 
     for (int i = 0; i < limite; i++){

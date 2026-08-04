@@ -24,7 +24,7 @@ void lerString(char *buffer, int tamanho){
 }
 
 void menuAlterarArtista(ListaGeneros *l){
-    char nomeGenero[30], nomeArtista[30];
+    char nomeGenero[70], nomeArtista[70];
 
     printf("\n--- ALTERAR ARTISTA ---\n");
     printf("Nome do Genero do artista: ");
@@ -155,7 +155,7 @@ void executarMenuPrincipal(ListaGeneros *l){
 
         switch (opcao){
         case 1:{
-            char nome[15];
+            char nome[70];
             printf("Nome do novo Genero: ");
             lerString(nome, sizeof(nome));
             inserirGenero(l, nome);
@@ -165,7 +165,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             listarGeneros(l);
             break;
         case 3:{
-            char antigo[15], novo[15];
+            char antigo[70], novo[70];
             printf("Nome do Genero atual: ");
             lerString(antigo, sizeof(antigo));
             printf("Novo nome para o Genero: ");
@@ -174,7 +174,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             break;
         }
         case 4:{
-            char nome[15];
+            char nome[70];
             printf("Nome do Genero a remover: ");
             lerString(nome, sizeof(nome));
             removerGenero(l, nome);
@@ -184,13 +184,13 @@ void executarMenuPrincipal(ListaGeneros *l){
             printf("\nTotal de generos cadastrados: %d\n", contarGeneros(l));
             break;
         case 6:{
-            char genNome[15], nomeArt[30], cidade[30], integrantes[200];
+            char genNome[70], nomeArt[70], cidade[70], integrantes[200];
             int anos, premios, ativoInt;
 
             printf("Em qual Genero deseja cadastrar? ");
             lerString(genNome, sizeof(genNome));
 
-           
+
             if (buscarGenero(l, genNome) == NULL){
                 printf("Genero '%s' nao foi encontrado!\n", genNome);
                 break;
@@ -217,39 +217,39 @@ void executarMenuPrincipal(ListaGeneros *l){
             printf("Integrantes (separados por virgula): ");
             lerString(integrantes, sizeof(integrantes));
 
-           
+
             inserirArtista(l, genNome, nomeArt, cidade, anos, ativoInt == 1, premios, integrantes);
 
-          
+
             Artista *artCriado = buscarArtista(l, genNome, nomeArt);
 
-         
+
             if (artCriado != NULL){
                 int qtdMusicas;
                 printf("\nQuantas musicas deseja cadastrar para %s? ", nomeArt);
                 scanf("%d", &qtdMusicas);
-                getchar(); 
+                getchar();
 
                 for (int i = 0; i < qtdMusicas; i++) {
-                    char nomeMusica[40], album[40];
+                    char nomeMusica[70], album[70];
 
                     printf("\n--- Musica %d de %d ---\n", i + 1, qtdMusicas);
-                    
+
                     printf("Nome da musica: ");
                     lerString(nomeMusica, sizeof(nomeMusica));
 
                     printf("Nome do album: ");
                     lerString(album, sizeof(album));
 
-                  
+
                     inserirMusica(artCriado, nomeMusica, album);
-                    
+
                 }
             }
             break;
         }
         case 7:{
-            char genNome[15];
+            char genNome[70];
             printf("Nome do Genero: ");
             lerString(genNome, sizeof(genNome));
             listarArtistas(l, genNome);
@@ -259,7 +259,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             menuAlterarArtista(l);
             break;
         case 9:{
-            char genNome[15], artNome[30];
+            char genNome[70], artNome[70];
             printf("Nome do Genero: ");
             lerString(genNome, sizeof(genNome));
             printf("Nome do Artista a remover: ");
@@ -268,7 +268,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             break;
         }
         case 10:{
-            char genNome[15];
+            char genNome[70];
             printf("Nome do Genero: ");
             lerString(genNome, sizeof(genNome));
             printf("\nTotal de artistas em '%s': %d\n", genNome, contarArtistas(l, genNome));
@@ -281,7 +281,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             buscarArtistasEmMultiplosGeneros(l);
             break;
         case 13:{
-            char genNome[15];
+            char genNome[70];
             printf("Nome do Genero para ordenar: ");
             lerString(genNome, sizeof(genNome));
             ordenarArtistasPorNome(l, genNome);
@@ -294,7 +294,7 @@ void executarMenuPrincipal(ListaGeneros *l){
             gerarTop3Generos(l);
             break;
         case 16:{
-            char genNome[15];
+            char genNome[70];
             int premios;
             printf("Nome do Genero: ");
             lerString(genNome, sizeof(genNome));
